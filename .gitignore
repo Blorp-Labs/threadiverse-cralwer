@@ -13,5 +13,6 @@
 .pnp.*
 
 node_modules/
+storage/
 
 .DS_Store

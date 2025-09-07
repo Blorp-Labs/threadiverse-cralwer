@@ -192,7 +192,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@crawlee/core@npm:3.14.1":
+"@crawlee/core@npm:3.14.1, @crawlee/core@npm:^3.14.1":
   version: 3.14.1
   resolution: "@crawlee/core@npm:3.14.1"
   dependencies:
@@ -3409,6 +3409,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "threadiverse-crawler@workspace:."
   dependencies:
+    "@crawlee/core": "npm:^3.14.1"
     "@tanstack/pacer": "npm:^0.15.1"
     "@types/asciichart": "npm:^1.5.8"
     "@types/lodash": "npm:^4"

@@ -1,10 +1,10 @@
 import z from 'zod'
-import { asyncQueue, AsyncQueuer } from '@tanstack/pacer'
 import _ from 'lodash'
 import chalk from 'chalk';
 import { dateLessThanOneMonthAgo } from './utils/date';
-import * as asciichart from "asciichart";
-import { BasicCrawler } from "crawlee";
+import { BasicCrawler, Dataset, RequestQueue } from "crawlee";
+import { BaseHttpClient, Log } from "@crawlee/core";
+import fs from 'node:fs/promises'
 
 const VERBOSE_LEVEL = 0;
 const KNOWN = new Set<string>;
@@ -71,145 +71,125 @@ const federatedInstancesSchema = z.object({
   })
 })
 
-async function get<S extends z.ZodObject>(url: string, schema: S) {
-  try {
-    verboseLog(2, `GET ${url}`)
-    const res = await fetch(url, { signal: AbortSignal.timeout(5000) })
-    const json = await res.json()
-    return schema.parse(json)
-  } catch (err) {
-    // verboseLog(1, JSON.stringify(err))
-    throw err;
-  }
-}
-
-const discovered: {
+type Instance = {
   url: string,
   host: string,
   description?: string,
   icon?: string,
   software: "lemmy" | "piefed"
   registrationMode: string,
-}[] = [];
+};
 
-const processQueueItem = _.memoize(async (instance: string): Promise<string | null> => {
-  KNOWN.add(instance);
-  try {
-    instance = normalizeInstance(instance);
+async function crawl() {
+  const dataset = await Dataset.open();
 
-    const host = new URL(instance).host;
+  const requestQueue = await RequestQueue.open();
 
-    const nodeInfo = await get(`${instance}/nodeinfo/2.1`, nodeInfoSchema)
+  const processQueueItem = async (
+    instance: string,
+    sendRequest: BaseHttpClient['sendRequest'],
+    log: Log
+  ) => {
+    KNOWN.add(instance);
 
-    const explore = (res: z.infer<typeof federatedInstancesSchema>) => {
-      for (const linked of res.federated_instances.linked) {
-        const updated = linked.updated ?? linked.published;
-        if (linked.software && isSupportedSoftware(linked.software) && updated && dateLessThanOneMonthAgo(updated)) {
-          verboseLog(2, "Found: ", linked.domain)
-          queue(normalizeInstance(linked.domain))
-        }
-      }
+    async function get<S extends z.ZodObject>(url: string, schema: S) {
+      const nodeInfoReq = await sendRequest({
+        url,
+        method: "GET"
+      })
+      return schema.parse(JSON.parse(nodeInfoReq.body))
     }
 
-    switch (nodeInfo.software.name) {
-      case "lemmy": {
-        if (nodeInfo.software.version.startsWith("1.")) {
-          // const federatedInstances = await get(`${instance}/api/v4/federated_instances`, federatedInstancesSchema)
-          // explore(federatedInstances)
-        } else {
-          const federatedInstances = await get(`${instance}/api/v3/federated_instances`, federatedInstancesSchema)
+    try {
+      instance = normalizeInstance(instance);
+
+      const host = new URL(instance).host;
+
+      const nodeInfo = await get(
+        `${instance}/nodeinfo/2.1`,
+        nodeInfoSchema
+      )
+
+      const explore = (res: z.infer<typeof federatedInstancesSchema>) => {
+        for (const linked of res.federated_instances.linked) {
+          const updated = linked.updated ?? linked.published;
+          if (linked.software && isSupportedSoftware(linked.software) && updated && dateLessThanOneMonthAgo(updated)) {
+            verboseLog(2, "Found: ", linked.domain)
+            requestQueue.addRequests([normalizeInstance(linked.domain)])
+          }
+        }
+      }
+
+      switch (nodeInfo.software.name) {
+        case "lemmy": {
+          if (nodeInfo.software.version.startsWith("1.")) {
+            // const federatedInstances = await get(`${instance}/api/v4/federated_instances`, federatedInstancesSchema)
+            // explore(federatedInstances)
+          } else {
+            const federatedInstances = await get(`${instance}/api/v3/federated_instances`, federatedInstancesSchema)
+            explore(federatedInstances)
+            const site = await get(`${instance}/api/v3/site`, lemmySiteV3)
+            Dataset.pushData({
+              url: instance,
+              host,
+              description: site.site_view.site.description,
+              icon: site.site_view.site.icon,
+              software: "lemmy",
+              registrationMode: site.site_view.local_site.registration_mode,
+            })
+          }
+          break;
+        }
+        case "piefed": {
+          const federatedInstances = await get(`${instance}/api/v1/federated_instances`, federatedInstancesSchema)
           explore(federatedInstances)
-          const site = await get(`${instance}/api/v3/site`, lemmySiteV3)
-          // discovered.push({
-          //   url: instance,
-          //   host,
-          //   description: site.site_view.site.description,
-          //   icon: site.site_view.site.icon,
-          //   software: "lemmy",
-          //   registrationMode: site.site_view.local_site.registration_mode,
-          // })
+          const site = await get(`${instance}/api/alpha/site`, pieFedSiteV3)
+          Dataset.pushData({
+            url: instance,
+            host,
+            description: site.site.description,
+            icon: site.site.icon,
+            software: "lemmy",
+            registrationMode: site.site.registration_mode,
+          })
+          break;
         }
-        break;
       }
-      case "piefed": {
-        const federatedInstances = await get(`${instance}/api/v1/federated_instances`, federatedInstancesSchema)
-        explore(federatedInstances)
-        const site = await get(`${instance}/api/alpha/site`, pieFedSiteV3)
-        // discovered.push({
-        //   url: instance,
-        //   host,
-        //   description: site.site.description,
-        //   icon: site.site.icon,
-        //   software: "lemmy",
-        //   registrationMode: site.site.registration_mode,
-        // })
-        break;
-      }
-    }
-  } catch {
-    return null;
-  }
-});
+    } catch { }
+  };
 
-const progress: {
-  known: number,
-  visited: number,
-}[] = [{
-  known: 0,
-  visited: 0,
-}];
-
-let i = 0;
-function reportProgress() {
-  progress[i % 100] = ({
-    known: KNOWN.size,
-    visited: discovered.length,
-  })
-  i++;
-
-  const colors = [asciichart.blue, asciichart.green];
-
-  const chart = asciichart.plot([progress.map(p => p.visited), progress.map(p => p.known - p.visited)], {
-    height: 10,
-    colors,
+  const crawler = new BasicCrawler({
+    requestQueue,
+    maxConcurrency: 50,
+    minConcurrency: 5,
+    requestHandlerTimeoutSecs: 10_000,
+    // limit per host:
+    // use RequestQueue with same hostname keys or run multiple crawlers per host
+    requestHandler: async ({ request, log, sendRequest }) => {
+      await processQueueItem(request.url, sendRequest, log)
+    },
   });
 
-  console.clear();
-  console.log(chart);
-}
+  const id1 = setInterval(() => {
+    crawler.autoscaledPool.abort();
+  }, 20 * 60 * 1000)
 
-const queue = asyncQueue(
-  processQueueItem,
-  {
-    concurrency: 30,
-    onSettled: _.debounce((_1, queue: AsyncQueuer<string>) => {
-      if (queue.peekAllItems().length === 0) {
-        process.exit(0)
-      }
-    }, 500)
+  const write = async () => {
+    const { items } = await dataset.getData();
+    await fs.writeFile("all-discovered.json", JSON.stringify(items, null, 2));
   }
-)
 
-const FRAME_MS = 1000 / 30;
+  const id2 = setTimeout(() => {
+    write();
+  }, 10_000)
 
-function frameLoop() {
-  const start = Date.now();
+  await crawler.run([
+    "https://lemmy.world",
+    "https://lemmy.zip",
+  ]);
 
-  // do your “frame work” here
-  update();
-
-  const elapsed = Date.now() - start;
-  setTimeout(frameLoop, Math.max(0, FRAME_MS - elapsed));
+  clearInterval(id1)
+  clearTimeout(id2)
+  write();
 }
-
-function update() {
-  reportProgress();
-}
-
-frameLoop();
-
-// const dataPath = path.join(__dirname, "data.json")
-// fs.writeFile(dataPath, JSON.stringify(discovered, null, 2))
-
-queue("https://lemmy.world");
-queue("https://lemmy.zip");
+crawl();

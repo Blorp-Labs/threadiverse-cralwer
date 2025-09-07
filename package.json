@@ -6,6 +6,7 @@
     "dev": "nodemon --ignore data.json"
   },
   "dependencies": {
+    "@crawlee/core": "^3.14.1",
     "@tanstack/pacer": "^0.15.1",
     "@types/node": "^24.3.1",
     "asciichart": "^1.5.25",

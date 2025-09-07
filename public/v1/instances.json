@@ -1,0 +1,565 @@
+[
+  {
+    "url": "https://lemmy.ml",
+    "host": "lemmy.ml",
+    "description": "A community of privacy and FOSS enthusiasts, run by Lemmy’s developers",
+    "icon": "https://lemmy.ml/pictrs/image/fa6d9660-4f1f-4e90-ac73-b897216db6f3.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.zip",
+    "host": "lemmy.zip",
+    "description": "A Lemmy community for everyone, with a focus towards tech, PCs, and gaming.",
+    "icon": "https://lemmy.zip/pictrs/image/1ad1e0a0-b90e-47da-a68e-41989fa79c32.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.world",
+    "host": "lemmy.world",
+    "description": "A generic Lemmy server for everyone to use.",
+    "icon": "https://lemmy.world/pictrs/image/0fd47927-ca3a-4d2c-b2e4-a25353786671.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://anarchist.nexus",
+    "host": "anarchist.nexus",
+    "description": "No Gods, no Masters — just each other.",
+    "icon": "https://anarchist.nexus/static/media/logo_h4QCO_100.png",
+    "software": "piefed",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://piefed.world",
+    "host": "piefed.world",
+    "description": "A generic PieFed server for everyone to use.",
+    "icon": "https://piefed.world/static/images/piefed_logo_icon_t_75.png",
+    "software": "piefed",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://leminal.space",
+    "host": "leminal.space",
+    "description": "Take a break from the slow-burn apocalypse of late stage capitalism's race to the bottom",
+    "icon": "https://leminal.space/pictrs/image/769c757a-3298-45ef-828a-25e5a7c27373.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://crazypeople.online",
+    "host": "crazypeople.online",
+    "description": "A digital retreat from a world gone mad.",
+    "icon": "https://crazypeople.online/pictrs/image/fde1826b-6959-443c-8e58-4199ec355bcf.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.it",
+    "host": "feddit.it",
+    "description": "La migliore alternativa italiana e decentralizzata a Reddit, benvenutǝ!",
+    "icon": "https://feddit.it/pictrs/image/ab61b750-22e1-4fd8-b198-df1c1028e03f.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://mujico.org",
+    "host": "mujico.org",
+    "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
+    "icon": "https://mujico.org/pictrs/image/f78f4ff7-3e48-414f-abf1-102e87e72682.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://thelemmy.club",
+    "host": "thelemmy.club",
+    "description": "A general Lemmy instance for all!",
+    "icon": "https://thelemmy.club/pictrs/image/2f9791e3-7e1f-461d-9696-d89d77299124.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://tarte.nuage-libre.fr",
+    "host": "tarte.nuage-libre.fr",
+    "description": "Instance PieFed francophone autohébergé",
+    "icon": "https://tarte.nuage-libre.fr/static/media/logo_nFN7R.svg",
+    "software": "piefed",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://eviltoast.org",
+    "host": "eviltoast.org",
+    "description": "EvilToast.org is a dynamic online community dedicated to fostering insightful discussions and knowledge sharing across technology, gaming, programming",
+    "icon": "https://eviltoast.org/pictrs/image/f8099b5e-9896-495f-bef7-d7bfc97884f3.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://piefed.ca",
+    "host": "piefed.ca",
+    "description": "A Canadian-run community, geared towards Canadians, but all are welcome!",
+    "icon": "https://piefed.ca/static/media/logo_VpG9e_100.png",
+    "software": "piefed",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.online",
+    "host": "feddit.online",
+    "description": "Explore Anything, Discuss Everything",
+    "icon": "https://feddit.online/static/images/piefed_logo_icon_t_75.png",
+    "software": "piefed",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://diggita.com",
+    "host": "diggita.com",
+    "description": "Giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024",
+    "icon": "https://diggita.com/pictrs/image/7c2c6fb8-9051-468f-b083-1171417dc2ca.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmus.org",
+    "host": "lemmus.org",
+    "description": "General purpose Lemmy instance. Fast & Free for all to use!",
+    "icon": "https://lemmus.org/pictrs/image/5f43852c-de02-4f35-81ba-cb735d7dc16f.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://sh.itjust.works",
+    "host": "sh.itjust.works",
+    "description": "A bilingual (EN/FR) general-purpose instance located in eastern Canada! Powered by 99% renewable energy! Everyone is welcome eh.",
+    "icon": "https://sh.itjust.works/pictrs/image/fb4c11a2-f533-4b0b-8f74-466132d93c72.webp",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://szmer.info",
+    "host": "szmer.info",
+    "description": "Największa polskojęzyczna instancja Lemmiego.",
+    "icon": "https://szmer.info/pictrs/image/XcQWr0D2CU.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://scribe.disroot.org",
+    "host": "scribe.disroot.org",
+    "description": "Disroot's Community Lemmy Instance",
+    "icon": "https://scribe.disroot.org/pictrs/image/924a9b6c-bca5-4851-aadd-855b22cef9f0.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.eco.br",
+    "host": "lemmy.eco.br",
+    "description": "Uma instância de Lemmy para todos os brasileiros.",
+    "icon": "https://lemmy.eco.br/pictrs/image/6d1f1752-1387-423b-a0ca-cee3589130f6.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.nl",
+    "host": "feddit.nl",
+    "description": "A Dutch Lemmy instance hosted by @tedvdb",
+    "icon": "https://feddit.nl/pictrs/image/37f292a9-c706-424d-860d-ffdb818d9b17.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.cl",
+    "host": "feddit.cl",
+    "description": "Instancia chilena de Lemmy en el Fediverse. ¡Comunidades centradas en Chile y de habla hispana son bienvenidas! Hablamos español e inglés.",
+    "icon": "https://feddit.cl/pictrs/image/13adb7bb-c0aa-4f33-9cbe-f14068733387.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://sopuli.xyz",
+    "host": "sopuli.xyz",
+    "description": "A general-purpose instance run by a Finn - everyone is welcome here!",
+    "icon": "https://sopuli.xyz/pictrs/image/9c6eeb58-bf66-4a15-9537-0a822f3c4feb.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://ani.social",
+    "host": "ani.social",
+    "description": "A Social Hub for Anime Fans!",
+    "icon": "https://ani.social/pictrs/image/a9b3073a-a90a-4f6a-a6d9-99a347eb2deb.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://literature.cafe",
+    "host": "literature.cafe",
+    "description": "A Cozy Place for Book Lovers, Readers And Writers",
+    "icon": "https://literature.cafe/pictrs/image/941180b9-e8ad-436d-8aa7-45e321b30ed6.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemy.lol",
+    "host": "lemy.lol",
+    "description": "Best instance of fediverse 😎",
+    "icon": "https://lemy.lol/pictrs/image/6efeae75-9642-4383-902a-cc271693b9c2.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://startrek.website",
+    "host": "startrek.website",
+    "description": "A Lemmy instance operated by ex-Reddit moderators from the StarTrek, Risa, and Daystrom Institute communities",
+    "icon": "https://startrek.website/pictrs/image/6b738eff-608a-4d58-90a8-1ed99327afd5.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.dk",
+    "host": "feddit.dk",
+    "description": "Et dansk forum for alle interesser og emner.",
+    "icon": "https://feddit.dk/pictrs/image/1e01d540-1366-44f8-b8a2-bc948d596c49.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://quokk.au",
+    "host": "quokk.au",
+    "description": "What The Quokk!",
+    "icon": "https://quokk.au/static/media/logo_nWX2g_100.webp",
+    "software": "piefed",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://monero.town",
+    "host": "monero.town",
+    "description": "A town for the Monero community to live in.",
+    "icon": "https://monero.town/pictrs/image/ce9a9e10-6858-4096-87a1-cb32f7bb91b0.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.nu",
+    "host": "feddit.nu",
+    "description": "En svensk Lemmy-instans",
+    "icon": "https://feddit.nu/pictrs/image/cc741c84-ac05-4e84-9030-c5bce44f08d9.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.uk",
+    "host": "feddit.uk",
+    "description": "A UK centric gateway into the fediverse.",
+    "icon": "https://feddit.uk/pictrs/image/1108a696-0e37-442e-aade-3a9b6f828d75.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.org",
+    "host": "feddit.org",
+    "icon": "https://feddit.org/pictrs/image/3040be45-1c62-4f5a-8786-aeee71ad37e8.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.today",
+    "host": "lemmy.today",
+    "description": "A fast, general purpose instance located in Oregon, USA",
+    "icon": "https://lemmy.today/pictrs/image/1207acb9-287a-40ff-b2b7-52db0636bbb0.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://discuss.online",
+    "host": "discuss.online",
+    "description": "A general purpose instance for discovery, fun, & sharing. It's a welcoming place for all.",
+    "icon": "https://discuss.online/pictrs/image/1bbc1cb7-3eb1-484a-aeb9-e2b803a3e50a.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://retrolemmy.com",
+    "host": "retrolemmy.com",
+    "description": "Your home away from modern life. Retro Gaming, tech, news, magazines and more!",
+    "icon": "https://retrolemmy.com/pictrs/image/e8dd9e28-74bd-4ebc-8bfb-c1c88bdf97ab.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://piefed.blahaj.zone",
+    "host": "piefed.blahaj.zone",
+    "description": "A PieFed instance for gender diverse folk and their allies. ",
+    "icon": "https://piefed.blahaj.zone/static/media/logo_fKhas_100.webp",
+    "software": "piefed",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://piefed.au",
+    "host": "piefed.au",
+    "description": "Explore Anything, Discuss Everything.",
+    "icon": "https://piefed.au/static/images/piefed_logo_icon_t_75.png",
+    "software": "piefed",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://beehaw.org",
+    "host": "beehaw.org",
+    "description": "Aspiring to be(e) a safe, friendly and diverse place.",
+    "icon": "https://beehaw.org/img/logo_192.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://discuss.tchncs.de",
+    "host": "discuss.tchncs.de",
+    "description": "Enjoy your favorite Lemmy communities at tchncs! This instance is general purpose but it tends to attract techy people. It is hosted in Germany.",
+    "icon": "https://discuss.tchncs.de/pictrs/image/2254acd7-9ce1-4b07-b334-15631f2847e2.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.one",
+    "host": "lemmy.one",
+    "description": "The better front page of the internet",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://europe.pub",
+    "host": "europe.pub",
+    "description": "European hosted decentralized Network",
+    "icon": "https://europe.pub/pictrs/image/d274e6dd-e752-4f6f-8c40-2af139c531c3.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.pt",
+    "host": "lemmy.pt",
+    "description": "Uma instância pública de Lemmy dedicada a toda a comunidade de Língua Portuguesa.",
+    "icon": "https://lemmy.pt/pictrs/image/6670473c-f67d-4cc0-bb22-6b0f8a7c6d02.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://reddthat.com",
+    "host": "reddthat.com",
+    "description": "A general Lemmy instance prioritising thoughtful communication and enjoyable communities. No email required and New communities always welcome!",
+    "icon": "https://reddthat.com/pictrs/image/42d90347-70ff-42ef-a521-c0b8f2d94933.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.myserv.one",
+    "host": "lemmy.myserv.one",
+    "description": "Users are encouraged to join this Lemmy Server. This Lemmy server was setup to help reduce load on other Lemmy servers.",
+    "icon": "https://i.imgur.com/3tSHsoS.jpg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.nz",
+    "host": "lemmy.nz",
+    "description": "Lemmy for New Zealanders",
+    "icon": "https://lemmy.nz/pictrs/image/d308ef8d-4381-4a7a-b047-569ed5b8dd88.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://futurology.today",
+    "host": "futurology.today",
+    "description": "A community devoted to the field of Future(s) Studies and evidence-based speculation about the development of humanity, technology, and civilization. ",
+    "icon": "https://futurology.today/pictrs/image/a8262eef-de82-4cdb-8b7c-122fcba74041.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://slrpnk.net",
+    "host": "slrpnk.net",
+    "description": "Solarpunk imagines a world in which today’s existential threat - the climate crisis - is being approached with camaraderie and adaptive ingenuity.",
+    "icon": "https://slrpnk.net/pictrs/image/bb8631b7-231b-4709-823d-fa4c8e201866.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.blahaj.zone",
+    "host": "lemmy.blahaj.zone",
+    "description": "A general purpose lemmy instance for gender diverse folk and their allies. ",
+    "icon": "https://lemmy.blahaj.zone/pictrs/image/3e1a4ae0-fd38-4ea5-b9ca-da069cded5d7.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://awful.systems",
+    "host": "awful.systems",
+    "description": "the jank is a feature",
+    "icon": "https://awful.systems/pictrs/image/31f04c12-f14b-486b-ba4f-8810789fb131.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://pawb.social",
+    "host": "pawb.social",
+    "description": "Fediverse Communities For Furries By Furries.",
+    "icon": "https://pawb.social/pictrs/image/80151cb7-e0a4-4e58-93da-d23a4d1dc38e.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.sdf.org",
+    "host": "lemmy.sdf.org",
+    "description": "A Lemmy instance hosted by the SDF.ORG",
+    "icon": "https://lemmy.sdf.org/pictrs/image/28cea32f-f1f8-4225-97a4-58542dd4ffd5.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.org",
+    "host": "lemmy.org",
+    "description": "General purpose Lemmy instance.",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmings.world",
+    "host": "lemmings.world",
+    "description": "Lemmy instance for all Lemmings (aka general purpose instance for everyone)!",
+    "icon": "https://lemmings.world/pictrs/image/2fdcd3ab-35ce-4f70-9eb4-6239c4409c60.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://piefed.zip",
+    "host": "piefed.zip",
+    "description": "Explore Anything, Discuss Everything.",
+    "icon": "https://piefed.zip/static/images/piefed_logo_icon_t_75.png",
+    "software": "piefed",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.cafe",
+    "host": "lemmy.cafe",
+    "description": "A general purpose fediverse instance",
+    "icon": "https://lemmy.cafe/static-img/site-icon.webp",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://ttrpg.network",
+    "host": "ttrpg.network",
+    "description": "a site dedicated to TTRPG discussion, memes, news, etc.",
+    "icon": "https://ttrpg.network/pictrs/image/508a8912-7784-47ca-810b-65c9ce72c599.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://jlai.lu",
+    "host": "jlai.lu",
+    "description": "Instance Lemmy française, un forum de discussion pour tous les français et francophones !",
+    "icon": "https://jlai.lu/pictrs/image/bff3e14d-7147-4443-bb8f-8844b91db549.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.ca",
+    "host": "lemmy.ca",
+    "description": "A Canadian-run community, geared towards Canadians, but all are welcome!",
+    "icon": "https://lemmy.ca/pictrs/image/972a47e9-05be-40d0-b5ea-36c81a43b56b.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://hexbear.net",
+    "host": "hexbear.net",
+    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
+    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://programming.dev",
+    "host": "programming.dev",
+    "description": "A collection of programming communities",
+    "icon": "https://programming.dev/pictrs/image/1e947440-0f0d-4768-ba4b-1480551e7cc9.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://piefed.social",
+    "host": "piefed.social",
+    "description": "Explore Anything, Discuss Everything.",
+    "icon": "https://piefed.social/static/media/logo_8p7en.svg",
+    "software": "piefed",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmynsfw.com",
+    "host": "lemmynsfw.com",
+    "description": "NSFW (18+) only instance for Lemmy",
+    "icon": "https://lemmynsfw.com/pictrs/image/76ea302e-6e86-486f-8ec2-0142b7eabb1f.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://infosec.pub",
+    "host": "infosec.pub",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmygrad.ml",
+    "host": "lemmygrad.ml",
+    "description": "A collection of Marxist communities, for memes, learning, news, discussion, media, or anything you like.",
+    "icon": "https://lemmygrad.ml/pictrs/image/beb2f32d-8884-49a4-b21c-7e3582c09b87.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://midwest.social",
+    "host": "midwest.social",
+    "description": "A lemmy server for, but not limited to, leftists in the Midwest USA",
+    "icon": "https://midwest.social/pictrs/image/e2a28e91-529b-46ac-8fe7-e0e22a8b517a.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.kya.moe",
+    "host": "lemmy.kya.moe",
+    "description": "\"Personal\" Lemmy Instance",
+    "icon": "https://lemmy.kya.moe/imgproxy?src=lemmy.kya.moe%2fpictrs/image/1bc6d963-78f6-4be6-a269-2bc466808b86.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.dbzer0.com",
+    "host": "lemmy.dbzer0.com",
+    "description": "Be Weird, Download a Car, Generate Art, Screw Copyrights, Do Maths",
+    "icon": "https://lemmy.dbzer0.com/pictrs/image/c9915186-ca30-4f5a-873c-a91287fb4419.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://mander.xyz",
+    "host": "mander.xyz",
+    "description": "An instance dedicated to nature and science.",
+    "icon": "https://mander.xyz/pictrs/image/2fc86ef3-797e-4bcd-bcca-e75cdf0959f9.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://www.hexbear.net",
+    "host": "www.hexbear.net",
+    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
+    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://www.chapo.chat",
+    "host": "www.chapo.chat",
+    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
+    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  }
+]

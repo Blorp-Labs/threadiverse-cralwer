@@ -3,6 +3,7 @@ import _ from 'lodash'
 import { dateLessThanOneMonthAgo } from './utils/date';
 import { BasicCrawler, Dataset, RequestQueue } from "crawlee";
 import fs from 'node:fs/promises'
+import path from 'node:path';
 
 const MIN_MAU = 20;
 
@@ -32,6 +33,7 @@ const lemmySiteV3 = z.object({
     }),
     local_site: z.object({
       registration_mode: z.string(),
+      private_instance: z.boolean(),
     }),
     counts: z.object({
       users_active_month: z.number()
@@ -115,7 +117,7 @@ async function crawl() {
             const federatedInstances = await get(`${instance}/api/v3/federated_instances`, federatedInstancesSchema)
             await explore(federatedInstances)
             const site = await get(`${instance}/api/v3/site`, lemmySiteV3)
-            if (site.site_view.counts.users_active_month >= MIN_MAU) {
+            if (site.site_view.counts.users_active_month >= MIN_MAU && !site.site_view.local_site.private_instance) {
               await Dataset.pushData<Instance>({
                 url: instance,
                 host,
@@ -132,7 +134,7 @@ async function crawl() {
           const federatedInstances = await get(`${instance}/api/v3/federated_instances`, federatedInstancesSchema)
           await explore(federatedInstances)
           const site = await get(`${instance}/api/v3/site`, pieFedSiteV3)
-          if (site.site_view.counts.users_active_month >= MIN_MAU) {
+          if (site.site_view.counts.users_active_month >= MIN_MAU && !site.site_view.local_site.private_instance) {
             await Dataset.pushData<Instance>({
               url: instance,
               host,
@@ -160,7 +162,10 @@ async function crawl() {
 
   const write = async () => {
     const { items } = await dataset.getData();
-    await fs.writeFile("all-discovered.json", JSON.stringify(items, null, 2));
+    const outPath = path.join(process.cwd(), "public", "v1");
+    await fs.mkdir(outPath, { recursive: true });
+    await fs.writeFile(path.join(outPath, "instances.json"), JSON.stringify(items, null, 2));
+    await fs.writeFile(path.join(outPath, "instances.min.json"), JSON.stringify(items));
   }
 
   await crawler.run([

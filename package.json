@@ -3,7 +3,8 @@
   "packageManager": "yarn@4.6.0",
   "main": "./cralwer.ts",
   "scripts": {
-    "dev": "nodemon --ignore data.json"
+    "dev": "nodemon --ignore data.json",
+    "start": "ts-node ."
   },
   "dependencies": {
     "@types/node": "^24.3.1",

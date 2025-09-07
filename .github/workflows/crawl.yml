@@ -1,0 +1,57 @@
+name: Daily Crawl & Publish
+
+on:
+  schedule:
+    # Daily at 06:00 UTC (1–2 AM ET depending on DST)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write  # allow pushing with GITHUB_TOKEN
+
+concurrency:
+  group: daily-crawl
+  cancel-in-progress: false
+
+jobs:
+  run-and-commit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20  # abort job if it runs longer than 20 minutes
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "yarn"
+
+      - name: Install deps
+        run: yarn install --frozen-lockfile
+
+      - name: Run crawler (yarn start)
+        run: yarn start
+
+      - name: Commit changes in public/ (if any)
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage only public/ outputs
+          git add -A public/
+
+          if git diff --cached --quiet; then
+            echo "No changes in public/ — nothing to commit."
+            exit 0
+          fi
+
+          ts=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          git commit -m "chore(data): update public output (${ts}) [skip ci]"
+          git push origin HEAD:main

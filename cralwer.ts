@@ -150,6 +150,15 @@ async function crawl() {
     },
   });
 
+  const write = async () => {
+    const items = (await dataset.getData()).items as Instance[];
+    const sorted = _.sortBy(items, 'host')
+    const outPath = path.join(process.cwd(), "public", "v1");
+    await fs.mkdir(outPath, { recursive: true });
+    await fs.writeFile(path.join(outPath, "instances.json"), JSON.stringify(sorted, null, 2));
+    await fs.writeFile(path.join(outPath, "instances.min.json"), JSON.stringify(sorted));
+  }
+
   const id2 = setInterval(() => {
     write();
   }, 10_000)
@@ -159,14 +168,6 @@ async function crawl() {
     crawler.autoscaledPool.abort();
     console.log("STOPPING CRAWLER DUE TO TIMEOUT")
   }, 20 * 60 * 1000)
-
-  const write = async () => {
-    const { items } = await dataset.getData();
-    const outPath = path.join(process.cwd(), "public", "v1");
-    await fs.mkdir(outPath, { recursive: true });
-    await fs.writeFile(path.join(outPath, "instances.json"), JSON.stringify(items, null, 2));
-    await fs.writeFile(path.join(outPath, "instances.min.json"), JSON.stringify(items));
-  }
 
   await crawler.run([
     "https://lemmy.world",

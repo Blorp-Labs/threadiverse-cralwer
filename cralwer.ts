@@ -79,8 +79,8 @@ async function crawl() {
     requestQueue,
     maxConcurrency: 50,
     minConcurrency: 5,
-    // requestHandlerTimeoutSecs: 10,
-    // maxRequestRetries: 3,
+    requestHandlerTimeoutSecs: 10,
+    maxRequestRetries: 3,
     requestHandler: async ({ request, sendRequest }) => {
       async function get<S extends z.ZodObject>(url: string, schema: S) {
         const nodeInfoReq = await sendRequest({
@@ -88,6 +88,15 @@ async function crawl() {
           method: "GET"
         })
         return schema.parse(JSON.parse(nodeInfoReq.body))
+      }
+
+      const explore = async (res: z.infer<typeof federatedInstancesSchema>) => {
+        await requestQueue.addRequests(
+          res.federated_instances.linked.filter(linked => {
+            const updated = linked.updated ?? linked.published;
+            return linked.software && isSupportedSoftware(linked.software) && updated && dateLessThanOneMonthAgo(updated)
+          }).map(linked => normalizeInstance(linked.domain))
+        )
       }
 
       const instance = normalizeInstance(request.url);
@@ -98,15 +107,6 @@ async function crawl() {
         `${instance}/nodeinfo/2.1`,
         nodeInfoSchema
       )
-
-      const explore = async (res: z.infer<typeof federatedInstancesSchema>) => {
-        await requestQueue.addRequests(
-          res.federated_instances.linked.filter(linked => {
-            const updated = linked.updated ?? linked.published;
-            return linked.software && isSupportedSoftware(linked.software) && updated && dateLessThanOneMonthAgo(updated)
-          }).map(linked => normalizeInstance(linked.domain))
-        )
-      }
 
       switch (nodeInfo.software.name) {
         case "lemmy": {

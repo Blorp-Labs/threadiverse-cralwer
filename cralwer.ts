@@ -170,7 +170,7 @@ async function crawl() {
     },
   });
 
-  const id1 = setInterval(() => {
+  const id1 = setTimeout(() => {
     crawler.autoscaledPool.abort();
   }, 20 * 60 * 1000)
 
@@ -179,7 +179,7 @@ async function crawl() {
     await fs.writeFile("all-discovered.json", JSON.stringify(items, null, 2));
   }
 
-  const id2 = setTimeout(() => {
+  const id2 = setInterval(() => {
     write();
   }, 10_000)
 
@@ -188,8 +188,8 @@ async function crawl() {
     "https://lemmy.zip",
   ]);
 
-  clearInterval(id1)
-  clearTimeout(id2)
+  clearTimeout(id1)
+  clearInterval(id2)
   write();
 }
 crawl();

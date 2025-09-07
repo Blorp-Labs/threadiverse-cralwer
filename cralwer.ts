@@ -4,6 +4,8 @@ import { dateLessThanOneMonthAgo } from './utils/date';
 import { BasicCrawler, Dataset, RequestQueue } from "crawlee";
 import fs from 'node:fs/promises'
 
+const MIN_MAU = 20;
+
 function isSupportedSoftware(software: string) {
   switch (software.trim().toLowerCase()) {
     case "lemmy":
@@ -19,7 +21,7 @@ function normalizeInstance(instance: string) {
   if (!instance.startsWith("http")) {
     instance = `https://${instance}`
   }
-  return instance;
+  return instance.replace(/\/+$/, "");
 }
 
 const lemmySiteV3 = z.object({
@@ -30,17 +32,14 @@ const lemmySiteV3 = z.object({
     }),
     local_site: z.object({
       registration_mode: z.string(),
+    }),
+    counts: z.object({
+      users_active_month: z.number()
     })
   }),
 });
 
-const pieFedSiteV3 = z.object({
-  site: z.object({
-    description: z.string().nullable().optional(),
-    icon: z.string().nullable().optional(),
-    registration_mode: z.string(),
-  }),
-});
+const pieFedSiteV3 = lemmySiteV3;
 
 const nodeInfoSchema = z.object({
   software: z.object({
@@ -60,14 +59,14 @@ const federatedInstancesSchema = z.object({
   })
 })
 
-// type Instance = {
-//   url: string,
-//   host: string,
-//   description?: string,
-//   icon?: string,
-//   software: "lemmy" | "piefed"
-//   registrationMode: string,
-// };
+type Instance = {
+  url: string,
+  host: string,
+  description?: string,
+  icon?: string,
+  software: "lemmy" | "piefed"
+  registrationMode: string,
+};
 
 async function crawl() {
   const dataset = await Dataset.open();
@@ -78,8 +77,9 @@ async function crawl() {
     requestQueue,
     maxConcurrency: 50,
     minConcurrency: 5,
-    requestHandlerTimeoutSecs: 10_000,
-    requestHandler: async ({ request, log, sendRequest }) => {
+    // requestHandlerTimeoutSecs: 10,
+    // maxRequestRetries: 3,
+    requestHandler: async ({ request, sendRequest }) => {
       async function get<S extends z.ZodObject>(url: string, schema: S) {
         const nodeInfoReq = await sendRequest({
           url,
@@ -97,13 +97,13 @@ async function crawl() {
         nodeInfoSchema
       )
 
-      const explore = (res: z.infer<typeof federatedInstancesSchema>) => {
-        for (const linked of res.federated_instances.linked) {
-          const updated = linked.updated ?? linked.published;
-          if (linked.software && isSupportedSoftware(linked.software) && updated && dateLessThanOneMonthAgo(updated)) {
-            requestQueue.addRequests([normalizeInstance(linked.domain)])
-          }
-        }
+      const explore = async (res: z.infer<typeof federatedInstancesSchema>) => {
+        await requestQueue.addRequests(
+          res.federated_instances.linked.filter(linked => {
+            const updated = linked.updated ?? linked.published;
+            return linked.software && isSupportedSoftware(linked.software) && updated && dateLessThanOneMonthAgo(updated)
+          }).map(linked => normalizeInstance(linked.domain))
+        )
       }
 
       switch (nodeInfo.software.name) {
@@ -113,49 +113,55 @@ async function crawl() {
             // explore(federatedInstances)
           } else {
             const federatedInstances = await get(`${instance}/api/v3/federated_instances`, federatedInstancesSchema)
-            explore(federatedInstances)
+            await explore(federatedInstances)
             const site = await get(`${instance}/api/v3/site`, lemmySiteV3)
-            Dataset.pushData({
-              url: instance,
-              host,
-              description: site.site_view.site.description,
-              icon: site.site_view.site.icon,
-              software: "lemmy",
-              registrationMode: site.site_view.local_site.registration_mode,
-            })
+            if (site.site_view.counts.users_active_month >= MIN_MAU) {
+              await Dataset.pushData<Instance>({
+                url: instance,
+                host,
+                description: site.site_view.site.description,
+                icon: site.site_view.site.icon,
+                software: "lemmy",
+                registrationMode: site.site_view.local_site.registration_mode,
+              })
+            }
           }
           break;
         }
         case "piefed": {
-          const federatedInstances = await get(`${instance}/api/v1/federated_instances`, federatedInstancesSchema)
-          explore(federatedInstances)
-          const site = await get(`${instance}/api/alpha/site`, pieFedSiteV3)
-          Dataset.pushData({
-            url: instance,
-            host,
-            description: site.site.description,
-            icon: site.site.icon,
-            software: "lemmy",
-            registrationMode: site.site.registration_mode,
-          })
+          const federatedInstances = await get(`${instance}/api/v3/federated_instances`, federatedInstancesSchema)
+          await explore(federatedInstances)
+          const site = await get(`${instance}/api/v3/site`, pieFedSiteV3)
+          if (site.site_view.counts.users_active_month >= MIN_MAU) {
+            await Dataset.pushData<Instance>({
+              url: instance,
+              host,
+              description: site.site_view.site.description,
+              icon: site.site_view.site.icon,
+              software: "piefed",
+              registrationMode: site.site_view.local_site.registration_mode,
+            })
+          }
           break;
         }
       }
     },
   });
 
+  const id2 = setInterval(() => {
+    write();
+  }, 10_000)
+
   const id1 = setTimeout(() => {
+    clearInterval(id2)
     crawler.autoscaledPool.abort();
+    console.log("STOPPING CRAWLER DUE TO TIMEOUT")
   }, 20 * 60 * 1000)
 
   const write = async () => {
     const { items } = await dataset.getData();
     await fs.writeFile("all-discovered.json", JSON.stringify(items, null, 2));
   }
-
-  const id2 = setInterval(() => {
-    write();
-  }, 10_000)
 
   await crawler.run([
     "https://lemmy.world",
@@ -165,7 +171,6 @@ async function crawl() {
   ]);
 
   clearTimeout(id1)
-  clearInterval(id2)
   write();
 }
 crawl();

@@ -1,0 +1,3932 @@
+[
+  {
+    "url": "https://lemmy-api.ten4ward.social",
+    "host": "lemmy-api.ten4ward.social",
+    "description": "\"Ten Forward is the hub of the ship's social activity. Everyone on board comes here.\" – Jean-Luc Picard",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.zip",
+    "host": "lemmy.zip",
+    "description": "A Lemmy community for everyone, with a focus towards tech, PCs, and gaming.",
+    "icon": "https://lemmy.zip/pictrs/image/1ad1e0a0-b90e-47da-a68e-41989fa79c32.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.world",
+    "host": "lemmy.world",
+    "description": "A generic Lemmy server for everyone to use.",
+    "icon": "https://lemmy.world/pictrs/image/0fd47927-ca3a-4d2c-b2e4-a25353786671.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://leminal.space",
+    "host": "leminal.space",
+    "description": "Take a break from the slow-burn apocalypse of late stage capitalism's race to the bottom",
+    "icon": "https://leminal.space/pictrs/image/769c757a-3298-45ef-828a-25e5a7c27373.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.fiftyfifty.one",
+    "host": "lemmy.fiftyfifty.one",
+    "description": "50 Protests 50 States 1 Movement",
+    "icon": "https://lemmy.fiftyfifty.one/pictrs/image/5a4615ed-3b01-4e06-8fe2-e7624a5b05d5.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.imontheweb.net",
+    "host": "lemmy.imontheweb.net",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.mbl.social",
+    "host": "lemmy.mbl.social",
+    "description": "A mostly general-purpose Lemmy instance ",
+    "icon": "https://mbl.social/mbl-lemmy-logo.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.casually.cat",
+    "host": "lemmy.casually.cat",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.sebbem.se",
+    "host": "lemmy.sebbem.se",
+    "description": "Private Lemmy server",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.ubergeek77.chat",
+    "host": "lemmy.ubergeek77.chat",
+    "icon": "https://lemmy.ubergeek77.chat/pictrs/image/cc138d6e-932e-44a9-a32f-04256be599a1.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.ktegl.es",
+    "host": "lemmy.ktegl.es",
+    "description": "Servidor Lemmy de KTE",
+    "icon": "https://lemmy.ktegl.es/pictrs/image/20dd4fba-fc81-4a19-a3aa-012b6dceab83.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://cyberia.hydrar.de",
+    "host": "cyberia.hydrar.de",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.obscuro.be",
+    "host": "lemmy.obscuro.be",
+    "icon": "https://lemmy.obscuro.be/pictrs/image/7aacb78c-762d-4462-a7b4-8c6e805d6dcc.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.0x0c.link",
+    "host": "lemmy.0x0c.link",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://orcas.enjoying.yachts",
+    "host": "orcas.enjoying.yachts",
+    "description": "A friendly, general use instance for likeminded, empathetic individuals. ",
+    "icon": "https://orcas.enjoying.yachts/pictrs/image/f91be1f3-e951-489f-bc0e-d1d9972ba884.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lef.li",
+    "host": "lef.li",
+    "description": "Low Effort Federated . Lemmy Instance",
+    "icon": "https://lef.li/pictrs/image/bc089ad8-02fb-4558-af83-eadac649ef5e.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://crazypeople.online",
+    "host": "crazypeople.online",
+    "description": "A digital retreat from a world gone mad.",
+    "icon": "https://crazypeople.online/pictrs/image/fde1826b-6959-443c-8e58-4199ec355bcf.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.dryja.dev",
+    "host": "lemmy.dryja.dev",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://mouse.chitanda.moe",
+    "host": "mouse.chitanda.moe",
+    "icon": "https://mouse.chitanda.moe/pictrs/image/dfcdd7ab-c3d1-4d08-8c36-1d27ae7e9fe2.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://hardpass.lol",
+    "host": "hardpass.lol",
+    "description": "hard pass dot lol",
+    "icon": "https://hardpass.lol/pictrs/image/7eb18f1e-4380-4251-a0bd-8c73dc9bc36b.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.librebun.com",
+    "host": "lemmy.librebun.com",
+    "description": "Instance by LibreBun",
+    "icon": "https://lemmy.librebun.com/pictrs/image/331b6b61-0bba-4c65-9847-73556a4dae7e.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.sador.me",
+    "host": "lemmy.sador.me",
+    "description": "Prywatny serwer Lemmy.",
+    "icon": "https://lemmy.sador.me/pictrs/image/0564d8f0-4348-41f5-b140-088285362b2f.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmybefree.net",
+    "host": "lemmybefree.net",
+    "description": "A chill, relatively pro-freedom of speech and laxist instance. That doesn't mean you can do whatever you want though! We fight censorship.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://linz.city",
+    "host": "linz.city",
+    "description": "Ein Platz für alle die in oder um Linz wohnen oder ein generelles Interesse daran haben ",
+    "icon": "https://linz.city/pictrs/image/8d05abf5-629f-4d83-b9c9-9b5b51eb1be1.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lem.ugh.im",
+    "host": "lem.ugh.im",
+    "description": "Home of GravityWell.xYz",
+    "icon": "https://lem.ugh.im/pictrs/image/08200274-f197-4edf-9e4d-19b7c5c8759d.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.spacestation14.com",
+    "host": "lemmy.spacestation14.com",
+    "description": "A Lemmy instance for Space Station 14",
+    "icon": "https://lemmy.spacestation14.com/pictrs/image/5b0f3e1c-5491-46a8-9c67-b02370599236.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.securitycafe.ca",
+    "host": "lemmy.securitycafe.ca",
+    "description": "A Lemmy instance for the InfoSec community and users of securitycafe.ca",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://nfl.community",
+    "host": "nfl.community",
+    "icon": "https://nfl.community/pictrs/image/c9cdb09f-2863-4fe9-8912-ed24adaacc5c.webp",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://discuss.koyu.space",
+    "host": "discuss.koyu.space",
+    "description": "The corner of the internet",
+    "icon": "https://discuss.koyu.space/pictrs/image/911d1337-97d3-48af-aab5-88f7f823c0b3.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.mrm.one",
+    "host": "lemmy.mrm.one",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemy.nl",
+    "host": "lemy.nl",
+    "description": "Nederlandse Lemmy server",
+    "icon": "https://lemy.nl/pictrs/image/4cddb585-1161-4f2a-9762-5e00da82f086.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.horwood.cloud",
+    "host": "lemmy.horwood.cloud",
+    "description": "This is the home of the Melksham Horwood",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.coupou.fr",
+    "host": "lemmy.coupou.fr",
+    "description": "Une instance Lemmy gérée par un fan de technologies libres.",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://zegheteens.nl",
+    "host": "zegheteens.nl",
+    "description": "Nederlandse Lemmy omgeving",
+    "icon": "https://api.zegheteens.nl/pictrs/image/78baf96f-5f96-4a0e-ad38-c7accb29665e.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.flicke.red",
+    "host": "lemmy.flicke.red",
+    "description": "lemmy on flicke.red",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.razbot.xyz",
+    "host": "lemmy.razbot.xyz",
+    "description": "Just your average lemmy instance",
+    "icon": "https://lemmy.razbot.xyz/pictrs/image/8640de7f-0ac9-4401-939c-f8283f79dee6.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://social.subl.im",
+    "host": "social.subl.im",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.w9r.de",
+    "host": "lemmy.w9r.de",
+    "icon": "https://lemmy.w9r.de/pictrs/image/1bb26297-bbe4-46e8-b51b-463b54e1d828.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://feditown.com",
+    "host": "feditown.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.zwanenburg.info",
+    "host": "lemmy.zwanenburg.info",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://roanoke.social",
+    "host": "roanoke.social",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://civilloquy.com",
+    "host": "civilloquy.com",
+    "description": "A community for general friendly discussion",
+    "icon": "https://civilloquy.com/pictrs/image/3c335c55-ce48-49c5-8c5f-f813cc3ce896.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://kitty.ly",
+    "host": "kitty.ly",
+    "description": "A lemmy instance for people who think that cats are neat and that Trump is not",
+    "icon": "https://kitty.ly/pictrs/image/2d695b12-00aa-4994-9e42-69494673e076.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmyusa-u27543.vm.elestio.app",
+    "host": "lemmyusa-u27543.vm.elestio.app",
+    "description": "We are a general purpose instance based in the U.S. but open to everyone. ",
+    "icon": "https://lemmyusa.com/pictrs/image/572550c5-2621-4103-a33b-e0e7c4be0d14.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://kutsuya.dev",
+    "host": "kutsuya.dev",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.collectivemoo.net",
+    "host": "lemmy.collectivemoo.net",
+    "description": "Local server for Geo and housemates",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://badatbeing.social",
+    "host": "badatbeing.social",
+    "description": "A safe place for neurodiversity, but everyone is welcome!",
+    "icon": "https://badatbeing.social/pictrs/image/3bf50697-ec50-4704-b72f-89984ea0a536.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.8th.world",
+    "host": "lemmy.8th.world",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.menos.gotdns.org",
+    "host": "lemmy.menos.gotdns.org",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.mkwarman.com",
+    "host": "lemmy.mkwarman.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.unryzer.eu",
+    "host": "lemmy.unryzer.eu",
+    "description": "Just existing in the ether",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://hackingne.ws",
+    "host": "hackingne.ws",
+    "description": "This Lemmy instance is mainly geared towards hacking and technology, but all are welcome! ",
+    "icon": "https://hackingne.ws/pictrs/image/7582bfd3-64c0-421d-914a-281a239f0a3d.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://ymous.au",
+    "host": "ymous.au",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://martinlm.mypi.co",
+    "host": "martinlm.mypi.co",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.snoot.tube",
+    "host": "lemmy.snoot.tube",
+    "description": "lemmy-flavoured offshoot of snoot.tube",
+    "icon": "https://lemmy.snoot.tube/pictrs/image/fbab5ddf-2d5c-4976-bba4-43ee2a8f5e85.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.social",
+    "host": "feddit.social",
+    "description": "Jay的小窝，像啥写啥",
+    "icon": "https://feddit.social/pictrs/image/5ef6da45-ac55-4cc7-a018-32a83d68e23a.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.nerdcore.social",
+    "host": "lemmy.nerdcore.social",
+    "icon": "https://lemmy.nerdcore.social/pictrs/image/3b297430-d3d0-4329-b2c7-bd18892f5936.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://l.hostux.net",
+    "host": "l.hostux.net",
+    "description": "lemmy.hostux.net",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.toldi.eu",
+    "host": "lemmy.toldi.eu",
+    "description": "Personal lemmy instance",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.it",
+    "host": "feddit.it",
+    "description": "La migliore alternativa italiana e decentralizzata a Reddit, benvenutǝ!",
+    "icon": "https://feddit.it/pictrs/image/ab61b750-22e1-4fd8-b198-df1c1028e03f.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.cif.su",
+    "host": "lemmy.cif.su",
+    "icon": "https://lemmy.cif.su/pictrs/image/1ec4fbe1-eddd-4b48-8454-ff5cdd89b6f9.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.mats.ooo",
+    "host": "lemmy.mats.ooo",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://mujico.org",
+    "host": "mujico.org",
+    "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
+    "icon": "https://mujico.org/pictrs/image/f78f4ff7-3e48-414f-abf1-102e87e72682.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.asc6.org",
+    "host": "lemmy.asc6.org",
+    "description": "Personal Lemmy Instance",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.helvetet.eu",
+    "host": "lemmy.helvetet.eu",
+    "description": "Helvetet Lemmy Server mainly for Swedish people but everyone is welcome.",
+    "icon": "https://lemmy.helvetet.eu/pictrs/image/cb4081bf-da15-43c7-a2ef-3aca878e6a03.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.socdojo.com",
+    "host": "lemmy.socdojo.com",
+    "description": "Sanity's Refuge",
+    "icon": "https://lemmy.socdojo.com/pictrs/image/9a78a5ba-d508-4a81-a220-b107385b73f9.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.deadca.de",
+    "host": "lemmy.deadca.de",
+    "icon": "https://lemmy.deadca.de/pictrs/image/91b50793-bbda-48e8-9985-ea18cdb3cdb8.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.cogindo.net",
+    "host": "lemmy.cogindo.net",
+    "description": "Cogindo's Lemmy Instance",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://forum.mondom.eu",
+    "host": "forum.mondom.eu",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.squidcopter.homeip.net",
+    "host": "lemmy.squidcopter.homeip.net",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.nekusoul.de",
+    "host": "lemmy.nekusoul.de",
+    "description": "NekuSoul's Lemmy Server",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.darvit.nl",
+    "host": "lemmy.darvit.nl",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://ascy.mooo.com",
+    "host": "ascy.mooo.com",
+    "description": "The future of the Internets is to maximize kitten distribution to all available endpoints!",
+    "icon": "https://ascy.mooo.com/pictrs/image/dca99600-890a-4227-9804-b6e5dce7dc8f.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://discover.deltanauten.de",
+    "host": "discover.deltanauten.de",
+    "description": "Entdecke das Netz!",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://forum.ayom.media",
+    "host": "forum.ayom.media",
+    "description": "Fórum de discussão, agregação de links e notícias (Lemmy) da comunidade Ayom.",
+    "icon": "https://forum.ayom.media/pictrs/image/43e601d6-756d-4779-963e-1b30973bef6b.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.umucat.day",
+    "host": "lemmy.umucat.day",
+    "description": "A small, cute instance :)",
+    "icon": "https://lemmy.umucat.day/pictrs/image/1dcac277-5fba-4fb9-a91a-ef464520f39e.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.saik0.com",
+    "host": "lemmy.saik0.com",
+    "description": "This is a private lemmy instance",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmit.online",
+    "host": "lemmit.online",
+    "description": "A Reddit to Lemmy crossposting instance.",
+    "icon": "https://lemmit.online/pictrs/image/e718c5af-2112-4ddf-8086-8102df47bc74.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.lidstah.info",
+    "host": "lemmy.lidstah.info",
+    "icon": "https://lemmy.lidstah.info/pictrs/image/df01fcee-03b6-446e-8e71-a04301aaea47.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://news.idlestate.org",
+    "host": "news.idlestate.org",
+    "description": "A private instance.",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.multivers.cc",
+    "host": "lemmy.multivers.cc",
+    "description": "Bienvenue dans le multivers",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.brandyapple.com",
+    "host": "lemmy.brandyapple.com",
+    "description": "The straight poop.",
+    "icon": "https://lemmy.brandyapple.com/pictrs/image/c4b721e9-6008-4671-abf9-48fd91ac7337.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.casasnow.noho.st",
+    "host": "lemmy.casasnow.noho.st",
+    "description": "Piccola istanza Lemmy italiana.",
+    "icon": "https://lemmy.casasnow.noho.st/pictrs/image/bca9237a-4af0-4777-8be3-c0efdea67595.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.fedi.zutto.fi",
+    "host": "lemmy.fedi.zutto.fi",
+    "description": "Pieni Lemmy instanssi tuomaan lisää hajautusta tähän pieneen fediversumiin.",
+    "icon": "https://lemmy.fedi.zutto.fi/pictrs/image/0d424c38-7ece-4fed-81e6-b2e99e372c97.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://thelemmy.club",
+    "host": "thelemmy.club",
+    "description": "A general Lemmy instance for all!",
+    "icon": "https://thelemmy.club/pictrs/image/2f9791e3-7e1f-461d-9696-d89d77299124.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.pierre-couy.fr",
+    "host": "lemmy.pierre-couy.fr",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://selfhosted.forum",
+    "host": "selfhosted.forum",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.uhhoh.com",
+    "host": "lemmy.uhhoh.com",
+    "description": "Yet another lemmy instance",
+    "icon": "https://lemmy.uhhoh.com/pictrs/image/c8e82863-1e44-4546-9bb5-02834fcf1636.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.dormedas.com",
+    "host": "lemmy.dormedas.com",
+    "icon": "https://lemmy.dormedas.com/pictrs/image/62284404-c1c9-441f-949b-fdae63792c4b.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.elxpd.com",
+    "host": "lemmy.elxpd.com",
+    "description": "Personal, private, Lemmy instance",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.b0tt0m.xyz",
+    "host": "lemmy.b0tt0m.xyz",
+    "description": "Just my personal instance, not much else to it. You can join if you want.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.zimage.com",
+    "host": "lemmy.zimage.com",
+    "description": "zImage -- A starting place for all adventures.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.digitalfall.net",
+    "host": "lemmy.digitalfall.net",
+    "description": "Server for Lemmy Things - Run by Q0 from BerryTube",
+    "icon": "https://lemmy.digitalfall.net/pictrs/image/ebf71121-71c9-497f-a223-085631abac41.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://leaf.dance",
+    "host": "leaf.dance",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://social.nerdhouse.io",
+    "host": "social.nerdhouse.io",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://corndog.social",
+    "host": "corndog.social",
+    "icon": "https://corndog.social/pictrs/image/b0df831e-a33e-4b8f-9e01-5a03525215d8.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.imagisphe.re",
+    "host": "lemmy.imagisphe.re",
+    "icon": "https://lemmy.imagisphe.re/pictrs/image/57dceab6-b0d8-4369-8bd2-10a99b4fee21.webp",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.jamesj999.co.uk",
+    "host": "lemmy.jamesj999.co.uk",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.cultimean.group",
+    "host": "lemmy.cultimean.group",
+    "description": "CIMG Lemmy Server",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://twun.io",
+    "host": "twun.io",
+    "icon": "https://twun.io/pictrs/image/4101920d-0feb-4a3b-bcef-683d72182cef.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.aicampground.com",
+    "host": "lemmy.aicampground.com",
+    "icon": "https://lemmy.aicampground.com/pictrs/image/0bfbcde6-5f61-4d53-a6ec-1b3c485e3806.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://adultswim.fan",
+    "host": "adultswim.fan",
+    "description": "discussion board for fans of animation and comedy television",
+    "icon": "https://adultswim.fan/pictrs/image/7fe1680d-9acc-40d9-91d5-f73a5d9f3a4d.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://l.dongxi.ca",
+    "host": "l.dongxi.ca",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lem.trashbrain.org",
+    "host": "lem.trashbrain.org",
+    "description": "Trash Brain",
+    "icon": "https://lem.trashbrain.org/pictrs/image/8a346445-eb4a-4877-892b-06efd3ecfcf7.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.fait.ch",
+    "host": "lemmy.fait.ch",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://belfry.rip",
+    "host": "belfry.rip",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://eviltoast.org",
+    "host": "eviltoast.org",
+    "description": "EvilToast.org is a dynamic online community dedicated to fostering insightful discussions and knowledge sharing across technology, gaming, programming",
+    "icon": "https://eviltoast.org/pictrs/image/f8099b5e-9896-495f-bef7-d7bfc97884f3.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.throlk.im",
+    "host": "lemmy.throlk.im",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.croc.pw",
+    "host": "lemmy.croc.pw",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://ibbit.at",
+    "host": "ibbit.at",
+    "description": "Just RSS feeds",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.glue.io",
+    "host": "lemmy.glue.io",
+    "description": "Glue.io lemmy",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://ukfli.uk",
+    "host": "ukfli.uk",
+    "icon": "https://ukfli.uk/pictrs/image/c268505e-0b4e-42b5-b694-a3376bfc34b5.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.okla.social",
+    "host": "lemmy.okla.social",
+    "description": "Okie Lemmy Instance",
+    "icon": "https://lemmy.okla.social/pictrs/image/08058994-3714-4726-be8a-37c0227f3d34.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.nexus",
+    "host": "lemmy.nexus",
+    "description": "A general-purpose Lemmy instance. We're happily welcoming new members and communities!",
+    "icon": "https://lemmy.nexus/pictrs/image/6fa46ef2-6138-4a60-a3a4-39c04c3dfd18.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://baraza.africa",
+    "host": "baraza.africa",
+    "description": "Africa and its relations with the world. Karibu.",
+    "icon": "https://baraza.africa/pictrs/image/8ceab3ec-aad3-4829-a46f-f5746a22a68d.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://l.mathers.fr",
+    "host": "l.mathers.fr",
+    "description": "Private instance",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://l.tta.wtf",
+    "host": "l.tta.wtf",
+    "description": "Premium Metaphysical Locomotion",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://hackertalks.com",
+    "host": "hackertalks.com",
+    "description": "Place for hackers to talk",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.xoynq.com",
+    "host": "lemmy.xoynq.com",
+    "description": "Registration is closed. Enjoy your stay.",
+    "icon": "https://lemmy.xoynq.com/pictrs/image/e1afcc75-378d-418d-b404-51c4a115d930.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.knthost.com",
+    "host": "lemmy.knthost.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://maple.social",
+    "host": "maple.social",
+    "description": "Canadian Content",
+    "icon": "https://maple.social/pictrs/image/6e67eb4a-3015-4911-978e-0006904db8e3.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.secnd.me",
+    "host": "lemmy.secnd.me",
+    "icon": "https://lemmy.secnd.me/pictrs/image/7d078135-cf81-48ff-9e40-52e2396eb09b.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://spgrn.com",
+    "host": "spgrn.com",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.self-hosted.site",
+    "host": "lemmy.self-hosted.site",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://poeng.link",
+    "host": "poeng.link",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://hub.edikoyo.com",
+    "host": "hub.edikoyo.com",
+    "description": "Forums relating to things created by Ategon and friends",
+    "icon": "https://hub.edikoyo.com/pictrs/image/7bfe54a7-975a-4a01-841d-e4ff738b24cd.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://dev.lemmy.world",
+    "host": "dev.lemmy.world",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://diggita.com",
+    "host": "diggita.com",
+    "description": "Giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024",
+    "icon": "https://diggita.com/pictrs/image/7c2c6fb8-9051-468f-b083-1171417dc2ca.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.gf4.pw",
+    "host": "lemmy.gf4.pw",
+    "icon": "https://lemmy.green.gf4/pictrs/image/db95c1cb-7a84-4805-b63f-71bb0d70b498.webp",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://sh.itjust.works",
+    "host": "sh.itjust.works",
+    "description": "A bilingual (EN/FR) general-purpose instance located in eastern Canada! Powered by 99% renewable energy! Everyone is welcome eh.",
+    "icon": "https://sh.itjust.works/pictrs/image/fb4c11a2-f533-4b0b-8f74-466132d93c72.webp",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.keniir.wtf",
+    "host": "lemmy.keniir.wtf",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmus.org",
+    "host": "lemmus.org",
+    "description": "General purpose Lemmy instance. Fast & Free for all to use!",
+    "icon": "https://lemmus.org/pictrs/image/5f43852c-de02-4f35-81ba-cb735d7dc16f.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.notmy.cloud",
+    "host": "lemmy.notmy.cloud",
+    "description": "Private Server for Authorized Members Only",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lululemmy.com",
+    "host": "lululemmy.com",
+    "icon": "https://lululemmy.com/pictrs/image/33fdda8b-b06b-4b2c-b112-886f1069ea0e.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://l.twipped.social",
+    "host": "l.twipped.social",
+    "description": "Personal lemmy server for Jocelyn Badgley",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.federate.cc",
+    "host": "lemmy.federate.cc",
+    "description": "a boutique home in the fediverse for developers, technology enthusiasts, and friends",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://unreachable.cloud",
+    "host": "unreachable.cloud",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://no.lastname.nz",
+    "host": "no.lastname.nz",
+    "description": "No Last Name Needed - An open New Zealand based Lemmy instance ",
+    "icon": "https://no.lastname.nz/pictrs/image/4bb371fa-62b7-488d-83e1-039db2b00bfd.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.tobyvin.dev",
+    "host": "lemmy.tobyvin.dev",
+    "description": "lemmy.tobyvin.dev",
+    "icon": "https://lemmy.tobyvin.dev/pictrs/image/4a5e5dac-bb5b-4494-9810-e914c333b9e9.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.pifferi.io",
+    "host": "lemmy.pifferi.io",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.blugatch.tube",
+    "host": "lemmy.blugatch.tube",
+    "icon": "https://lemmy.blugatch.tube/pictrs/image/5c4aa7d0-bfeb-4599-b906-7bd9d8f95ea6.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.bestiver.se",
+    "host": "lemmy.bestiver.se",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://kyu.de",
+    "host": "kyu.de",
+    "description": "KYU Lemmy",
+    "icon": "https://kyu.de/pictrs/image/2662d4b0-c74c-4511-b36a-75c53417cac9.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://okaythen.lol",
+    "host": "okaythen.lol",
+    "description": "okay then dot lol",
+    "icon": "https://okaythen.lol/pictrs/image/9af5d8d6-4513-4f8e-9bad-c58b558a7965.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemminielettrici.it",
+    "host": "lemminielettrici.it",
+    "description": "Un forum solarpunk italiano",
+    "icon": "https://lemminielettrici.it/pictrs/image/e3c7556b-71c1-47b1-a826-78d41d93c7f4.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.vg",
+    "host": "lemmy.vg",
+    "description": "A vegan-only Lemmy server existing to provide the vegan community safe access to the Fediverse.",
+    "icon": "https://lemmy.vg/pictrs/image/86aeafc4-8ffc-432f-baa9-51b3e759b85f.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.darkc0de.one",
+    "host": "lemmy.darkc0de.one",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lm.boing.icu",
+    "host": "lm.boing.icu",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://scribe.disroot.org",
+    "host": "scribe.disroot.org",
+    "description": "Disroot's Community Lemmy Instance",
+    "icon": "https://scribe.disroot.org/pictrs/image/924a9b6c-bca5-4851-aadd-855b22cef9f0.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://r.nf",
+    "host": "r.nf",
+    "description": "R.NF is a decentralized space for open discussion, built on Lemmy",
+    "icon": "https://r.nf/pictrs/image/e04cfc1c-12d6-42d8-b470-76e39eadd0e5.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.dudeami.win",
+    "host": "lemmy.dudeami.win",
+    "description": "Personal lemmy instance for testing",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.manganiello.tech",
+    "host": "lemmy.manganiello.tech",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://expats.zone",
+    "host": "expats.zone",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.packitsolutions.net",
+    "host": "lemmy.packitsolutions.net",
+    "description": "Self-hosting, makers, homelab, building.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://le.meto.lol",
+    "host": "le.meto.lol",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.grouchysysadmin.com",
+    "host": "lemmy.grouchysysadmin.com",
+    "icon": "https://lemmy.grouchysysadmin.com/pictrs/image/db33d7bd-3c81-4da5-8b42-4b14270aa4b7.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://szmer.info",
+    "host": "szmer.info",
+    "description": "Największa polskojęzyczna instancja Lemmiego.",
+    "icon": "https://szmer.info/pictrs/image/XcQWr0D2CU.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://enterprise.lemmy.ml",
+    "host": "enterprise.lemmy.ml",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.lqx.net",
+    "host": "lemmy.lqx.net",
+    "description": "Privately run service to provide alternatives to corpo data mining platforms.",
+    "icon": "https://lemmy.lqx.net/pictrs/image/8282b4d2-38fe-4fa1-881d-ab4f5ae6ea4b.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://fjdk.uk",
+    "host": "fjdk.uk",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://rblind.com",
+    "host": "rblind.com",
+    "description": "A community on Lemmy, brought to you by the moderators of the /r/blind subreddit.",
+    "icon": "https://rblind.com/pictrs/image/3c46ae70-6ceb-4e6d-bb6e-5822e9426176.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lebowski.social",
+    "host": "lebowski.social",
+    "description": "The Big Lebowski Instance",
+    "icon": "https://lebowski.social/pictrs/image/b18523fb-d027-4dd8-94a3-b0582ec79a3a.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://rentadrunk.org",
+    "host": "rentadrunk.org",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.relayeasy.com",
+    "host": "lemmy.relayeasy.com",
+    "icon": "https://lemmy.relayeasy.com/pictrs/image/7006310e-7960-4927-a970-6b35f2b2eb5a.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://l.henlo.fi",
+    "host": "l.henlo.fi",
+    "description": "Just a Lemmy instance",
+    "icon": "https://l.henlo.fi/pictrs/image/c260c08b-8d20-48ef-a67f-980bad9a44cb.webp",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://suppo.fi",
+    "host": "suppo.fi",
+    "description": "Suppo is a Finland-based Lemmy instance.",
+    "icon": "https://suppo.fi/pictrs/image/0f100ce7-be63-4db4-8131-8eb86a89ba96.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.johnnei.org",
+    "host": "lemmy.johnnei.org",
+    "description": "The Fediverse home of Johnnei",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.rmict.nl",
+    "host": "lemmy.rmict.nl",
+    "icon": "https://lemmy.rmict.nl/pictrs/image/2eb724ef-0278-484f-93e9-82ba171bd0fc.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.mio19.uk",
+    "host": "lemmy.mio19.uk",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.brief.guru",
+    "host": "lemmy.brief.guru",
+    "icon": "https://lemmy.brief.guru/pictrs/image/c5b04544-6942-45e7-abd6-ad71fe913740.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://bodli.mven.nl",
+    "host": "bodli.mven.nl",
+    "description": "A small Lemmy instance hosted by @marzman95",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.absolutesix.com",
+    "host": "lemmy.absolutesix.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.trippy.pizza",
+    "host": "lemmy.trippy.pizza",
+    "description": "My personal lemmy instance.",
+    "icon": "https://lemmy.trippy.pizza/pictrs/image/ade9f03c-c9bb-4ea0-ad18-ca69152142e6.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.funami.tech",
+    "host": "lemmy.funami.tech",
+    "description": "Maybe the first Lemmy instance in South Korea / 아마도 한국 최초의 Lemmy 인스턴스",
+    "icon": "https://lemmy.funami.tech/pictrs/image/79cc4a43-2f55-4bee-8b1c-b219fd11a607.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://quadball.app",
+    "host": "quadball.app",
+    "description": "The Quadball Community",
+    "icon": "https://quadball.app/pictrs/image/e0eeede3-a0b2-4fd4-b8d3-e017a9baff87.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://belgae.social",
+    "host": "belgae.social",
+    "description": "A Belgian Lemmy instance on the fediverse",
+    "icon": "https://belgae.social/pictrs/image/3007bbe7-ffde-4898-9c0f-68a1018557c2.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://odin.lanofthedead.xyz",
+    "host": "odin.lanofthedead.xyz",
+    "description": "Lemmy Federated Server for LANoftheDead network.",
+    "icon": "https://odin.lanofthedead.xyz/pictrs/image/bc458ec8-af12-4c83-8a7b-1d73f00d454d.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.jhjacobs.nl",
+    "host": "lemmy.jhjacobs.nl",
+    "description": "The real Johannes!",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.eco.br",
+    "host": "lemmy.eco.br",
+    "description": "Uma instância de Lemmy para todos os brasileiros.",
+    "icon": "https://lemmy.eco.br/pictrs/image/6d1f1752-1387-423b-a0ca-cee3589130f6.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://fasheng.ing",
+    "host": "fasheng.ing",
+    "description": "为正在发生的事物发声",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.esquiretheduke.nohost.me",
+    "host": "lemmy.esquiretheduke.nohost.me",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.sal.web.tr",
+    "host": "lemmy.sal.web.tr",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.exory.dev",
+    "host": "lemmy.exory.dev",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.unboiled.info",
+    "host": "lemmy.unboiled.info",
+    "icon": "https://lemmy.unboiled.info/pictrs/image/6f316289-c7a9-4aaf-b4ab-ae05690b4aa1.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.freewilltiger.page",
+    "host": "lemmy.freewilltiger.page",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.scam-mail.me",
+    "host": "lemmy.scam-mail.me",
+    "description": "No Scams to be had here! I just thought the domain was funny",
+    "icon": "https://lemmy.scam-mail.me/pictrs/image/1c2cdc2d-73c3-463f-9a9b-b82437137863.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://real.lemmy.fan",
+    "host": "real.lemmy.fan",
+    "description": "A Madison, Wisconsin-based Lemmy instance. ",
+    "icon": "https://lemmy.fan/pictrs/image/1e95ee53-7ff0-4660-8675-d3bf4046b46d.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.helios42.de",
+    "host": "lemmy.helios42.de",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.nl",
+    "host": "feddit.nl",
+    "description": "A Dutch Lemmy instance hosted by @tedvdb",
+    "icon": "https://feddit.nl/pictrs/image/37f292a9-c706-424d-860d-ffdb818d9b17.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://metacritics.zone",
+    "host": "metacritics.zone",
+    "description": "TV, Movies, Music and all-around entertainment talk.",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.ohaa.xyz",
+    "host": "lemmy.ohaa.xyz",
+    "icon": "https://lemmy.ohaa.xyz/pictrs/image/bbc8648b-4271-4266-a7e7-cfc9c434747c.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://discuss.jacen.moe",
+    "host": "discuss.jacen.moe",
+    "icon": "https://discuss.jacen.moe/pictrs/image/3e942ae9-42cc-49f8-9c6c-331a90405836.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.nauk.io",
+    "host": "lemmy.nauk.io",
+    "description": "A private server for friends. Do not apply if you do not know me personally.",
+    "icon": "https://lemmy.nauk.io/pictrs/image/5814f730-8500-4d64-9507-d1aa932a1c50.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.fan",
+    "host": "lemmy.fan",
+    "description": "A Madison, Wisconsin-based Lemmy instance. ",
+    "icon": "https://lemmy.fan/pictrs/image/1e95ee53-7ff0-4660-8675-d3bf4046b46d.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.cl",
+    "host": "feddit.cl",
+    "description": "Instancia chilena de Lemmy en el Fediverse. ¡Comunidades centradas en Chile y de habla hispana son bienvenidas! Hablamos español e inglés.",
+    "icon": "https://feddit.cl/pictrs/image/13adb7bb-c0aa-4f33-9cbe-f14068733387.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.rocks",
+    "host": "feddit.rocks",
+    "description": "A lemmy instance powered by the kavin.rocks verse.",
+    "icon": "https://feddit.rocks/pictrs/image/679174af-1515-401e-af35-cf853edd127f.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://sopuli.xyz",
+    "host": "sopuli.xyz",
+    "description": "A general-purpose instance run by a Finn - everyone is welcome here!",
+    "icon": "https://sopuli.xyz/pictrs/image/9c6eeb58-bf66-4a15-9537-0a822f3c4feb.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://doomscroll.n8e.dev",
+    "host": "doomscroll.n8e.dev",
+    "description": "Lets be honest, that's basically what you're doing here.",
+    "icon": "https://doomscroll.n8e.dev/pictrs/image/f0f0f55a-effc-4deb-bd89-92d323306451.webp",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.nullspace.lol",
+    "host": "lemmy.nullspace.lol",
+    "description": "a home for lemmings wandering around nullspace",
+    "icon": "https://lemmy.nullspace.lol/pictrs/image/63f3b539-8a1c-4236-a669-0a31c49acc46.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.davidfreina.at",
+    "host": "lemmy.davidfreina.at",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.bmck.au",
+    "host": "lemmy.bmck.au",
+    "description": "A little community for me, myself and I.",
+    "icon": "https://lemmy.bmck.au/pictrs/image/46320c39-f555-454f-ae07-edcda1db3bb6.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.eirides.net",
+    "host": "lemmy.eirides.net",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://dubvee.org",
+    "host": "dubvee.org",
+    "description": "Offering a safe, chill environment for a better, nicer Fediverse.",
+    "icon": "https://dubvee.org/pictrs/image/291a3595-c4ff-4a2f-a0a0-5d249d76c9f3.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.super.ynh.fr",
+    "host": "lemmy.super.ynh.fr",
+    "description": "A chill, relatively pro-freedom of speech and laxist instance. That doesn't mean you can do whatever you want though! We fight censorship.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.vyizis.tech",
+    "host": "lemmy.vyizis.tech",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.mlaga97.space",
+    "host": "lemmy.mlaga97.space",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lm.preferlinux.de",
+    "host": "lm.preferlinux.de",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://links.nadia.moe",
+    "host": "links.nadia.moe",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://literature.cafe",
+    "host": "literature.cafe",
+    "description": "A Cozy Place for Book Lovers, Readers And Writers",
+    "icon": "https://literature.cafe/pictrs/image/941180b9-e8ad-436d-8aa7-45e321b30ed6.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.minecloud.ro",
+    "host": "lemmy.minecloud.ro",
+    "icon": "https://lemmy.minecloud.ro/pictrs/image/e8e68ff8-e618-4f27-a358-e654d57c56ac.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://bfed.uk",
+    "host": "bfed.uk",
+    "description": "Eyup, it's pretty much just me over here!",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.makearmy.io",
+    "host": "lemmy.makearmy.io",
+    "description": "Lemmy: By Makers, For Makers.",
+    "icon": "https://lemmy.makearmy.io/pictrs/image/20e8bcdf-e1dc-4f7b-b6f3-4fefd4652982.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.jelliefrontier.net",
+    "host": "lemmy.jelliefrontier.net",
+    "description": "Discussion topics for the Jellie Frontier",
+    "icon": "https://lemmy.jelliefrontier.net/pictrs/image/5ab387cb-e75f-45fa-9367-cf98c2bc6ef9.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.lupiverse.com",
+    "host": "lemmy.lupiverse.com",
+    "description": "Lupiverse is a single-user Lemmy instance with federation enabled. Registrations are currently disabled. ",
+    "icon": "https://lemmy.lupiverse.com/pictrs/image/2666b767-a309-45f6-baec-c1dec4a3cdec.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://mtgzone.com",
+    "host": "mtgzone.com",
+    "description": "Magic: the Gathering communities for all formats, interests, skill levels, and news!",
+    "icon": "https://mtgzone.com/pictrs/image/2028a67f-6a09-4b8e-a70e-d471304a47a8.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://disflux.org",
+    "host": "disflux.org",
+    "description": "disflux is a lemmy instance focused on D.I.Y. and self sufficiency type communities.",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://whatcom.social",
+    "host": "whatcom.social",
+    "icon": "https://whatcom.social/pictrs/image/c29281f0-94fa-4895-8eea-b6a1f25007d4.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.haley.io",
+    "host": "lemmy.haley.io",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.eknz.org",
+    "host": "lemmy.eknz.org",
+    "icon": "https://lemmy.eknz.org/pictrs/image/e6ba7477-0259-4477-95ff-46094205d140.webp",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://walledgarden.xyz",
+    "host": "walledgarden.xyz",
+    "description": "Moved to crazypeople.online",
+    "icon": "https://walledgarden.xyz/pictrs/image/0781d293-5d18-421b-9c1b-812e84e259b8.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.grys.it",
+    "host": "lemmy.grys.it",
+    "description": "Just another lemmy instance",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://gearhead.town",
+    "host": "gearhead.town",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://providence.root.sx",
+    "host": "providence.root.sx",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://yall.theatl.social",
+    "host": "yall.theatl.social",
+    "description": "yall.theatl.social: A link aggregator (Reddit-like) site hosted on theATL.social for Atlanta, Georgia",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemy.lol",
+    "host": "lemy.lol",
+    "description": "Best instance of fediverse 😎",
+    "icon": "https://lemy.lol/pictrs/image/6efeae75-9642-4383-902a-cc271693b9c2.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://swg-empire.de",
+    "host": "swg-empire.de",
+    "description": "Meine private Instanz",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.fediverse.jp",
+    "host": "lemmy.fediverse.jp",
+    "icon": "https://lemmy.fediverse.jp/pictrs/image/c2c65119-fdfd-478e-a708-6602e588f19c.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.zhukov.al",
+    "host": "lemmy.zhukov.al",
+    "description": "My private Lemmy instance",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://ani.social",
+    "host": "ani.social",
+    "description": "A Social Hub for Anime Fans!",
+    "icon": "https://ani.social/pictrs/image/a9b3073a-a90a-4f6a-a6d9-99a347eb2deb.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.masto.community",
+    "host": "lemmy.masto.community",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://poptalk.scrubbles.tech",
+    "host": "poptalk.scrubbles.tech",
+    "description": "Communities centered around today's pop music.  Come join to Popheads, Taylor Swift, Lana Del Rey, or create your own community!",
+    "icon": "https://poptalk.scrubbles.tech/pictrs/image/cd31c88c-3fec-4e5c-be2a-26dd0b6b13a8.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.anonion.social",
+    "host": "lemmy.anonion.social",
+    "description": "Private instance",
+    "icon": "https://lemmy.anonion.social/pictrs/image/501f4766-4e14-432a-a559-9c7315d8bfda.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.derock.dev",
+    "host": "lemmy.derock.dev",
+    "description": "Derock's cool self hosted lemmy",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lm.inu.is",
+    "host": "lm.inu.is",
+    "description": "Small instance for small people.   Private-ish Lemmy instance.",
+    "icon": "https://lm.inu.is/pictrs/image/1c72bb2a-585b-486d-b2a5-3caaaf1ed6a8.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lu.skbo.net",
+    "host": "lu.skbo.net",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.michaelsasser.org",
+    "host": "lemmy.michaelsasser.org",
+    "icon": "https://lemmy.michaelsasser.org/pictrs/image/eef3e631-ca17-4545-91bc-f4c088d00156.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.hogru.ch",
+    "host": "lemmy.hogru.ch",
+    "description": "Lemmy instanz ohne Dünnsch",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.federate.lol",
+    "host": "lemmy.federate.lol",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://tech.pr0n.pl",
+    "host": "tech.pr0n.pl",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://supernova.place",
+    "host": "supernova.place",
+    "icon": "https://supernova.place/pictrs/image/aeea8f5d-8362-4d27-81e7-965a422864ab.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.max-p.me",
+    "host": "lemmy.max-p.me",
+    "description": "Private instance for Max-P & friends",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.net.au",
+    "host": "lemmy.net.au",
+    "description": "General-Purpose Australian Lemmy instance. An Opensource Reddit Alternative",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.projetretro.io",
+    "host": "lemmy.projetretro.io",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://libretechni.ca",
+    "host": "libretechni.ca",
+    "description": "Join LibreTechnica on the Fediverse!  ",
+    "icon": "https://libretechni.ca/pictrs/image/6a34be0a-80a5-460a-a3c2-33c5a8f8640f.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://g00n.cloud",
+    "host": "g00n.cloud",
+    "icon": "https://g00n.cloud/pictrs/image/6a6f9385-51e8-42d4-9cd1-1dae6f0e71ff.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.dk",
+    "host": "feddit.dk",
+    "description": "Et dansk forum for alle interesser og emner.",
+    "icon": "https://feddit.dk/pictrs/image/1e01d540-1366-44f8-b8a2-bc948d596c49.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.100010101.xyz",
+    "host": "lemmy.100010101.xyz",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.86thumbs.net",
+    "host": "lemmy.86thumbs.net",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://monero.town",
+    "host": "monero.town",
+    "description": "A town for the Monero community to live in.",
+    "icon": "https://monero.town/pictrs/image/ce9a9e10-6858-4096-87a1-cb32f7bb91b0.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.jaypg.pw",
+    "host": "lemmy.jaypg.pw",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://feddit.nu",
+    "host": "feddit.nu",
+    "description": "En svensk Lemmy-instans",
+    "icon": "https://feddit.nu/pictrs/image/cc741c84-ac05-4e84-9030-c5bce44f08d9.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.smgames.club",
+    "host": "lemmy.smgames.club",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.thefloatinglab.world",
+    "host": "lemmy.thefloatinglab.world",
+    "description": "Welcome to the Lemmy instance of The Floating Lab",
+    "icon": "https://lemmy.thefloatinglab.world/pictrs/image/5054ed36-ecac-4954-b31a-07e0659b729f.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.stefanoprenna.com",
+    "host": "lemmy.stefanoprenna.com",
+    "description": "Welcome to Lemmy!",
+    "icon": "https://lemmy.stefanoprenna.com/pictrs/image/166a449b-71b4-44c1-b414-9bdce08078df.gif",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://discuss.online",
+    "host": "discuss.online",
+    "description": "A general purpose instance for discovery, fun, & sharing. It's a welcoming place for all.",
+    "icon": "https://discuss.online/pictrs/image/1bbc1cb7-3eb1-484a-aeb9-e2b803a3e50a.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.today",
+    "host": "lemmy.today",
+    "description": "A fast, general purpose instance located in Oregon, USA",
+    "icon": "https://lemmy.today/pictrs/image/1207acb9-287a-40ff-b2b7-52db0636bbb0.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.bg",
+    "host": "feddit.bg",
+    "description": "Българска платформа за дискусионни групи във Федилената. Ако мастодон е като туитър, феддит е като реддит и групи във фейсбук.",
+    "icon": "https://feddit.bg/pictrs/image/38a35316-da30-4634-9fc1-4712313ca8d9.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.k2pk.com",
+    "host": "lemmy.k2pk.com",
+    "description": "A multiverse of all kinds of content",
+    "icon": "https://lemmy.k2pk.com/pictrs/image/2090ab48-e658-493d-aae3-fc619797d6f2.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://retrolemmy.com",
+    "host": "retrolemmy.com",
+    "description": "Your home away from modern life. Retro Gaming, tech, news, magazines and more!",
+    "icon": "https://retrolemmy.com/pictrs/image/e8dd9e28-74bd-4ebc-8bfb-c1c88bdf97ab.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.org",
+    "host": "feddit.org",
+    "icon": "https://feddit.org/pictrs/image/3040be45-1c62-4f5a-8786-aeee71ad37e8.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.uk",
+    "host": "feddit.uk",
+    "description": "A UK centric gateway into the fediverse.",
+    "icon": "https://feddit.uk/pictrs/image/1108a696-0e37-442e-aade-3a9b6f828d75.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://discuss.icewind.me",
+    "host": "discuss.icewind.me",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmyland.com",
+    "host": "lemmyland.com",
+    "description": "\"The Land of Lemmy\"™",
+    "icon": "https://lemmyland.com/pictrs/image/6d3cf988-f516-40af-8b60-b09a5ba9479b.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://l.posterdati.it",
+    "host": "l.posterdati.it",
+    "description": "Un server per un gruppo di amici che hanno tanta voglia di fare zingarate.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.mengsk.org",
+    "host": "lemmy.mengsk.org",
+    "description": "Home of Freedom",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://startrek.website",
+    "host": "startrek.website",
+    "description": "A Lemmy instance operated by ex-Reddit moderators from the StarTrek, Risa, and Daystrom Institute communities",
+    "icon": "https://startrek.website/pictrs/image/6b738eff-608a-4d58-90a8-1ed99327afd5.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://soccer.forum",
+    "host": "soccer.forum",
+    "description": "News, results and discussion about the beautiful game.",
+    "icon": "https://soccer.forum/pictrs/image/f832b097-6cd7-410b-ad49-71f0208ed4ab.webp",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmini.fi",
+    "host": "lemmini.fi",
+    "description": "Suomalaisille suunnattu Lemmy instanssi. 🇫🇮",
+    "icon": "https://lemmini.fi/pictrs/image/24e4c03f-96a5-4769-a4dc-18c6a8f592d4.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.curiana.net",
+    "host": "lemmy.curiana.net",
+    "description": "Personal Lemmy instance of ExLisper",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.criticalbasics.xyz",
+    "host": "lemmy.criticalbasics.xyz",
+    "description": "This is a nice place for GNU/Linux stuff, selfhosting, thinkpads, retro computing, electronics and other shenanigans.",
+    "icon": "https://lemmy.criticalbasics.xyz/pictrs/image/389b5f39-f9d1-4141-8f8b-9c39214d732f.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.moocloud.party",
+    "host": "lemmy.moocloud.party",
+    "description": "Party with the herd",
+    "icon": "https://lemmy.moocloud.party/pictrs/image/c2383acb-dc10-4bce-af5c-e046477d1a23.avif",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.14042003.xyz",
+    "host": "lemmy.14042003.xyz",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lsmu.schmurian.xyz",
+    "host": "lsmu.schmurian.xyz",
+    "description": "A friendly lemmy",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.dev.sebathefox.dk",
+    "host": "lemmy.dev.sebathefox.dk",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://board.minimally.online",
+    "host": "board.minimally.online",
+    "description": "a minimally.online service backed by lemmy",
+    "icon": "https://board.minimally.online/pictrs/image/9b3530ae-e5cd-457f-877d-933b8519b2d1.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://dullsters.net",
+    "host": "dullsters.net",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://l.roofo.cc",
+    "host": "l.roofo.cc",
+    "description": "Lemmy instance for Roofo",
+    "icon": "https://l.roofo.cc/pictrs/image/6a8ecb17-290d-4af8-935a-6a274730b758.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://beehaw.org",
+    "host": "beehaw.org",
+    "description": "Aspiring to be(e) a safe, friendly and diverse place.",
+    "icon": "https://beehaw.org/img/logo_192.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.korz.dev",
+    "host": "lemmy.korz.dev",
+    "description": "Private Lemmy Instanz",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://poweruser.forum",
+    "host": "poweruser.forum",
+    "description": "Discussion, tips and tricks for Desktop software and productivity applications",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://timeperiods.fr",
+    "host": "timeperiods.fr",
+    "description": "A series of bilingual (French/English) communities about several time periods of the past two centuries.",
+    "icon": "https://l.timeperiods.fr/pictrs/image/6b862ba1-3aab-4a88-ae0e-dd2093e7a028.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.grey.fail",
+    "host": "lemmy.grey.fail",
+    "description": "A place for greys.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.technowizardry.net",
+    "host": "lemmy.technowizardry.net",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://level-up.zone",
+    "host": "level-up.zone",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.mindoki.com",
+    "host": "lemmy.mindoki.com",
+    "description": "A bohemian artsharing freedom loving place.",
+    "icon": "https://lemmy.mindoki.com/pictrs/image/4fd2f6e7-89f2-4807-8683-fb113b9f0afb.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmyis.fun",
+    "host": "lemmyis.fun",
+    "description": "A general purpose Lemmy instance. New users welcome!",
+    "icon": "https://lemmyis.fun/pictrs/image/ef4a6525-fb18-4653-ad9e-4eff217999da.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://1337lemmy.com",
+    "host": "1337lemmy.com",
+    "description": "General Lemmy instance for open source and privacy enthusiasts or anybody looking for an open reddit alternative.",
+    "icon": "https://1337lemmy.com/pictrs/image/3bc67494-782d-418a-94fb-ee56d4c309ab.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.lukeog.com",
+    "host": "lemmy.lukeog.com",
+    "icon": "https://lemmy.lukeog.com/pictrs/image/ff43aea0-d916-420c-8abd-e08edcfdf25d.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.conorab.com",
+    "host": "lemmy.conorab.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://fed.dyne.org",
+    "host": "fed.dyne.org",
+    "description": "🕊️ Free to share code. 👩🏽‍💻 Code to share freedom.",
+    "icon": "https://fed.dyne.org/pictrs/image/1d886233-85bf-45ce-9af6-7259bbc5f5fa.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://stammtisch.hallertau.social",
+    "host": "stammtisch.hallertau.social",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://50501.chat",
+    "host": "50501.chat",
+    "description": "50 Protests 50 States 1 Movement",
+    "icon": "https://50501.chat/pictrs/image/e9676ae5-3a07-4cc9-848b-8423366a5ef6.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://switter.su",
+    "host": "switter.su",
+    "description": "Сиди не в твиттере, а в свиттере!",
+    "icon": "https://switter.su/pictrs/image/ba5ca638-5a5e-42cb-8863-aed9d22ef12f.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://feed.djcas9.com",
+    "host": "feed.djcas9.com",
+    "description": "outside the observable",
+    "icon": "https://feed.djcas9.com/pictrs/image/48ec9538-56a4-4c89-90ef-750adf1ad75a.gif",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.4d2.org",
+    "host": "lemmy.4d2.org",
+    "description": "A general purpose instance for the 4d2 dot org community",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://gregtech.eu",
+    "host": "gregtech.eu",
+    "description": "A small Slovenian leftist Lemmy instance, hosted in Germany on Hetzner with admins from Slovenia. We also love cats. ",
+    "icon": "https://gregtech.eu/pictrs/image/40b2bfe1-aa40-4c23-834a-c46037d3d15e.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://hardware.watch",
+    "host": "hardware.watch",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://redlemmy.com",
+    "host": "redlemmy.com",
+    "description": "Small instance with respectful moderation staff",
+    "icon": "https://redlemmy.com/pictrs/image/d43bf488-cb18-49f1-ba91-39def8e7ba64.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.mixdown.ca",
+    "host": "lemmy.mixdown.ca",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.tgxn.net",
+    "host": "lemmy.tgxn.net",
+    "description": "Lemmy in Perth",
+    "icon": "https://lemmich.tgxn.net/image/main-logo.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.shiny-task.com",
+    "host": "lemmy.shiny-task.com",
+    "description": "Private Instance for Me",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy2.greatpyramid.social",
+    "host": "lemmy2.greatpyramid.social",
+    "description": "Building a better future",
+    "icon": "https://lemmy2.greatpyramid.social/pictrs/image/60327768-100a-4e4c-9408-91f66f43cedb.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://fenmou.cyou",
+    "host": "fenmou.cyou",
+    "description": "日本語レミー実験場",
+    "icon": "https://fenmou.cyou/pictrs/image/81a6b95e-81b1-4743-bfa2-596219a24a32.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.teuto.icu",
+    "host": "lemmy.teuto.icu",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.blackeco.com",
+    "host": "lemmy.blackeco.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.rhymelikedi.me",
+    "host": "lemmy.rhymelikedi.me",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.okr765.com",
+    "host": "lemmy.okr765.com",
+    "description": "okr765 private Lemmy instance",
+    "icon": "https://lemmy.okr765.com/pictrs/image/2a2eefac-6b06-42b5-8b34-8f8c5bb15f7b.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.one",
+    "host": "lemmy.one",
+    "description": "The better front page of the internet",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://discuss.tchncs.de",
+    "host": "discuss.tchncs.de",
+    "description": "Enjoy your favorite Lemmy communities at tchncs! This instance is general purpose but it tends to attract techy people. It is hosted in Germany.",
+    "icon": "https://discuss.tchncs.de/pictrs/image/2254acd7-9ce1-4b07-b334-15631f2847e2.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.rochegmr.com",
+    "host": "lemmy.rochegmr.com",
+    "description": "Self hosted instance for personal use, only for me & my friends (Why I'm alone here?)",
+    "icon": "https://lemmy.rochegmr.com/pictrs/image/66f9d102-a75f-4e91-9423-9b3edd4af8c3.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://social.jrruethe.info",
+    "host": "social.jrruethe.info",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://showeq.com",
+    "host": "showeq.com",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://l.iri.cx",
+    "host": "l.iri.cx",
+    "description": "We're all mad here",
+    "icon": "https://l.iri.cx/pictrs/image/2f191907-06a9-415c-bc4f-e443a61d08b5.gif",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.schwanke.ca",
+    "host": "lemmy.schwanke.ca",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.amethyst.name",
+    "host": "lemmy.amethyst.name",
+    "description": "amethyst.name",
+    "icon": "https://lemmy.amethyst.name/pictrs/image/bab4e88c-9033-4721-b1d4-fade4e84ba2f.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.xeviousx.eu",
+    "host": "lemmy.xeviousx.eu",
+    "icon": "https://lemmy.xeviousx.eu/pictrs/image/3822a674-329f-48f4-acaa-534764fc034e.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://mlem.eldritch.gift",
+    "host": "mlem.eldritch.gift",
+    "description": "Welcome to this desolate place where dreams come to get eaten by the friendly thing in the corner.",
+    "icon": "https://mlem.eldritch.gift/pictrs/image/fd7b95cc-8aad-40d0-98c7-4f4d741ee434.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.beru.co",
+    "host": "lemmy.beru.co",
+    "description": "Just another Lemmy instance.",
+    "icon": "https://lemmy.beru.co/pictrs/image/f2d17b85-bffa-4b8a-a738-07b62c3179b7.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://0xdd.org.ru",
+    "host": "0xdd.org.ru",
+    "description": "DevDay Community Links Aggregator",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://notdigg.com",
+    "host": "notdigg.com",
+    "icon": "https://notdigg.com/pictrs/image/bed379d1-9273-4b39-a545-0245a3e3a777.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lazysoci.al",
+    "host": "lazysoci.al",
+    "description": "lemmy for the lazy",
+    "icon": "https://lazysoci.al/pictrs/image/980d1065-ccfd-4ebd-b600-180fef1fc899.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://timesink.p3nguin.org",
+    "host": "timesink.p3nguin.org",
+    "icon": "https://timesink.p3nguin.org/pictrs/image/2a70c874-793b-4bda-9f25-3975da261857.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lmy.sagf.io",
+    "host": "lmy.sagf.io",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.pt",
+    "host": "lemmy.pt",
+    "description": "Uma instância pública de Lemmy dedicada a toda a comunidade de Língua Portuguesa.",
+    "icon": "https://lemmy.pt/pictrs/image/6670473c-f67d-4cc0-bb22-6b0f8a7c6d02.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://nba.space",
+    "host": "nba.space",
+    "icon": "https://nba.space/pictrs/image/af58714d-d234-4580-acbd-07ab30e8c656.webp",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.bowyerhub.uk",
+    "host": "lemmy.bowyerhub.uk",
+    "description": "Bowyerhub Lemmy instance",
+    "icon": "https://lemmy.bowyerhub.uk/pictrs/image/160c0d1f-9781-4abb-b82b-7d04586e2edc.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.skyjake.fi",
+    "host": "lemmy.skyjake.fi",
+    "description": "skyjake's personal Lemmy instance",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.muffalings.com",
+    "host": "lemmy.muffalings.com",
+    "icon": "https://lemmy.muffalings.com/pictrs/image/dad35a32-29b3-4437-8968-e228d174bef9.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.pos005.com",
+    "host": "lemmy.pos005.com",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.hybridsarcasm.xyz",
+    "host": "lemmy.hybridsarcasm.xyz",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.nocturnal.garden",
+    "host": "lemmy.nocturnal.garden",
+    "description": "Small private Lemmy instance",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://europe.pub",
+    "host": "europe.pub",
+    "description": "European hosted decentralized Network",
+    "icon": "https://europe.pub/pictrs/image/d274e6dd-e752-4f6f-8c40-2af139c531c3.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://this.doesnotcut.it",
+    "host": "this.doesnotcut.it",
+    "description": "I wasn't happy with the other lemmy servers so I decided to host my own for myself.",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.inbutts.lol",
+    "host": "lemmy.inbutts.lol",
+    "description": "A Lemmy instance for a small community of friends.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.runesmite.com",
+    "host": "lemmy.runesmite.com",
+    "description": "We're testing in prod.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://reddthat.com",
+    "host": "reddthat.com",
+    "description": "A general Lemmy instance prioritising thoughtful communication and enjoyable communities. No email required and New communities always welcome!",
+    "icon": "https://reddthat.com/pictrs/image/42d90347-70ff-42ef-a521-c0b8f2d94933.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.kokomo.cloud",
+    "host": "lemmy.kokomo.cloud",
+    "description": "This is my selfhosted version of Lemmy on the Fediverse! Woohoo!",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.t-rg.ws",
+    "host": "lemmy.t-rg.ws",
+    "description": "Terrier_RG's Lemmy instance",
+    "icon": "https://lemmy.t-rg.ws/pictrs/image/b219db59-8442-43e9-a3a2-5e43c1bb8907.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.nikore.net",
+    "host": "lemmy.nikore.net",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://l.7rg1nt.moe",
+    "host": "l.7rg1nt.moe",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.fromshado.ws",
+    "host": "lemmy.fromshado.ws",
+    "icon": "https://lemmy.fromshado.ws/pictrs/image/06e4e5e2-ed54-4a8f-b15d-d1b564257d8a.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://netheads.online",
+    "host": "netheads.online",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://falconry.party",
+    "host": "falconry.party",
+    "description": "A Lemmy for all things falconry",
+    "icon": "https://falconry.party/pictrs/image/6f4497e7-2494-43fa-a1ee-a8ef9eef5b2a.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://communick.news",
+    "host": "communick.news",
+    "description": "A Lemmy instance provided by the Communick Team",
+    "icon": "https://communick.news/pictrs/image/a380a5b9-f78d-4612-a78d-01a81bf3d4eb.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://style.land",
+    "host": "style.land",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.balamb.fr",
+    "host": "lemmy.balamb.fr",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://links.rocks",
+    "host": "links.rocks",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.uninsane.org",
+    "host": "lemmy.uninsane.org",
+    "description": "general purpose instance, regs open to those i've interacted with here or elsewhere. if it asks for an email you’re free to leave it empty/bogus.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://eventfrontier.com",
+    "host": "eventfrontier.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.libertarianfellowship.org",
+    "host": "lemmy.libertarianfellowship.org",
+    "description": "A Lemmy instance facilitating open discussion for everyone to use :)",
+    "icon": "https://lemmy.libertarianfellowship.org/pictrs/image/9f415068-7420-4572-9d45-7bd72bb30a8e.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://vger.social",
+    "host": "vger.social",
+    "description": "A general-purpose lemmy server for Voyager supporters and contributors",
+    "icon": "https://vger.social/pictrs/image/289ec4ec-4359-4b68-a527-6ffa82ef8827.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://catata.fish",
+    "host": "catata.fish",
+    "icon": "https://catata.fish/pictrs/image/ac70e265-e768-4866-a253-7d1a71e46712.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://bitforged.space",
+    "host": "bitforged.space",
+    "description": "Welcome to The BitForged Space",
+    "icon": "https://bitforged.space/pictrs/image/55be1a1d-9e53-40db-9be5-1d31527148a8.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://mimiclem.me",
+    "host": "mimiclem.me",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://moose.best",
+    "host": "moose.best",
+    "description": "A lemmy server for meese.",
+    "icon": "https://moose.best/pictrs/image/6fdc7620-26a2-409d-a8fe-e1a830ac8a87.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://forum.snowstorm.online",
+    "host": "forum.snowstorm.online",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://biglemmowski.win",
+    "host": "biglemmowski.win",
+    "description": "User-Only Lemmy Instance",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.cryonex.net",
+    "host": "lemmy.cryonex.net",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.maxynetwork.it",
+    "host": "lemmy.maxynetwork.it",
+    "description": "Private federated lemmy instance",
+    "icon": "https://lemmy.maxynetwork.it/pictrs/image/9cb1e565-6f4d-4585-af2c-0bf95a8875a4.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://group.lt",
+    "host": "group.lt",
+    "description": "Sometimes we speak Lithuanian here. Kalbi lietuviškai?",
+    "icon": "https://group.lt/pictrs/image/zxaJzs7K0j.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.norbipeti.eu",
+    "host": "lemmy.norbipeti.eu",
+    "description": "I'm just checking this out.",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.lundgrensjostrom.com",
+    "host": "lemmy.lundgrensjostrom.com",
+    "description": "Lemmy@LundgrenSjostrom.com is a private Lemmy-instance for Niklas 'Nicke' Sjöström and possibly the closest Lundgren-Sjöström family.",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.amxl.com",
+    "host": "lemmy.amxl.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://futurology.today",
+    "host": "futurology.today",
+    "description": "A community devoted to the field of Future(s) Studies and evidence-based speculation about the development of humanity, technology, and civilization. ",
+    "icon": "https://futurology.today/pictrs/image/a8262eef-de82-4cdb-8b7c-122fcba74041.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://bookwormstory.social",
+    "host": "bookwormstory.social",
+    "description": "Ascendance of a Bookworm Community (Lemmy Edition)",
+    "icon": "https://bookwormstory.social/pictrs/image/f2b4c0d8-760b-48f0-b9aa-c53ddc19c353.webp",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.myserv.one",
+    "host": "lemmy.myserv.one",
+    "description": "Users are encouraged to join this Lemmy Server. This Lemmy server was setup to help reduce load on other Lemmy servers.",
+    "icon": "https://i.imgur.com/3tSHsoS.jpg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmit.ro",
+    "host": "lemmit.ro",
+    "description": "Serverul românesc de Lemmy",
+    "icon": "https://lemmit.ro/pictrs/image/bad087f5-9f5d-4a47-a7c2-7b3c5df08e5a.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://orbiting.observer",
+    "host": "orbiting.observer",
+    "description": "High over the surface of the earth, a lone orbiting observer swings around the planet.",
+    "icon": "https://orbiting.observer/pictrs/image/54a21f9f-f66d-4df6-a11a-d248ab69cc54.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://links.gayfr.online",
+    "host": "links.gayfr.online",
+    "description": "Lemmy pour la communauté gay francophone : liberté de nos échanges, partage d'expériences, bons plans, plaisirs, désirs et tous sujets de conversation",
+    "icon": "https://links.gayfr.online/pictrs/image/178d24e6-f5dc-4de8-be2f-8faa039b10ee.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.quirijngb.com",
+    "host": "lemmy.quirijngb.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://seattlelunarsociety.org",
+    "host": "seattlelunarsociety.org",
+    "description": "Thinkers, creators, dreamers, change-makers.  Just trying to put some good stuff out into the world.  ",
+    "icon": "https://seattlelunarsociety.org/pictrs/image/53085e0c-64e3-436c-88b5-397b6c139223.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.nz",
+    "host": "lemmy.nz",
+    "description": "Lemmy for New Zealanders",
+    "icon": "https://lemmy.nz/pictrs/image/d308ef8d-4381-4a7a-b047-569ed5b8dd88.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lem.afiz.org",
+    "host": "lem.afiz.org",
+    "description": "Lemmy instance",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://fedit.pl",
+    "host": "fedit.pl",
+    "description": "Polska alternatywa dla Reddita w Fediwersum.",
+    "icon": "https://fedit.pl/pictrs/image/0b744096-d30d-4a54-8db3-ca62883f390a.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.thewooskeys.com",
+    "host": "lemmy.thewooskeys.com",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://feddit.is",
+    "host": "feddit.is",
+    "description": "Íslenskt spjallborð fyrir öll áhugamál og umræðuefni",
+    "icon": "https://feddit.is/pictrs/image/73462ccd-838c-48e6-9467-9c6c4cf66657.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://slrpnk.net",
+    "host": "slrpnk.net",
+    "description": "Solarpunk imagines a world in which today’s existential threat - the climate crisis - is being approached with camaraderie and adaptive ingenuity.",
+    "icon": "https://slrpnk.net/pictrs/image/bb8631b7-231b-4709-823d-fa4c8e201866.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.duckpond.social",
+    "host": "lemmy.duckpond.social",
+    "description": "Lemmyinstanz für den DuckPond",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://champserver.net",
+    "host": "champserver.net",
+    "icon": "https://champserver.net/pictrs/image/52cc0dd5-3300-45e0-86d1-594d0325b275.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.billiam.net",
+    "host": "lemmy.billiam.net",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://rekabu.ru",
+    "host": "rekabu.ru",
+    "description": "Сервер русскоязычного сообщества lemmy",
+    "icon": "https://rekabu.ru/pictrs/image/9641e629-46ff-4b5f-abb3-2a576af82c32.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.jlh.name",
+    "host": "lemmy.jlh.name",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://chachara.club",
+    "host": "chachara.club",
+    "description": "¡Os damos la bienvenida a ChácharaClub!",
+    "icon": "https://chachara.club/pictrs/image/4d0634a1-a2cb-4c1b-a255-b915b0b63894.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.schlunker.com",
+    "host": "lemmy.schlunker.com",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.cronyakatsuki.xyz",
+    "host": "lemmy.cronyakatsuki.xyz",
+    "description": "Place where crony's come to chill",
+    "icon": "https://lemmy.cronyakatsuki.xyz/pictrs/image/967edc29-1afa-4baa-8b83-8fa9dc8dbf85.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://pawb.social",
+    "host": "pawb.social",
+    "description": "Fediverse Communities For Furries By Furries.",
+    "icon": "https://pawb.social/pictrs/image/80151cb7-e0a4-4e58-93da-d23a4d1dc38e.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmings.sopelj.ca",
+    "host": "lemmings.sopelj.ca",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://www.geekroom.tech",
+    "host": "www.geekroom.tech",
+    "description": "A safe haven for tech enthusiasts alike",
+    "icon": "https://geekroom.tech/pictrs/image/eb2ef610-06a8-46bf-850b-61ec940a64ea.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lem.serkozh.me",
+    "host": "lem.serkozh.me",
+    "description": "Sergey Kozharinov's Private Lemmy Instance.",
+    "icon": "https://lem.serkozh.me/pictrs/image/7aa089f4-b3f3-4cf9-b439-dcbe6a833f4f.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://viewfinder.pro",
+    "host": "viewfinder.pro",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://l.mchome.net",
+    "host": "l.mchome.net",
+    "description": "Just a small server. No Signups.",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.caliban.io",
+    "host": "lemmy.caliban.io",
+    "description": "Lemmy",
+    "icon": "https://lemmy.caliban.io/pictrs/image/e0037e2f-01a3-4a9d-ba23-2e8545a7b5b0.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lem.free.as",
+    "host": "lem.free.as",
+    "icon": "https://lem.free.as/pictrs/image/dbc77117-3d32-4972-88d0-9b5a61cd2d7a.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://awful.systems",
+    "host": "awful.systems",
+    "description": "the jank is a feature",
+    "icon": "https://awful.systems/pictrs/image/31f04c12-f14b-486b-ba4f-8810789fb131.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.byrdcrouse.com",
+    "host": "lemmy.byrdcrouse.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.hangdaan.com",
+    "host": "lemmy.hangdaan.com",
+    "description": "This is the official Lemmy instance of the Hangdaans.",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.radio",
+    "host": "lemmy.radio",
+    "description": "A lemmy instance for amateur radio enthusiasts and communities.",
+    "icon": "https://lemmy.radio/pictrs/image/ac556d03-80e5-4ca4-bcce-26a93bff07d9.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.bascul.in",
+    "host": "lemmy.bascul.in",
+    "description": "Basculin's Lemmy Server",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lx.pontual.social",
+    "host": "lx.pontual.social",
+    "description": "A link aggregator for the fediverse.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.bosio.info",
+    "host": "lemmy.bosio.info",
+    "description": "Istanza personale e privata Lemmy",
+    "icon": "https://lemmy.bosio.info/pictrs/image/1e6dce45-d43f-489a-976b-f15c64544d55.webp",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmings.world",
+    "host": "lemmings.world",
+    "description": "Lemmy instance for all Lemmings (aka general purpose instance for everyone)!",
+    "icon": "https://lemmings.world/pictrs/image/2fdcd3ab-35ce-4f70-9eb4-6239c4409c60.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://sappho.social",
+    "host": "sappho.social",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://sub.wetshaving.social",
+    "host": "sub.wetshaving.social",
+    "description": "A Community Dedicated to Traditional Wetshaving.",
+    "icon": "https://sub.wetshaving.social/pictrs/image/8c1c67c2-4769-425c-abdf-9d6a7746b97d.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://sha1.nl",
+    "host": "sha1.nl",
+    "description": "Private Lemmy instance",
+    "icon": "https://sha1.nl/pictrs/image/9fe45f77-192d-438e-a373-9f34025edf32.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.foxden.party",
+    "host": "lemmy.foxden.party",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://blockchained.world",
+    "host": "blockchained.world",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.eus",
+    "host": "lemmy.eus",
+    "description": "Euskarazko web-foro libre eta federatuak. Euskalmemeak, software librea, fedibertsoa, etimologiak...",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://nodesphere.site",
+    "host": "nodesphere.site",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.yachts",
+    "host": "lemmy.yachts",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.sietch.online",
+    "host": "lemmy.sietch.online",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.sdf.org",
+    "host": "lemmy.sdf.org",
+    "description": "A Lemmy instance hosted by the SDF.ORG",
+    "icon": "https://lemmy.sdf.org/pictrs/image/28cea32f-f1f8-4225-97a4-58542dd4ffd5.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://hilariouschaos.com",
+    "host": "hilariouschaos.com",
+    "description": "A Dope Ass Lemmy Community",
+    "icon": "https://hilariouschaos.com/pictrs/image/78983b5d-bdac-4cf5-9f79-9f3759ef3cba.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://antiquelemmy.com",
+    "host": "antiquelemmy.com",
+    "description": "A Meme Instance Self-Hosted on a Intel Core Duo E7400 with 4GB DDR2 RAM.",
+    "icon": "https://antiquelemmy.com/pictrs/image/4eda6de5-6b3d-4d13-b712-efa8a3ddad21.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.gregw.us",
+    "host": "lemmy.gregw.us",
+    "description": "Yet Another Lemmy Instance",
+    "icon": "https://lemmy.gregw.us/pictrs/image/17669c07-a3bc-451a-83aa-2ffaecd8baef.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.30p87.de",
+    "host": "lemmy.30p87.de",
+    "description": "UwU",
+    "icon": "https://lemmy.30p87.de/pictrs/image/fc8e8207-8d3b-446e-87d3-b3bd6590cd78.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://ttrpg.network",
+    "host": "ttrpg.network",
+    "description": "a site dedicated to TTRPG discussion, memes, news, etc.",
+    "icon": "https://ttrpg.network/pictrs/image/508a8912-7784-47ca-810b-65c9ce72c599.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://jlai.lu",
+    "host": "jlai.lu",
+    "description": "Instance Lemmy française, un forum de discussion pour tous les français et francophones !",
+    "icon": "https://jlai.lu/pictrs/image/bff3e14d-7147-4443-bb8f-8844b91db549.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://sfw.community",
+    "host": "sfw.community",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.onlylans.io",
+    "host": "lemmy.onlylans.io",
+    "description": "A general purpose Lemmy instance.",
+    "icon": "https://lemmy.onlylans.io/pictrs/image/5a3dde3b-992f-4232-ba42-9bf197eec4a1.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.0xloc.org",
+    "host": "lemmy.0xloc.org",
+    "description": "A place to learn and get questions answered you can't get answers to elsewhere",
+    "icon": "https://lemmy.0xloc.org/pictrs/image/a3f5833e-f3d5-48e3-8d36-f042197185ed.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://corrigan.space",
+    "host": "corrigan.space",
+    "description": "A lemmy instance for just me",
+    "icon": "https://corrigan.space/pictrs/image/9465a045-31ff-4ec4-b0a2-e0c8685cb755.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.klein.ruhr",
+    "host": "lemmy.klein.ruhr",
+    "icon": "https://lemmy.klein.ruhr/pictrs/image/17d9762a-fb07-4e68-9f9f-716f723a172f.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.ca",
+    "host": "lemmy.ca",
+    "description": "A Canadian-run community, geared towards Canadians, but all are welcome!",
+    "icon": "https://lemmy.ca/pictrs/image/972a47e9-05be-40d0-b5ea-36c81a43b56b.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://bolha.forum",
+    "host": "bolha.forum",
+    "description": "Bolha.io Lemmy Instance",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.nowsci.com",
+    "host": "lemmy.nowsci.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lajilao.com",
+    "host": "lajilao.com",
+    "description": "有点意思",
+    "icon": "https://lajilao.com/pictrs/image/9edb5634-a47a-4e8e-976e-51de06bcc494.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.cleberg.net",
+    "host": "lemmy.cleberg.net",
+    "description": "Lemmy on cleberg.net",
+    "icon": "https://lemmy.cleberg.net/pictrs/image/0b14643b-c13b-43ae-aeb0-2b52746ebde4.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.hostux.net",
+    "host": "lemmy.hostux.net",
+    "description": "lemmy.hostux.net",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://585716.xyz",
+    "host": "585716.xyz",
+    "description": "Lemmy of western NY",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://l3mmy.com",
+    "host": "l3mmy.com",
+    "description": "A general-purpose Lemmy instance.",
+    "icon": "https://www.l3mmy.com/pictrs/image/961a23d6-556f-437c-ae77-42c8fc85ab6d.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://rollenspiel.forum",
+    "host": "rollenspiel.forum",
+    "description": "Eine deutschsprachige Instanz für Rollenspieler. Wir bieten einen platz für Rollenspiel, Pen & Paper, Tabletop, TCG und vieles mehr.",
+    "icon": "https://rollenspiel.forum/pictrs/image/e010e5b5-7009-4860-b6d8-c87eda58ea7e.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://what.forfi.win",
+    "host": "what.forfi.win",
+    "description": "Just me",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://reddeet.com",
+    "host": "reddeet.com",
+    "description": "A generic instance with a cool domain name !",
+    "icon": "https://reddeet.com/pictrs/image/446fb528-4a8c-4225-867d-05e2ff4a6675.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://programming.dev",
+    "host": "programming.dev",
+    "description": "A collection of programming communities",
+    "icon": "https://programming.dev/pictrs/image/1e947440-0f0d-4768-ba4b-1480551e7cc9.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://geekroom.tech",
+    "host": "geekroom.tech",
+    "description": "A safe haven for tech enthusiasts alike",
+    "icon": "https://geekroom.tech/pictrs/image/eb2ef610-06a8-46bf-850b-61ec940a64ea.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://altmedia.house",
+    "host": "altmedia.house",
+    "description": "A selection of high quality media sources from outside the mainstream.",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://proit.org",
+    "host": "proit.org",
+    "description": "A place to talk about anything, but mostly technology!",
+    "icon": "https://proit.org/pictrs/image/4cabd987-71d8-4eb4-a6b2-74a297e5bdf1.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.ctrlq.dev",
+    "host": "lemmy.ctrlq.dev",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://linkage.ds8.zone",
+    "host": "linkage.ds8.zone",
+    "description": "Linkage @ DS8 is a participant in the Lemmy federation that focuses on free (libre) software and culture.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://social.p80.se",
+    "host": "social.p80.se",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lt.harding.dev",
+    "host": "lt.harding.dev",
+    "description": "Testing for Voyager App",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://acqrs.co.uk",
+    "host": "acqrs.co.uk",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.jacaranda.club",
+    "host": "lemmy.jacaranda.club",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.jtworld.xyz",
+    "host": "lemmy.jtworld.xyz",
+    "description": "A Lemmy Insance for Writers and Creators to just hang out",
+    "icon": "https://lemmy.jtworld.xyz/pictrs/image/2e4ca151-c873-4f47-9139-26eeb36a161d.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://flamewar.social",
+    "host": "flamewar.social",
+    "icon": "https://flamewar.social/pictrs/image/65f30eff-d3ca-427b-a997-1949a909068a.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.browntown.dev",
+    "host": "lemmy.browntown.dev",
+    "icon": "https://lemmy.browntown.dev/pictrs/image/0c3bba1d-ed1a-4ab5-af5f-5d18d5d27009.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.meissners.me",
+    "host": "lemmy.meissners.me",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.laitinlok.com",
+    "host": "lemmy.laitinlok.com",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://waterloolemmy.ca",
+    "host": "waterloolemmy.ca",
+    "description": "This Lemmy Instance is meant for Waterloo Region and surrounding communities",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://hub.astromagna.com",
+    "host": "hub.astromagna.com",
+    "description": "New MMORPG in the Player-driven Space Sandbox genre",
+    "icon": "https://hub.astromagna.com/pictrs/image/2522dc8d-413f-46fe-b970-4f9b21ca36a7.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.pe1uca.dev",
+    "host": "lemmy.pe1uca.dev",
+    "description": "Personal instance to connect to the fediverse",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://api-dev.rabotaem.app",
+    "host": "api-dev.rabotaem.app",
+    "icon": "https://api-dev.rabotaem.app/pictrs/image/42108347-6b39-4c01-95ef-333349e71a41.webp",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.fedifriends.social",
+    "host": "lemmy.fedifriends.social",
+    "description": "Eine kleine Privatinstanz",
+    "icon": "https://lemmy.fedifriends.social/pictrs/image/9354a85e-474b-4e9b-aba8-e5e0ed0d703b.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://tucson.social",
+    "host": "tucson.social",
+    "description": "Tucson's own social network!",
+    "icon": "https://tucson.social/pictrs/image/64d5d77c-df85-45ed-be7c-c411862a5261.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://social.ggbox.fr",
+    "host": "social.ggbox.fr",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.beagle.quest",
+    "host": "lemmy.beagle.quest",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://l.sw0.com",
+    "host": "l.sw0.com",
+    "description": "Private Instance",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmynsfw.com",
+    "host": "lemmynsfw.com",
+    "description": "NSFW (18+) only instance for Lemmy",
+    "icon": "https://lemmynsfw.com/pictrs/image/76ea302e-6e86-486f-8ec2-0142b7eabb1f.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.az.social",
+    "host": "lemmy.az.social",
+    "description": "Lemmy Server for the State of Arizona",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://indiehackers.space",
+    "host": "indiehackers.space",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://campfyre.nickwebster.dev",
+    "host": "campfyre.nickwebster.dev",
+    "description": "Somehow, campfyre returned",
+    "icon": "https://campfyre.nickwebster.dev/pictrs/image/79d94901-6501-49ac-b691-62ad6e8bb0d6.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.waynetec.us",
+    "host": "lemmy.waynetec.us",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://upvote.au",
+    "host": "upvote.au",
+    "description": "Private instance for @dan",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://fedii.me",
+    "host": "fedii.me",
+    "icon": "https://fedii.me/pictrs/image/a7c1e803-4dbd-4f2e-8d5c-3eeddb3ca967.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.stuart.fun",
+    "host": "lemmy.stuart.fun",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.tomateaux.com",
+    "host": "lemmy.tomateaux.com",
+    "description": "A place to share my everyday feelings — from tomateaux",
+    "icon": "https://lemmy.tomateaux.com/pictrs/image/a230b2a1-c574-4675-8ee4-045bf29e9595.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://downonthestreet.eu",
+    "host": "downonthestreet.eu",
+    "description": "Down On The Street",
+    "icon": "https://downonthestreet.eu/pictrs/image/e375357d-a2ed-4f53-923f-40ee5de4a8d3.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.sieprawski.pl",
+    "host": "lemmy.sieprawski.pl",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://tkohhh.social",
+    "host": "tkohhh.social",
+    "icon": "https://tkohhh.social/pictrs/image/2c13eeeb-5537-4908-9fd7-0e9b403235ac.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.deedium.nl",
+    "host": "lemmy.deedium.nl",
+    "description": "Deedium Lemmy (private community for now)",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.org",
+    "host": "lemmy.org",
+    "description": "General purpose Lemmy instance.",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.toastdog.net",
+    "host": "lemmy.toastdog.net",
+    "icon": "https://lemmy.toastdog.net/pictrs/image/1e4af1f2-2841-4835-adc1-f6cc3c20a6db.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.ananace.dev",
+    "host": "lemmy.ananace.dev",
+    "description": "Just a Lemmy on Kubernetes",
+    "icon": "https://lemmy.ananace.dev/pictrs/image/6cf99bdf-2fe6-4ff1-8ad0-dee6946921c1.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://orbi.camp",
+    "host": "orbi.camp",
+    "description": "Social news aggregation. A west coast Lemmy server!",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://wired.bluemarch.art",
+    "host": "wired.bluemarch.art",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.monster",
+    "host": "lemmy.monster",
+    "description": "the lemmy.monster is a small Lemmy instance supported by a monster.",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.kmoneyserver.com",
+    "host": "lemmy.kmoneyserver.com",
+    "description": "My Lemmy",
+    "icon": "https://lemmy.kmoneyserver.com/pictrs/image/29a0eeb9-1a1c-42bc-883d-4916212bbdb6.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.installation00.org",
+    "host": "lemmy.installation00.org",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://infosec.pub",
+    "host": "infosec.pub",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://xn--mh-fkaaaaaa.schuetze.link",
+    "host": "xn--mh-fkaaaaaa.schuetze.link",
+    "icon": "https://xn--mh-fkaaaaaa.schuetze.link/pictrs/image/23ff0868-102b-4d1a-b9b4-abebd602d5a7.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.0upti.me",
+    "host": "lemmy.0upti.me",
+    "description": "Private instance, please ignore",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmygrad.ml",
+    "host": "lemmygrad.ml",
+    "description": "A collection of Marxist communities, for memes, learning, news, discussion, media, or anything you like.",
+    "icon": "https://lemmygrad.ml/pictrs/image/beb2f32d-8884-49a4-b21c-7e3582c09b87.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.kfed.org",
+    "host": "lemmy.kfed.org",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://realbitcoin.cash",
+    "host": "realbitcoin.cash",
+    "description": "Following the rise of Bitcoin (BCH) to world reserve currency status.",
+    "icon": "https://realbitcoin.cash/pictrs/image/294c4ea6-0fe4-4d92-acd2-2173cecf1733.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://happysl.app",
+    "host": "happysl.app",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.cafe",
+    "host": "lemmy.cafe",
+    "description": "A general purpose fediverse instance",
+    "icon": "https://lemmy.cafe/static-img/site-icon.webp",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://midwest.social",
+    "host": "midwest.social",
+    "description": "A lemmy server for, but not limited to, leftists in the Midwest USA",
+    "icon": "https://midwest.social/pictrs/image/e2a28e91-529b-46ac-8fe7-e0e22a8b517a.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://l.swee.codes",
+    "host": "l.swee.codes",
+    "description": "a very silly lemmy instance",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://matchpoint.zone",
+    "host": "matchpoint.zone",
+    "icon": "https://matchpoint.zone/pictrs/image/2869b6ef-4785-4e31-9098-618f1d67e115.webp",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.sumuun.net",
+    "host": "lemmy.sumuun.net",
+    "description": "General purpose instance. ",
+    "icon": "https://lemmy.sumuun.net/pictrs/image/3889a9ca-f4bc-44a5-9107-3fcd03f0e298.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.lama-corp.space",
+    "host": "lemmy.lama-corp.space",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.coffee",
+    "host": "lemmy.coffee",
+    "description": "Welcome to the true front page of the internet!",
+    "icon": "https://lemmy.coffee/pictrs/image/33119285-a24a-4507-a748-0cc8cab50ceb.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://whemic.xyz",
+    "host": "whemic.xyz",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.digitalcharon.in",
+    "host": "lemmy.digitalcharon.in",
+    "description": "A lemmy instance I set up for myself",
+    "icon": "https://lemmy.digitalcharon.in/pictrs/image/e56a8f51-0fca-484d-ad01-9453a936b34c.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.noellesporn.de",
+    "host": "lemmy.noellesporn.de",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://gioia.news",
+    "host": "gioia.news",
+    "icon": "https://gioia.news/pictrs/image/6bc53084-41bf-4f97-893d-1c1fdd93137a.webp",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.plaureano.nohost.me",
+    "host": "lemmy.plaureano.nohost.me",
+    "description": "Paulo Laureano's Lemmy instance",
+    "icon": "https://lemmy.plaureano.nohost.me/pictrs/image/79a04c68-a00c-4e2e-951f-fb1ceef0a7db.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.ml",
+    "host": "lemmy.ml",
+    "description": "A community of privacy and FOSS enthusiasts, run by Lemmy’s developers",
+    "icon": "https://lemmy.ml/pictrs/image/fa6d9660-4f1f-4e90-ac73-b897216db6f3.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://linux.community",
+    "host": "linux.community",
+    "description": "Linux.Chat Communities is a fun, friendly and inclusive place for all things Linux® and opensource.",
+    "icon": "https://linux.community/pictrs/image/8bcf0916-9eae-4da4-8bcb-1b07f1a4e6fa.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.kya.moe",
+    "host": "lemmy.kya.moe",
+    "description": "\"Personal\" Lemmy Instance",
+    "icon": "https://lemmy.kya.moe/imgproxy?src=lemmy.kya.moe%2fpictrs/image/1bc6d963-78f6-4be6-a269-2bc466808b86.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://helvetiverse.ch",
+    "host": "helvetiverse.ch",
+    "description": "Swiss based general purpose instance. Still in test-mode",
+    "icon": "https://helvetiverse.ch/pictrs/image/a9a13604-e19c-4c68-87ae-a76a5b3cfae3.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://blog.kaki87.net",
+    "host": "blog.kaki87.net",
+    "description": "KaKi's federated blog",
+    "icon": "https://blog.kaki87.net/pictrs/image/cb112dc8-c6dc-4ecb-9019-4753eddb4c82.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.tespia.org",
+    "host": "lemmy.tespia.org",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.chigityk.com",
+    "host": "lemmy.chigityk.com",
+    "description": "A California Based Lemmy Instance",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.timwaterhouse.com",
+    "host": "lemmy.timwaterhouse.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://unlemmy.com",
+    "host": "unlemmy.com",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://forum.uncomfortable.business",
+    "host": "forum.uncomfortable.business",
+    "icon": "https://forum.uncomfortable.business/pictrs/image/1cd00df5-0478-4a04-9f7a-0d636b7f3ddd.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmyusa.com",
+    "host": "lemmyusa.com",
+    "description": "We are a general purpose instance based in the U.S. but open to everyone. ",
+    "icon": "https://lemmyusa.com/pictrs/image/572550c5-2621-4103-a33b-e0e7c4be0d14.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.mods4ever.com",
+    "host": "lemmy.mods4ever.com",
+    "description": "Mods4Ever",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.8bitar.io",
+    "host": "lemmy.8bitar.io",
+    "description": "8bitar.io",
+    "icon": "https://lemmy.8bitar.io/pictrs/image/9f585534-8b03-4b30-848c-fa3c4a46901d.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.javant.xyz",
+    "host": "lemmy.javant.xyz",
+    "description": "Welcome to our Lemmy instance! We are a vibrant community of like-minded individuals who believe in free and open discussion.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://healthy.community",
+    "host": "healthy.community",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.paulstevens.org",
+    "host": "lemmy.paulstevens.org",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.dbzer0.com",
+    "host": "lemmy.dbzer0.com",
+    "description": "Be Weird, Download a Car, Generate Art, Screw Copyrights, Do Maths",
+    "icon": "https://lemmy.dbzer0.com/pictrs/image/c9915186-ca30-4f5a-873c-a91287fb4419.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://sub.community",
+    "host": "sub.community",
+    "description": "Subscribe to your communities.",
+    "icon": "https://sub.community/pictrs/image/feb3eef4-48d6-49d5-b4db-ba22fee033cb.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://fstab.sh",
+    "host": "fstab.sh",
+    "description": "/etc/fstab",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.peoplever.se",
+    "host": "lemmy.peoplever.se",
+    "description": "We are evolving",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.cixoelectronic.pl",
+    "host": "lemmy.cixoelectronic.pl",
+    "description": "Polish lemmy server, respecting privacy and independent of hosting companies.",
+    "icon": "https://lemmy.cixoelectronic.pl/pictrs/image/73dbb127-cb29-4f4b-a356-b958e4ef1bb3.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.brdsnest.net",
+    "host": "lemmy.brdsnest.net",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://hexbear.net",
+    "host": "hexbear.net",
+    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
+    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://toast.ooo",
+    "host": "toast.ooo",
+    "description": "the home of fediverse events (canvas and friends)",
+    "icon": "https://toast.ooo/pictrs/image/8a73f529-0519-4cbd-b0df-32d78509dc22.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.frozeninferno.xyz",
+    "host": "lemmy.frozeninferno.xyz",
+    "description": "A general purpose instance for anything.",
+    "icon": "https://lemmy.frozeninferno.xyz/pictrs/image/64ddf445-e572-47cd-a274-34858b75870f.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.thc.sh",
+    "host": "lemmy.thc.sh",
+    "description": "A small, open, federated and friendly lemmy instance ran by the cats at thc.sh.",
+    "icon": "https://lemmy.thc.sh/pictrs/image/d5138d1a-c5bb-41ba-9035-bd3f5ccc4272.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lm.korako.me",
+    "host": "lm.korako.me",
+    "description": "日本語話者向けLemmyインスタンスです",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://news.wigger.one",
+    "host": "news.wigger.one",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://mander.xyz",
+    "host": "mander.xyz",
+    "description": "An instance dedicated to nature and science.",
+    "icon": "https://mander.xyz/pictrs/image/2fc86ef3-797e-4bcd-bcca-e75cdf0959f9.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.corbin.sh",
+    "host": "lemmy.corbin.sh",
+    "icon": "https://lemmy.corbin.sh/pictrs/image/eed45f56-7131-4226-9084-b313a906492b.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://cix.xcelerator.co.in",
+    "host": "cix.xcelerator.co.in",
+    "description": "Communities hosted by xcelerator",
+    "icon": "https://cix.xcelerator.co.in/pictrs/image/3a80cfc9-b47c-4502-9395-1afb801b765f.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.snoozetown.org",
+    "host": "lemmy.snoozetown.org",
+    "description": "Private Instance",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.blahaj.zone",
+    "host": "lemmy.blahaj.zone",
+    "description": "A general purpose lemmy instance for gender diverse folk and their allies. ",
+    "icon": "https://lemmy.blahaj.zone/pictrs/image/3e1a4ae0-fd38-4ea5-b9ca-da069cded5d7.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.science.social",
+    "host": "lemmy.science.social",
+    "description": "Science.Social is a social-media platform built for people with a passion for science. Running in a decentralized, privacy-focused ecosystem.",
+    "icon": "https://lemmy.science.social/pictrs/image/5dc3f889-ac6c-4104-9a25-a584b4259a8c.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.enticedwanderer.com",
+    "host": "lemmy.enticedwanderer.com",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.chillypenguin.net",
+    "host": "lemmy.chillypenguin.net",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.services.coupou.fr",
+    "host": "lemmy.services.coupou.fr",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://links.roobre.es",
+    "host": "links.roobre.es",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.golgafrinchan.org",
+    "host": "lemmy.golgafrinchan.org",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://krabb.org",
+    "host": "krabb.org",
+    "description": "A place to hang and be cool to one another",
+    "icon": "https://krabb.org/pictrs/image/c1a10afa-9043-4298-b6a6-8975aa91ab99.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lem.ph3j.com",
+    "host": "lem.ph3j.com",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.sonne-frederiksen.com",
+    "host": "lemmy.sonne-frederiksen.com",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://weilou.top",
+    "host": "weilou.top",
+    "description": "给说中文的人一个讨论的空间",
+    "icon": "https://weilou.top/pictrs/image/50ceaf37-f111-4363-8b90-f944a32eeed8.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.rldn.net",
+    "host": "lemmy.rldn.net",
+    "description": "ill come up with one later.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.nothavingthis.co.uk",
+    "host": "lemmy.nothavingthis.co.uk",
+    "description": "When you've given up and not having it anymore.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://philosophy.cafe",
+    "host": "philosophy.cafe",
+    "description": "哲学カフェのためのオンラインプラットフォームです。話題提起・議論への参加ができます。",
+    "icon": "https://philosophy.cafe/pictrs/image/88e89655-3708-4697-af77-e876a7d71596.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.suicideserver.net",
+    "host": "lemmy.suicideserver.net",
+    "icon": "https://lemmy.suicideserver.net/pictrs/image/9e85d55f-c23b-4565-9cc9-8d41d7efac39.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://lemmy.mair.io",
+    "host": "lemmy.mair.io",
+    "description": "private fediverse server",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.izanami.moe",
+    "host": "lemmy.izanami.moe",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://Mujico.org",
+    "host": "mujico.org",
+    "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
+    "icon": "https://mujico.org/pictrs/image/f78f4ff7-3e48-414f-abf1-102e87e72682.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://academy.garden",
+    "host": "academy.garden",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
+    "url": "https://www.hexbear.net",
+    "host": "www.hexbear.net",
+    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
+    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.ferg.al",
+    "host": "lemmy.ferg.al",
+    "description": "A few of my ferglie things.",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  }
+]

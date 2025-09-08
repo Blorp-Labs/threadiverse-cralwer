@@ -156,7 +156,6 @@ async function crawl() {
     const outPath = path.join(process.cwd(), "public", "v1");
     await fs.mkdir(outPath, { recursive: true });
     await fs.writeFile(path.join(outPath, "instances.json"), JSON.stringify(sorted, null, 2));
-    await fs.writeFile(path.join(outPath, "instances.min.json"), JSON.stringify(sorted));
   }
 
   const id2 = setInterval(() => {

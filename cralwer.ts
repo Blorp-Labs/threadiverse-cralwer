@@ -152,7 +152,7 @@ async function crawl() {
 
   const write = async () => {
     const items = (await dataset.getData()).items as Instance[];
-    const sorted = _.sortBy(items, 'host')
+    const sorted = _.sortBy(_.uniqBy(items, 'host'), 'host')
     const outPath = path.join(process.cwd(), "public", "v1");
     await fs.mkdir(outPath, { recursive: true });
     await fs.writeFile(path.join(outPath, "instances.json"), JSON.stringify(sorted, null, 2));

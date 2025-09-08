@@ -181,14 +181,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://jlai.lu",
-    "host": "jlai.lu",
-    "description": "Instance Lemmy française, un forum de discussion pour tous les français et francophones !",
-    "icon": "https://jlai.lu/pictrs/image/bff3e14d-7147-4443-bb8f-8844b91db549.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://leminal.space",
     "host": "leminal.space",
     "description": "Take a break from the slow-burn apocalypse of late stage capitalism's race to the bottom",
@@ -235,14 +227,6 @@
     "icon": "https://lemmy.cafe/static-img/site-icon.webp",
     "software": "lemmy",
     "registrationMode": "Open"
-  },
-  {
-    "url": "https://lemmy.dbzer0.com",
-    "host": "lemmy.dbzer0.com",
-    "description": "Be Weird, Download a Car, Generate Art, Screw Copyrights, Do Maths",
-    "icon": "https://lemmy.dbzer0.com/pictrs/image/c9915186-ca30-4f5a-873c-a91287fb4419.webp",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://lemmy.dbzer0.com",
@@ -395,22 +379,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://mander.xyz",
-    "host": "mander.xyz",
-    "description": "An instance dedicated to nature and science.",
-    "icon": "https://mander.xyz/pictrs/image/2fc86ef3-797e-4bcd-bcca-e75cdf0959f9.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://midwest.social",
-    "host": "midwest.social",
-    "description": "A lemmy server for, but not limited to, leftists in the Midwest USA",
-    "icon": "https://midwest.social/pictrs/image/e2a28e91-529b-46ac-8fe7-e0e22a8b517a.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://midwest.social",
     "host": "midwest.social",
     "description": "A lemmy server for, but not limited to, leftists in the Midwest USA",
@@ -507,6 +475,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://scribe.disroot.org",
+    "host": "scribe.disroot.org",
+    "description": "Disroot's Community Lemmy Instance",
+    "icon": "https://scribe.disroot.org/pictrs/image/924a9b6c-bca5-4851-aadd-855b22cef9f0.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://sh.itjust.works",
     "host": "sh.itjust.works",
     "description": "A bilingual (EN/FR) general-purpose instance located in eastern Canada! Powered by 99% renewable energy! Everyone is welcome eh.",
@@ -565,30 +541,6 @@
   {
     "url": "https://www.chapo.chat",
     "host": "www.chapo.chat",
-    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
-    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://www.hexbear.net",
-    "host": "www.hexbear.net",
-    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
-    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://www.hexbear.net",
-    "host": "www.hexbear.net",
-    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
-    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://www.hexbear.net",
-    "host": "www.hexbear.net",
     "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
     "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
     "software": "lemmy",

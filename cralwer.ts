@@ -174,9 +174,12 @@ async function crawl() {
     "https://lemmy.zip",
     "https://lemmy.ml",
     "https://piefed.world",
+    "https://piefed.zip",
+    "https://piefed.world",
   ]);
 
   clearTimeout(id1)
+  clearInterval(id2)
   write();
 }
 crawl();

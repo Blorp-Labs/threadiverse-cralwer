@@ -2,8 +2,8 @@ name: Daily Crawl & Publish
 
 on:
   schedule:
-    # Daily at 06:00 UTC (1–2 AM ET depending on DST)
-    - cron: "0 6 * * *"
+    # Weekly at 06:00 UTC (1–2 AM ET depending on DST)
+    - cron: "0 6 * * 1"
   workflow_dispatch:
 
 permissions:

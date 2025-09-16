@@ -181,10 +181,10 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://leminal.space",
-    "host": "leminal.space",
-    "description": "Take a break from the slow-burn apocalypse of late stage capitalism's race to the bottom",
-    "icon": "https://leminal.space/pictrs/image/769c757a-3298-45ef-828a-25e5a7c27373.png",
+    "url": "https://lemdro.id",
+    "host": "lemdro.id",
+    "description": "A place for tech enthusiasts and more!",
+    "icon": "https://lemdro.id/pictrs/image/609c5787-6b5c-40e1-aba6-5123df2ea35e.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -295,14 +295,6 @@
     "host": "lemmy.pt",
     "description": "Uma instância pública de Lemmy dedicada a toda a comunidade de Língua Portuguesa.",
     "icon": "https://lemmy.pt/pictrs/image/6670473c-f67d-4cc0-bb22-6b0f8a7c6d02.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://lemmy.sdf.org",
-    "host": "lemmy.sdf.org",
-    "description": "A Lemmy instance hosted by the SDF.ORG",
-    "icon": "https://lemmy.sdf.org/pictrs/image/28cea32f-f1f8-4225-97a4-58542dd4ffd5.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -448,7 +440,7 @@
     "description": "Explore Anything, Discuss Everything.",
     "icon": "https://piefed.zip/static/images/piefed_logo_icon_t_75.png",
     "software": "piefed",
-    "registrationMode": "Closed"
+    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://programming.dev",
@@ -521,6 +513,13 @@
     "icon": "https://szmer.info/pictrs/image/XcQWr0D2CU.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://tdiy.org",
+    "host": "tdiy.org",
+    "description": "An instance dedicated to maintaining mirrors of transgender health related subreddits.",
+    "software": "lemmy",
+    "registrationMode": "Closed"
   },
   {
     "url": "https://thelemmy.club",

@@ -6,6 +6,8 @@ import fs from 'node:fs/promises'
 import path from 'node:path';
 
 const MIN_MAU = 20;
+const CRAWLER_TIMEOUT = 30 * 60 * 1000;
+const WRITE_DATA_INTERVAL = 10_000;
 
 function isSupportedSoftware(software: string) {
   switch (software.trim().toLowerCase()) {
@@ -160,13 +162,13 @@ async function crawl() {
 
   const id2 = setInterval(() => {
     write();
-  }, 10_000)
+  }, WRITE_DATA_INTERVAL)
 
   const id1 = setTimeout(() => {
     clearInterval(id2)
     crawler.autoscaledPool.abort();
     console.log("STOPPING CRAWLER DUE TO TIMEOUT")
-  }, 20 * 60 * 1000)
+  }, CRAWLER_TIMEOUT)
 
   await crawler.run([
     "https://lemmy.world",

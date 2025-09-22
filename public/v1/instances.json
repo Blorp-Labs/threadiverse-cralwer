@@ -40,6 +40,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://crust.piefed.social",
+    "host": "crust.piefed.social",
+    "description": "Explore Anything, Discuss Everything.",
+    "icon": "https://crust.piefed.social/static/media/logo_aOa5T.svg",
+    "software": "piefed",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://diggita.com",
     "host": "diggita.com",
     "description": "Giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024",
@@ -143,14 +151,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://futurology.today",
-    "host": "futurology.today",
-    "description": "A community devoted to the field of Future(s) Studies and evidence-based speculation about the development of humanity, technology, and civilization. ",
-    "icon": "https://futurology.today/pictrs/image/a8262eef-de82-4cdb-8b7c-122fcba74041.jpeg",
-    "software": "lemmy",
-    "registrationMode": "Open"
-  },
-  {
     "url": "https://hexbear.net",
     "host": "hexbear.net",
     "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
@@ -181,20 +181,20 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://lazysoci.al",
+    "host": "lazysoci.al",
+    "description": "lemmy for the lazy",
+    "icon": "https://lazysoci.al/pictrs/image/980d1065-ccfd-4ebd-b600-180fef1fc899.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://lemdro.id",
     "host": "lemdro.id",
     "description": "A place for tech enthusiasts and more!",
     "icon": "https://lemdro.id/pictrs/image/609c5787-6b5c-40e1-aba6-5123df2ea35e.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://lemmings.world",
-    "host": "lemmings.world",
-    "description": "Lemmy instance for all Lemmings (aka general purpose instance for everyone)!",
-    "icon": "https://lemmings.world/pictrs/image/2fdcd3ab-35ce-4f70-9eb4-6239c4409c60.png",
-    "software": "lemmy",
-    "registrationMode": "Open"
   },
   {
     "url": "https://lemmus.org",
@@ -253,14 +253,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://lemmy.ml",
-    "host": "lemmy.ml",
-    "description": "A community of privacy and FOSS enthusiasts, run by Lemmy’s developers",
-    "icon": "https://lemmy.ml/pictrs/image/fa6d9660-4f1f-4e90-ac73-b897216db6f3.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://lemmy.myserv.one",
     "host": "lemmy.myserv.one",
     "description": "Users are encouraged to join this Lemmy Server. This Lemmy server was setup to help reduce load on other Lemmy servers.",
@@ -284,13 +276,6 @@
     "registrationMode": "Closed"
   },
   {
-    "url": "https://lemmy.org",
-    "host": "lemmy.org",
-    "description": "General purpose Lemmy instance.",
-    "software": "lemmy",
-    "registrationMode": "Open"
-  },
-  {
     "url": "https://lemmy.pt",
     "host": "lemmy.pt",
     "description": "Uma instância pública de Lemmy dedicada a toda a comunidade de Língua Portuguesa.",
@@ -299,9 +284,25 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://lemmy.radio",
+    "host": "lemmy.radio",
+    "description": "A lemmy instance for amateur radio enthusiasts and communities.",
+    "icon": "https://lemmy.radio/pictrs/image/ac556d03-80e5-4ca4-bcce-26a93bff07d9.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.sdf.org",
+    "host": "lemmy.sdf.org",
+    "description": "A Lemmy instance hosted by the SDF.ORG",
+    "icon": "https://lemmy.sdf.org/pictrs/image/28cea32f-f1f8-4225-97a4-58542dd4ffd5.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://lemmy.today",
     "host": "lemmy.today",
-    "description": "A fast, general purpose instance located in Oregon, USA",
+    "description": "A fast, general purpose instance located in Oregon, USA. No instances blocked, true fediverse experience, no political agenda. Join us! ",
     "icon": "https://lemmy.today/pictrs/image/1207acb9-287a-40ff-b2b7-52db0636bbb0.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
@@ -536,14 +537,6 @@
     "icon": "https://ttrpg.network/pictrs/image/508a8912-7784-47ca-810b-65c9ce72c599.png",
     "software": "lemmy",
     "registrationMode": "Open"
-  },
-  {
-    "url": "https://www.chapo.chat",
-    "host": "www.chapo.chat",
-    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
-    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://www.hexbear.net",

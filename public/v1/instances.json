@@ -151,6 +151,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://forum.guncadindex.com",
+    "host": "forum.guncadindex.com",
+    "description": "The official forums of the [GunCAD Index](https://guncadindex.com)",
+    "icon": "https://forum.guncadindex.com/pictrs/image/8c7aec9e-5250-424a-bdcb-8ddeefa26a4b.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
     "url": "https://hexbear.net",
     "host": "hexbear.net",
     "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
@@ -195,6 +203,14 @@
     "icon": "https://lemdro.id/pictrs/image/609c5787-6b5c-40e1-aba6-5123df2ea35e.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmings.world",
+    "host": "lemmings.world",
+    "description": "Lemmy instance for all Lemmings (aka general purpose instance for everyone)!",
+    "icon": "https://lemmings.world/pictrs/image/2fdcd3ab-35ce-4f70-9eb4-6239c4409c60.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
   },
   {
     "url": "https://lemmus.org",
@@ -253,6 +269,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://lemmy.ml",
+    "host": "lemmy.ml",
+    "description": "A community of privacy and FOSS enthusiasts, run by Lemmy’s developers",
+    "icon": "https://lemmy.ml/pictrs/image/fa6d9660-4f1f-4e90-ac73-b897216db6f3.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://lemmy.myserv.one",
     "host": "lemmy.myserv.one",
     "description": "Users are encouraged to join this Lemmy Server. This Lemmy server was setup to help reduce load on other Lemmy servers.",
@@ -274,6 +298,13 @@
     "description": "The better front page of the internet",
     "software": "lemmy",
     "registrationMode": "Closed"
+  },
+  {
+    "url": "https://lemmy.org",
+    "host": "lemmy.org",
+    "description": "General purpose Lemmy instance.",
+    "software": "lemmy",
+    "registrationMode": "Open"
   },
   {
     "url": "https://lemmy.pt",
@@ -409,7 +440,7 @@
     "description": "Explore Anything, Discuss Everything.",
     "icon": "https://piefed.au/static/images/piefed_logo_icon_t_75.png",
     "software": "piefed",
-    "registrationMode": "RequireApplication"
+    "registrationMode": "Closed"
   },
   {
     "url": "https://piefed.ca",
@@ -537,6 +568,14 @@
     "icon": "https://ttrpg.network/pictrs/image/508a8912-7784-47ca-810b-65c9ce72c599.png",
     "software": "lemmy",
     "registrationMode": "Open"
+  },
+  {
+    "url": "https://www.chapo.chat",
+    "host": "www.chapo.chat",
+    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
+    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://www.hexbear.net",

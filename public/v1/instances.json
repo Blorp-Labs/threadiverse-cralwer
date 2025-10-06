@@ -153,8 +153,8 @@
   {
     "url": "https://forum.guncadindex.com",
     "host": "forum.guncadindex.com",
-    "description": "The official forums of the [GunCAD Index](https://guncadindex.com)",
-    "icon": "https://forum.guncadindex.com/pictrs/image/8c7aec9e-5250-424a-bdcb-8ddeefa26a4b.png",
+    "description": "The official forums of the GunCAD Index",
+    "icon": "https://forum.guncadindex.com/pictrs/image/67da7cd2-e01c-49e6-952a-fdfb114edb4e.png",
     "software": "lemmy",
     "registrationMode": "Open"
   },
@@ -249,6 +249,14 @@
     "host": "lemmy.dbzer0.com",
     "description": "Be Weird, Download a Car, Generate Art, Screw Copyrights, Do Maths",
     "icon": "https://lemmy.dbzer0.com/pictrs/image/c9915186-ca30-4f5a-873c-a91287fb4419.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.dorfrollenspiel.de",
+    "host": "lemmy.dorfrollenspiel.de",
+    "description": "Rollenspiel UnserDorf",
+    "icon": "https://lemmy.dorfrollenspiel.de/pictrs/image/1ca20db7-9140-4dde-841a-a78da15d59f5.webp",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -419,28 +427,12 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://mujico.org",
-    "host": "mujico.org",
-    "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
-    "icon": "https://mujico.org/pictrs/image/f78f4ff7-3e48-414f-abf1-102e87e72682.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://pawb.social",
     "host": "pawb.social",
     "description": "Fediverse Communities For Furries By Furries.",
     "icon": "https://pawb.social/pictrs/image/80151cb7-e0a4-4e58-93da-d23a4d1dc38e.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://piefed.au",
-    "host": "piefed.au",
-    "description": "Explore Anything, Discuss Everything.",
-    "icon": "https://piefed.au/static/images/piefed_logo_icon_t_75.png",
-    "software": "piefed",
-    "registrationMode": "Closed"
   },
   {
     "url": "https://piefed.ca",

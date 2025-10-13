@@ -159,6 +159,14 @@
     "registrationMode": "Open"
   },
   {
+    "url": "https://fosscad.io",
+    "host": "fosscad.io",
+    "description": "A home for 3D2A, FRTs, and more",
+    "icon": "https://fosscad.io/pictrs/image/2511c316-62ab-40e4-a26c-b42742f21108.webp",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
     "url": "https://hexbear.net",
     "host": "hexbear.net",
     "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
@@ -288,7 +296,7 @@
     "url": "https://lemmy.myserv.one",
     "host": "lemmy.myserv.one",
     "description": "Users are encouraged to join this Lemmy Server. This Lemmy server was setup to help reduce load on other Lemmy servers.",
-    "icon": "https://i.imgur.com/3tSHsoS.jpg",
+    "icon": "https://lemmy.myserv.one/api/v3/image_proxy?url=https%3A%2F%2Fi.imgur.com%2F3tSHsoS.jpg",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -319,14 +327,6 @@
     "host": "lemmy.pt",
     "description": "Uma instância pública de Lemmy dedicada a toda a comunidade de Língua Portuguesa.",
     "icon": "https://lemmy.pt/pictrs/image/6670473c-f67d-4cc0-bb22-6b0f8a7c6d02.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://lemmy.radio",
-    "host": "lemmy.radio",
-    "description": "A lemmy instance for amateur radio enthusiasts and communities.",
-    "icon": "https://lemmy.radio/pictrs/image/ac556d03-80e5-4ca4-bcce-26a93bff07d9.webp",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -427,10 +427,18 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://mujico.org",
+    "host": "mujico.org",
+    "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
+    "icon": "https://mujico.org/pictrs/image/f78f4ff7-3e48-414f-abf1-102e87e72682.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://pawb.social",
     "host": "pawb.social",
     "description": "Fediverse Communities For Furries By Furries.",
-    "icon": "https://pawb.social/pictrs/image/80151cb7-e0a4-4e58-93da-d23a4d1dc38e.png",
+    "icon": "https://pawb.social/pictrs/image/17af613e-79bf-4913-aff4-abb6b5837ad4.webp",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -552,6 +560,14 @@
     "icon": "https://thelemmy.club/pictrs/image/2f9791e3-7e1f-461d-9696-d89d77299124.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://thriv.social",
+    "host": "thriv.social",
+    "description": "Where conversations thrive, together.",
+    "icon": "https://thriv.social/static/media/logo_vk3sv_100.png",
+    "software": "piefed",
+    "registrationMode": "Open"
   },
   {
     "url": "https://ttrpg.network",

@@ -562,14 +562,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://thriv.social",
-    "host": "thriv.social",
-    "description": "Where conversations thrive, together.",
-    "icon": "https://thriv.social/static/media/logo_vk3sv_100.png",
-    "software": "piefed",
-    "registrationMode": "Open"
-  },
-  {
     "url": "https://ttrpg.network",
     "host": "ttrpg.network",
     "description": "a site dedicated to TTRPG discussion, memes, news, etc.",

@@ -16,14 +16,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://awful.systems",
-    "host": "awful.systems",
-    "description": "the jank is a feature",
-    "icon": "https://awful.systems/pictrs/image/31f04c12-f14b-486b-ba4f-8810789fb131.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://beehaw.org",
     "host": "beehaw.org",
     "description": "Aspiring to be(e) a safe, friendly and diverse place.",
@@ -197,28 +189,12 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://lazysoci.al",
-    "host": "lazysoci.al",
-    "description": "lemmy for the lazy",
-    "icon": "https://lazysoci.al/pictrs/image/980d1065-ccfd-4ebd-b600-180fef1fc899.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://lemdro.id",
     "host": "lemdro.id",
     "description": "A place for tech enthusiasts and more!",
     "icon": "https://lemdro.id/pictrs/image/609c5787-6b5c-40e1-aba6-5123df2ea35e.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://lemmings.world",
-    "host": "lemmings.world",
-    "description": "Lemmy instance for all Lemmings (aka general purpose instance for everyone)!",
-    "icon": "https://lemmings.world/pictrs/image/2fdcd3ab-35ce-4f70-9eb4-6239c4409c60.png",
-    "software": "lemmy",
-    "registrationMode": "Open"
   },
   {
     "url": "https://lemmus.org",
@@ -427,7 +403,7 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://mujico.org",
+    "url": "https://Mujico.org",
     "host": "mujico.org",
     "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
     "icon": "https://mujico.org/pictrs/image/f78f4ff7-3e48-414f-abf1-102e87e72682.png",
@@ -547,13 +523,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://tdiy.org",
-    "host": "tdiy.org",
-    "description": "An instance dedicated to maintaining mirrors of transgender health related subreddits.",
-    "software": "lemmy",
-    "registrationMode": "Closed"
-  },
-  {
     "url": "https://thelemmy.club",
     "host": "thelemmy.club",
     "description": "A general Lemmy instance for all!",
@@ -562,20 +531,20 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://thriv.social",
+    "host": "thriv.social",
+    "description": "Where conversations thrive, together.",
+    "icon": "https://thriv.social/static/media/logo_vk3sv_100.png",
+    "software": "piefed",
+    "registrationMode": "Open"
+  },
+  {
     "url": "https://ttrpg.network",
     "host": "ttrpg.network",
     "description": "a site dedicated to TTRPG discussion, memes, news, etc.",
     "icon": "https://ttrpg.network/pictrs/image/508a8912-7784-47ca-810b-65c9ce72c599.png",
     "software": "lemmy",
     "registrationMode": "Open"
-  },
-  {
-    "url": "https://www.chapo.chat",
-    "host": "www.chapo.chat",
-    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
-    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://www.hexbear.net",

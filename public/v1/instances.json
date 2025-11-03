@@ -16,6 +16,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://awful.systems",
+    "host": "awful.systems",
+    "description": "the jank is a feature",
+    "icon": "https://awful.systems/pictrs/image/31f04c12-f14b-486b-ba4f-8810789fb131.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://beehaw.org",
     "host": "beehaw.org",
     "description": "Aspiring to be(e) a safe, friendly and diverse place.",
@@ -29,15 +37,7 @@
     "description": "A digital retreat from a world gone mad.",
     "icon": "https://crazypeople.online/pictrs/image/fde1826b-6959-443c-8e58-4199ec355bcf.jpeg",
     "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://crust.piefed.social",
-    "host": "crust.piefed.social",
-    "description": "Explore Anything, Discuss Everything.",
-    "icon": "https://crust.piefed.social/static/media/logo_aOa5T.svg",
-    "software": "piefed",
-    "registrationMode": "RequireApplication"
+    "registrationMode": "Closed"
   },
   {
     "url": "https://diggita.com",
@@ -195,6 +195,14 @@
     "icon": "https://lemdro.id/pictrs/image/609c5787-6b5c-40e1-aba6-5123df2ea35e.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmings.world",
+    "host": "lemmings.world",
+    "description": "Lemmy instance for all Lemmings (aka general purpose instance for everyone)!",
+    "icon": "https://lemmings.world/pictrs/image/2fdcd3ab-35ce-4f70-9eb4-6239c4409c60.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
   },
   {
     "url": "https://lemmus.org",
@@ -395,15 +403,7 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://monero.town",
-    "host": "monero.town",
-    "description": "A town for the Monero community to live in.",
-    "icon": "https://monero.town/pictrs/image/ce9a9e10-6858-4096-87a1-cb32f7bb91b0.webp",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://Mujico.org",
+    "url": "https://mujico.org",
     "host": "mujico.org",
     "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
     "icon": "https://mujico.org/pictrs/image/f78f4ff7-3e48-414f-abf1-102e87e72682.png",
@@ -545,6 +545,14 @@
     "icon": "https://ttrpg.network/pictrs/image/508a8912-7784-47ca-810b-65c9ce72c599.png",
     "software": "lemmy",
     "registrationMode": "Open"
+  },
+  {
+    "url": "https://www.chapo.chat",
+    "host": "www.chapo.chat",
+    "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
+    "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://www.hexbear.net",

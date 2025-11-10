@@ -403,7 +403,15 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://mujico.org",
+    "url": "https://monero.town",
+    "host": "monero.town",
+    "description": "A town for the Monero community to live in.",
+    "icon": "https://monero.town/pictrs/image/ce9a9e10-6858-4096-87a1-cb32f7bb91b0.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://Mujico.org",
     "host": "mujico.org",
     "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
     "icon": "https://mujico.org/pictrs/image/f78f4ff7-3e48-414f-abf1-102e87e72682.png",
@@ -475,14 +483,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://scribe.disroot.org",
-    "host": "scribe.disroot.org",
-    "description": "Disroot's Community Lemmy Instance",
-    "icon": "https://scribe.disroot.org/pictrs/image/924a9b6c-bca5-4851-aadd-855b22cef9f0.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://sh.itjust.works",
     "host": "sh.itjust.works",
     "description": "A bilingual (EN/FR) general-purpose instance located in eastern Canada! Powered by 99% renewable energy! Everyone is welcome eh.",
@@ -529,14 +529,6 @@
     "icon": "https://thelemmy.club/pictrs/image/2f9791e3-7e1f-461d-9696-d89d77299124.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://thriv.social",
-    "host": "thriv.social",
-    "description": "Where conversations thrive, together.",
-    "icon": "https://thriv.social/static/media/logo_vk3sv_100.png",
-    "software": "piefed",
-    "registrationMode": "Open"
   },
   {
     "url": "https://ttrpg.network",

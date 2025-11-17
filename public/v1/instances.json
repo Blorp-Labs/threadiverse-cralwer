@@ -40,9 +40,17 @@
     "registrationMode": "Closed"
   },
   {
+    "url": "https://crust.piefed.social",
+    "host": "crust.piefed.social",
+    "description": "Explore Anything, Discuss Everything.",
+    "icon": "https://crust.piefed.social/static/media/logo_aOa5T.svg",
+    "software": "piefed",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://diggita.com",
     "host": "diggita.com",
-    "description": "Giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024",
+    "description": "Social di giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024",
     "icon": "https://diggita.com/pictrs/image/7c2c6fb8-9051-468f-b083-1171417dc2ca.jpeg",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
@@ -123,7 +131,7 @@
     "url": "https://feddit.online",
     "host": "feddit.online",
     "description": "Explore Anything, Discuss Everything",
-    "icon": "https://feddit.online/static/images/piefed_logo_icon_t_75.png",
+    "icon": "https://feddit.online/static/media/logo_fIbav.svg",
     "software": "piefed",
     "registrationMode": "Open"
   },
@@ -155,6 +163,14 @@
     "host": "fosscad.io",
     "description": "A home for 3D2A, FRTs, and more",
     "icon": "https://fosscad.io/pictrs/image/2511c316-62ab-40e4-a26c-b42742f21108.webp",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://futurology.today",
+    "host": "futurology.today",
+    "description": "A community devoted to the field of Future(s) Studies and evidence-based speculation about the development of humanity, technology, and civilization. ",
+    "icon": "https://futurology.today/pictrs/image/a8262eef-de82-4cdb-8b7c-122fcba74041.jpeg",
     "software": "lemmy",
     "registrationMode": "Open"
   },
@@ -250,15 +266,7 @@
     "description": "Rollenspiel UnserDorf",
     "icon": "https://lemmy.dorfrollenspiel.de/pictrs/image/1ca20db7-9140-4dde-841a-a78da15d59f5.webp",
     "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://lemmy.eco.br",
-    "host": "lemmy.eco.br",
-    "description": "Uma instância de Lemmy para todos os brasileiros.",
-    "icon": "https://lemmy.eco.br/pictrs/image/6d1f1752-1387-423b-a0ca-cee3589130f6.webp",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
+    "registrationMode": "Open"
   },
   {
     "url": "https://lemmy.kya.moe",
@@ -311,6 +319,14 @@
     "host": "lemmy.pt",
     "description": "Uma instância pública de Lemmy dedicada a toda a comunidade de Língua Portuguesa.",
     "icon": "https://lemmy.pt/pictrs/image/6670473c-f67d-4cc0-bb22-6b0f8a7c6d02.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.radio",
+    "host": "lemmy.radio",
+    "description": "A lemmy instance for amateur radio enthusiasts and communities.",
+    "icon": "https://lemmy.radio/pictrs/image/3d34260f-56e0-4d52-898e-748e58a3b8ce.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -411,7 +427,7 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://Mujico.org",
+    "url": "https://mujico.org",
     "host": "mujico.org",
     "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
     "icon": "https://mujico.org/pictrs/image/f78f4ff7-3e48-414f-abf1-102e87e72682.png",
@@ -438,9 +454,9 @@
     "url": "https://piefed.social",
     "host": "piefed.social",
     "description": "Explore Anything, Discuss Everything.",
-    "icon": "https://piefed.social/static/media/logo_8p7en.svg",
+    "icon": "https://piefed.social/static/media/logo_fwGOA_100.png",
     "software": "piefed",
-    "registrationMode": "Open"
+    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://piefed.world",
@@ -479,6 +495,14 @@
     "host": "retrolemmy.com",
     "description": "Your home away from modern life. Retro Gaming, tech, news, magazines and more!",
     "icon": "https://retrolemmy.com/pictrs/image/e8dd9e28-74bd-4ebc-8bfb-c1c88bdf97ab.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://scribe.disroot.org",
+    "host": "scribe.disroot.org",
+    "description": "Disroot's Community Lemmy Instance",
+    "icon": "https://scribe.disroot.org/pictrs/image/924a9b6c-bca5-4851-aadd-855b22cef9f0.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },

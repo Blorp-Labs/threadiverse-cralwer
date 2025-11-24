@@ -32,27 +32,11 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://crazypeople.online",
-    "host": "crazypeople.online",
-    "description": "A digital retreat from a world gone mad.",
-    "icon": "https://crazypeople.online/pictrs/image/fde1826b-6959-443c-8e58-4199ec355bcf.jpeg",
-    "software": "lemmy",
-    "registrationMode": "Closed"
-  },
-  {
     "url": "https://crust.piefed.social",
     "host": "crust.piefed.social",
     "description": "Explore Anything, Discuss Everything.",
     "icon": "https://crust.piefed.social/static/media/logo_aOa5T.svg",
     "software": "piefed",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://diggita.com",
-    "host": "diggita.com",
-    "description": "Social di giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024",
-    "icon": "https://diggita.com/pictrs/image/7c2c6fb8-9051-468f-b083-1171417dc2ca.jpeg",
-    "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
   {
@@ -266,7 +250,7 @@
     "description": "Rollenspiel UnserDorf",
     "icon": "https://lemmy.dorfrollenspiel.de/pictrs/image/1ca20db7-9140-4dde-841a-a78da15d59f5.webp",
     "software": "lemmy",
-    "registrationMode": "Open"
+    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://lemmy.kya.moe",
@@ -454,9 +438,9 @@
     "url": "https://piefed.social",
     "host": "piefed.social",
     "description": "Explore Anything, Discuss Everything.",
-    "icon": "https://piefed.social/static/media/logo_fwGOA_100.png",
+    "icon": "https://piefed.social/static/media/logo_8Zwod.svg",
     "software": "piefed",
-    "registrationMode": "RequireApplication"
+    "registrationMode": "Open"
   },
   {
     "url": "https://piefed.world",

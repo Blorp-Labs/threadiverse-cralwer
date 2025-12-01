@@ -40,6 +40,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://diggita.com",
+    "host": "diggita.com",
+    "description": "Social di giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024",
+    "icon": "https://diggita.com/pictrs/image/7c2c6fb8-9051-468f-b083-1171417dc2ca.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://discuss.online",
     "host": "discuss.online",
     "description": "A general purpose instance for discovery, fun, & sharing. It's a welcoming place for all.",
@@ -250,13 +258,13 @@
     "description": "Rollenspiel UnserDorf",
     "icon": "https://lemmy.dorfrollenspiel.de/pictrs/image/1ca20db7-9140-4dde-841a-a78da15d59f5.webp",
     "software": "lemmy",
-    "registrationMode": "RequireApplication"
+    "registrationMode": "Open"
   },
   {
     "url": "https://lemmy.kya.moe",
     "host": "lemmy.kya.moe",
     "description": "\"Personal\" Lemmy Instance",
-    "icon": "https://lemmy.kya.moe/imgproxy?src=lemmy.kya.moe%2fpictrs/image/1bc6d963-78f6-4be6-a269-2bc466808b86.png",
+    "icon": "https://lemmy.kya.moe/imgproxy?src=lemmy.kya.moe%2fimgproxy?src=lemmy.kya.moe%2Fpictrs%2Fimage%2F1bc6d963-78f6-4be6-a269-2bc466808b86.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -303,14 +311,6 @@
     "host": "lemmy.pt",
     "description": "Uma instância pública de Lemmy dedicada a toda a comunidade de Língua Portuguesa.",
     "icon": "https://lemmy.pt/pictrs/image/6670473c-f67d-4cc0-bb22-6b0f8a7c6d02.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://lemmy.radio",
-    "host": "lemmy.radio",
-    "description": "A lemmy instance for amateur radio enthusiasts and communities.",
-    "icon": "https://lemmy.radio/pictrs/image/3d34260f-56e0-4d52-898e-748e58a3b8ce.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -438,7 +438,7 @@
     "url": "https://piefed.social",
     "host": "piefed.social",
     "description": "Explore Anything, Discuss Everything.",
-    "icon": "https://piefed.social/static/media/logo_8Zwod.svg",
+    "icon": "https://piefed.social/static/media/logo_zI2kw_100.png",
     "software": "piefed",
     "registrationMode": "Open"
   },

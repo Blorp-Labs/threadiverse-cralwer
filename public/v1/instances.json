@@ -159,14 +159,6 @@
     "registrationMode": "Open"
   },
   {
-    "url": "https://futurology.today",
-    "host": "futurology.today",
-    "description": "A community devoted to the field of Future(s) Studies and evidence-based speculation about the development of humanity, technology, and civilization. ",
-    "icon": "https://futurology.today/pictrs/image/a8262eef-de82-4cdb-8b7c-122fcba74041.jpeg",
-    "software": "lemmy",
-    "registrationMode": "Open"
-  },
-  {
     "url": "https://hexbear.net",
     "host": "hexbear.net",
     "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
@@ -193,6 +185,14 @@
     "host": "jlai.lu",
     "description": "Instance Lemmy française, un forum de discussion pour tous les français et francophones !",
     "icon": "https://jlai.lu/pictrs/image/bff3e14d-7147-4443-bb8f-8844b91db549.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lazysoci.al",
+    "host": "lazysoci.al",
+    "description": "lemmy for the lazy",
+    "icon": "https://lazysoci.al/pictrs/image/980d1065-ccfd-4ebd-b600-180fef1fc899.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -264,7 +264,7 @@
     "url": "https://lemmy.kya.moe",
     "host": "lemmy.kya.moe",
     "description": "\"Personal\" Lemmy Instance",
-    "icon": "https://lemmy.kya.moe/imgproxy?src=lemmy.kya.moe%2fimgproxy?src=lemmy.kya.moe%2Fpictrs%2Fimage%2F1bc6d963-78f6-4be6-a269-2bc466808b86.png",
+    "icon": "https://lemmy.kya.moe/imgproxy?src=lemmy.kya.moe%2fpictrs/image/035a8c51-127f-48d5-8b68-9f335e15bca9.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -355,6 +355,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://lemmygrad.com",
+    "host": "lemmygrad.com",
+    "description": "A collection of Marxist communities, for memes, learning, news, discussion, media, or anything you like.",
+    "icon": "https://lemmygrad.ml/pictrs/image/beb2f32d-8884-49a4-b21c-7e3582c09b87.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://lemmygrad.ml",
     "host": "lemmygrad.ml",
     "description": "A collection of Marxist communities, for memes, learning, news, discussion, media, or anything you like.",
@@ -411,7 +419,7 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://mujico.org",
+    "url": "https://Mujico.org",
     "host": "mujico.org",
     "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
     "icon": "https://mujico.org/pictrs/image/f78f4ff7-3e48-414f-abf1-102e87e72682.png",

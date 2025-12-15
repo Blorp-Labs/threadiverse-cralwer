@@ -40,14 +40,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://diggita.com",
-    "host": "diggita.com",
-    "description": "Social di giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024",
-    "icon": "https://diggita.com/pictrs/image/7c2c6fb8-9051-468f-b083-1171417dc2ca.jpeg",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://discuss.online",
     "host": "discuss.online",
     "description": "A general purpose instance for discovery, fun, & sharing. It's a welcoming place for all.",
@@ -189,14 +181,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://lazysoci.al",
-    "host": "lazysoci.al",
-    "description": "lemmy for the lazy",
-    "icon": "https://lazysoci.al/pictrs/image/980d1065-ccfd-4ebd-b600-180fef1fc899.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://lemdro.id",
     "host": "lemdro.id",
     "description": "A place for tech enthusiasts and more!",
@@ -259,14 +243,6 @@
     "icon": "https://lemmy.dorfrollenspiel.de/pictrs/image/1ca20db7-9140-4dde-841a-a78da15d59f5.webp",
     "software": "lemmy",
     "registrationMode": "Open"
-  },
-  {
-    "url": "https://lemmy.kya.moe",
-    "host": "lemmy.kya.moe",
-    "description": "\"Personal\" Lemmy Instance",
-    "icon": "https://lemmy.kya.moe/imgproxy?src=lemmy.kya.moe%2fpictrs/image/035a8c51-127f-48d5-8b68-9f335e15bca9.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://lemmy.ml",

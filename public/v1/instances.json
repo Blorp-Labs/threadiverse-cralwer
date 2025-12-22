@@ -32,6 +32,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://cafe.coffee-break.cc",
+    "host": "cafe.coffee-break.cc",
+    "description": "Café Coffee BreakはMastodon / Misskey などからもフォロー可能なコミュニティサイトです。",
+    "icon": "https://cafe.coffee-break.cc/static/media/logo_X4fAm_100.png",
+    "software": "piefed",
+    "registrationMode": "Open"
+  },
+  {
     "url": "https://crust.piefed.social",
     "host": "crust.piefed.social",
     "description": "Explore Anything, Discuss Everything.",
@@ -44,14 +52,6 @@
     "host": "discuss.online",
     "description": "A general purpose instance for discovery, fun, & sharing. It's a welcoming place for all.",
     "icon": "https://discuss.online/pictrs/image/1bbc1cb7-3eb1-484a-aeb9-e2b803a3e50a.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://discuss.tchncs.de",
-    "host": "discuss.tchncs.de",
-    "description": "Enjoy your favorite Lemmy communities at tchncs! This instance is general purpose but it tends to attract techy people. It is hosted in Germany.",
-    "icon": "https://discuss.tchncs.de/pictrs/image/2254acd7-9ce1-4b07-b334-15631f2847e2.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -155,14 +155,6 @@
     "host": "hexbear.net",
     "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
     "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://hilariouschaos.com",
-    "host": "hilariouschaos.com",
-    "description": "A Dope Ass Lemmy Community",
-    "icon": "https://hilariouschaos.com/pictrs/image/78983b5d-bdac-4cf5-9f79-9f3759ef3cba.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -287,6 +279,14 @@
     "host": "lemmy.pt",
     "description": "Uma instância pública de Lemmy dedicada a toda a comunidade de Língua Portuguesa.",
     "icon": "https://lemmy.pt/pictrs/image/6670473c-f67d-4cc0-bb22-6b0f8a7c6d02.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.radio",
+    "host": "lemmy.radio",
+    "description": "A lemmy instance for amateur radio enthusiasts and communities.",
+    "icon": "https://lemmy.radio/pictrs/image/3d34260f-56e0-4d52-898e-748e58a3b8ce.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },

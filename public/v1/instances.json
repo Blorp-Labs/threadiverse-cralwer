@@ -1,17 +1,9 @@
 [
   {
-    "url": "https://anarchist.nexus",
-    "host": "anarchist.nexus",
-    "description": "No Gods, no Masters — just each other.",
-    "icon": "https://anarchist.nexus/static/media/logo_h4QCO_100.png",
-    "software": "piefed",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://ani.social",
     "host": "ani.social",
     "description": "A Social Hub for Anime Fans!",
-    "icon": "https://ani.social/pictrs/image/a9b3073a-a90a-4f6a-a6d9-99a347eb2deb.webp",
+    "icon": "https://ani.social/pictrs/image/ed6491ea-56dc-4089-ad63-f19975b76c22.webp",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -40,6 +32,14 @@
     "registrationMode": "Open"
   },
   {
+    "url": "https://chatgptjailbreak.tech",
+    "host": "chatgptjailbreak.tech",
+    "description": "The number one Lemmy community for jailbreak prompts against commercial LLMs.",
+    "icon": "https://chatgptjailbreak.tech/pictrs/image/0a77f46a-c394-46ce-b270-a7fcc5ffb4fd.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://crust.piefed.social",
     "host": "crust.piefed.social",
     "description": "Explore Anything, Discuss Everything.",
@@ -52,6 +52,14 @@
     "host": "discuss.online",
     "description": "A general purpose instance for discovery, fun, & sharing. It's a welcoming place for all.",
     "icon": "https://discuss.online/pictrs/image/1bbc1cb7-3eb1-484a-aeb9-e2b803a3e50a.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://discuss.tchncs.de",
+    "host": "discuss.tchncs.de",
+    "description": "Enjoy your favorite Lemmy communities at tchncs! This instance is general purpose but it tends to attract techy people. It is hosted in Germany.",
+    "icon": "https://discuss.tchncs.de/pictrs/image/2254acd7-9ce1-4b07-b334-15631f2847e2.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -124,7 +132,7 @@
     "host": "feddit.org",
     "icon": "https://feddit.org/pictrs/image/3040be45-1c62-4f5a-8786-aeee71ad37e8.png",
     "software": "lemmy",
-    "registrationMode": "RequireApplication"
+    "registrationMode": "Open"
   },
   {
     "url": "https://feddit.uk",
@@ -283,14 +291,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://lemmy.radio",
-    "host": "lemmy.radio",
-    "description": "A lemmy instance for amateur radio enthusiasts and communities.",
-    "icon": "https://lemmy.radio/pictrs/image/3d34260f-56e0-4d52-898e-748e58a3b8ce.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://lemmy.sdf.org",
     "host": "lemmy.sdf.org",
     "description": "A Lemmy instance hosted by the SDF.ORG",
@@ -398,7 +398,7 @@
     "url": "https://Mujico.org",
     "host": "mujico.org",
     "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
-    "icon": "https://mujico.org/pictrs/image/f78f4ff7-3e48-414f-abf1-102e87e72682.png",
+    "icon": "https://mujico.org/pictrs/image/3d49a92c-9c7e-4813-b455-479447970e37.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -463,14 +463,6 @@
     "host": "retrolemmy.com",
     "description": "Your home away from modern life. Retro Gaming, tech, news, magazines and more!",
     "icon": "https://retrolemmy.com/pictrs/image/e8dd9e28-74bd-4ebc-8bfb-c1c88bdf97ab.webp",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://scribe.disroot.org",
-    "host": "scribe.disroot.org",
-    "description": "Disroot's Community Lemmy Instance",
-    "icon": "https://scribe.disroot.org/pictrs/image/924a9b6c-bca5-4851-aadd-855b22cef9f0.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },

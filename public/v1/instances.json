@@ -3,7 +3,7 @@
     "url": "https://ani.social",
     "host": "ani.social",
     "description": "A Social Hub for Anime Fans!",
-    "icon": "https://ani.social/pictrs/image/ed6491ea-56dc-4089-ad63-f19975b76c22.webp",
+    "icon": "https://ani.social/pictrs/image/9fd75459-40da-44ae-9bf1-7a069af002d4.webp",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -132,7 +132,7 @@
     "host": "feddit.org",
     "icon": "https://feddit.org/pictrs/image/3040be45-1c62-4f5a-8786-aeee71ad37e8.png",
     "software": "lemmy",
-    "registrationMode": "Open"
+    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://feddit.uk",
@@ -291,6 +291,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://lemmy.radio",
+    "host": "lemmy.radio",
+    "description": "A lemmy instance for amateur radio enthusiasts and communities.",
+    "icon": "https://lemmy.radio/pictrs/image/3d34260f-56e0-4d52-898e-748e58a3b8ce.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://lemmy.sdf.org",
     "host": "lemmy.sdf.org",
     "description": "A Lemmy instance hosted by the SDF.ORG",
@@ -397,7 +405,7 @@
   {
     "url": "https://Mujico.org",
     "host": "mujico.org",
-    "description": "\"No somos de izquierda ni de derecha, somos los de abajo\"",
+    "description": "**¡Bienvenidos Mujicanos de nacimiento y de corazón!**",
     "icon": "https://mujico.org/pictrs/image/3d49a92c-9c7e-4813-b455-479447970e37.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
@@ -463,6 +471,14 @@
     "host": "retrolemmy.com",
     "description": "Your home away from modern life. Retro Gaming, tech, news, magazines and more!",
     "icon": "https://retrolemmy.com/pictrs/image/e8dd9e28-74bd-4ebc-8bfb-c1c88bdf97ab.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://scribe.disroot.org",
+    "host": "scribe.disroot.org",
+    "description": "Disroot's Community Lemmy Instance",
+    "icon": "https://scribe.disroot.org/pictrs/image/924a9b6c-bca5-4851-aadd-855b22cef9f0.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },

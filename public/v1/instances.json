@@ -48,6 +48,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://diggita.com",
+    "host": "diggita.com",
+    "description": "Social di giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024",
+    "icon": "https://diggita.com/pictrs/image/7c2c6fb8-9051-468f-b083-1171417dc2ca.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://discuss.online",
     "host": "discuss.online",
     "description": "A general purpose instance for discovery, fun, & sharing. It's a welcoming place for all.",
@@ -159,10 +167,26 @@
     "registrationMode": "Open"
   },
   {
+    "url": "https://futurology.today",
+    "host": "futurology.today",
+    "description": "A community devoted to the field of Future(s) Studies and evidence-based speculation about the development of humanity, technology, and civilization. ",
+    "icon": "https://futurology.today/pictrs/image/a8262eef-de82-4cdb-8b7c-122fcba74041.jpeg",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
     "url": "https://hexbear.net",
     "host": "hexbear.net",
     "description": "A leftist social platform centered around community building through discussion, shitposting memes, and sharing content.",
     "icon": "https://hexbear.net/pictrs/image/d867623b-c069-4fb7-bc25-73bd0776362d.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://hilariouschaos.com",
+    "host": "hilariouschaos.com",
+    "description": "A Dope Ass Lemmy Community",
+    "icon": "https://hilariouschaos.com/pictrs/image/78983b5d-bdac-4cf5-9f79-9f3759ef3cba.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -283,22 +307,6 @@
     "registrationMode": "Open"
   },
   {
-    "url": "https://lemmy.pt",
-    "host": "lemmy.pt",
-    "description": "Uma instância pública de Lemmy dedicada a toda a comunidade de Língua Portuguesa.",
-    "icon": "https://lemmy.pt/pictrs/image/6670473c-f67d-4cc0-bb22-6b0f8a7c6d02.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://lemmy.radio",
-    "host": "lemmy.radio",
-    "description": "A lemmy instance for amateur radio enthusiasts and communities.",
-    "icon": "https://lemmy.radio/pictrs/image/3d34260f-56e0-4d52-898e-748e58a3b8ce.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://lemmy.sdf.org",
     "host": "lemmy.sdf.org",
     "description": "A Lemmy instance hosted by the SDF.ORG",
@@ -360,7 +368,7 @@
     "description": "NSFW (18+) only instance for Lemmy",
     "icon": "https://lemmynsfw.com/pictrs/image/76ea302e-6e86-486f-8ec2-0142b7eabb1f.png",
     "software": "lemmy",
-    "registrationMode": "Open"
+    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://lemy.lol",
@@ -503,14 +511,6 @@
     "host": "sopuli.xyz",
     "description": "A general-purpose instance run by a Finn - everyone is welcome here!",
     "icon": "https://sopuli.xyz/pictrs/image/9c6eeb58-bf66-4a15-9537-0a822f3c4feb.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://startrek.website",
-    "host": "startrek.website",
-    "description": "A Lemmy instance operated by ex-Reddit moderators from the StarTrek, Risa, and Daystrom Institute communities",
-    "icon": "https://startrek.website/pictrs/image/6b738eff-608a-4d58-90a8-1ed99327afd5.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },

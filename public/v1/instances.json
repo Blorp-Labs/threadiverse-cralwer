@@ -37,7 +37,7 @@
     "description": "The number one Lemmy community for jailbreak prompts against commercial LLMs.",
     "icon": "https://chatgptjailbreak.tech/pictrs/image/0a77f46a-c394-46ce-b270-a7fcc5ffb4fd.webp",
     "software": "lemmy",
-    "registrationMode": "RequireApplication"
+    "registrationMode": "Open"
   },
   {
     "url": "https://diggita.com",
@@ -369,7 +369,7 @@
     "description": "NSFW (18+) only instance for Lemmy",
     "icon": "https://lemmynsfw.com/pictrs/image/76ea302e-6e86-486f-8ec2-0142b7eabb1f.png",
     "software": "lemmy",
-    "registrationMode": "Open"
+    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://lemy.lol",

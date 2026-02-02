@@ -3,7 +3,7 @@
     "url": "https://ani.social",
     "host": "ani.social",
     "description": "A Social Hub for Anime Fans!",
-    "icon": "https://ani.social/pictrs/image/9fd75459-40da-44ae-9bf1-7a069af002d4.webp",
+    "icon": "https://ani.social/pictrs/image/8c172531-bf28-437f-97c2-6a0a1e65f3e2.webp",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -22,14 +22,6 @@
     "icon": "https://beehaw.org/img/logo_192.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://cafe.coffee-break.cc",
-    "host": "cafe.coffee-break.cc",
-    "description": "Café Coffee BreakはMastodon / Misskey などからもフォロー可能なコミュニティサイトです。",
-    "icon": "https://cafe.coffee-break.cc/static/media/logo_X4fAm_100.png",
-    "software": "piefed",
-    "registrationMode": "Open"
   },
   {
     "url": "https://chatgptjailbreak.tech",
@@ -206,6 +198,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://lemmings.world",
+    "host": "lemmings.world",
+    "description": "Lemmy instance for all Lemmings (aka general purpose instance for everyone)!",
+    "icon": "https://lemmings.world/pictrs/image/2fdcd3ab-35ce-4f70-9eb4-6239c4409c60.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
     "url": "https://lemmus.org",
     "host": "lemmus.org",
     "description": "General purpose Lemmy instance. Fast & Free for all to use!",
@@ -228,14 +228,6 @@
     "icon": "https://lemmy.ca/pictrs/image/972a47e9-05be-40d0-b5ea-36c81a43b56b.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://lemmy.cafe",
-    "host": "lemmy.cafe",
-    "description": "A general purpose fediverse instance",
-    "icon": "https://lemmy.cafe/static-img/site-icon.webp",
-    "software": "lemmy",
-    "registrationMode": "Open"
   },
   {
     "url": "https://lemmy.dbzer0.com",
@@ -412,12 +404,20 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://Mujico.org",
+    "url": "https://mujico.org",
     "host": "mujico.org",
     "description": "**¡Bienvenidos Mujicanos de nacimiento y de corazón!**",
     "icon": "https://mujico.org/pictrs/image/3d49a92c-9c7e-4813-b455-479447970e37.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://multiverse.soulism.net",
+    "host": "multiverse.soulism.net",
+    "description": "Destroy Reality. Create a Multiverse.",
+    "icon": "https://multiverse.soulism.net/static/media/logo_OQjCz_100.png",
+    "software": "piefed",
+    "registrationMode": "Open"
   },
   {
     "url": "https://pawb.social",
@@ -440,6 +440,14 @@
     "host": "piefed.social",
     "description": "Explore Anything, Discuss Everything.",
     "icon": "https://piefed.social/static/media/logo_zI2kw_100.png",
+    "software": "piefed",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://piefed.soulism.net",
+    "host": "piefed.soulism.net",
+    "description": "Destroy Reality. Create a Multiverse.",
+    "icon": "https://multiverse.soulism.net/static/media/logo_OQjCz_100.png",
     "software": "piefed",
     "registrationMode": "Open"
   },
@@ -538,14 +546,6 @@
     "icon": "https://thelemmy.club/pictrs/image/2f9791e3-7e1f-461d-9696-d89d77299124.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://ttrpg.network",
-    "host": "ttrpg.network",
-    "description": "a site dedicated to TTRPG discussion, memes, news, etc.",
-    "icon": "https://ttrpg.network/pictrs/image/508a8912-7784-47ca-810b-65c9ce72c599.png",
-    "software": "lemmy",
-    "registrationMode": "Open"
   },
   {
     "url": "https://www.chapo.chat",

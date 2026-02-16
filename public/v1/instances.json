@@ -29,14 +29,6 @@
     "description": "The number one Lemmy community for jailbreak prompts against commercial LLMs.",
     "icon": "https://chatgptjailbreak.tech/pictrs/image/0a77f46a-c394-46ce-b270-a7fcc5ffb4fd.webp",
     "software": "lemmy",
-    "registrationMode": "Open"
-  },
-  {
-    "url": "https://diggita.com",
-    "host": "diggita.com",
-    "description": "Social di giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024",
-    "icon": "https://diggita.com/pictrs/image/7c2c6fb8-9051-468f-b083-1171417dc2ca.jpeg",
-    "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
   {
@@ -88,14 +80,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://feddit.fr",
-    "host": "feddit.fr",
-    "description": "Une porte sur l'internet libre.",
-    "icon": "https://feddit.fr/static/media/logo_xTLwZ.svg",
-    "software": "piefed",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://feddit.it",
     "host": "feddit.it",
     "description": "La migliore alternativa italiana e decentralizzata a Reddit, benvenutǝ!",
@@ -144,26 +128,10 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://forum.guncadindex.com",
-    "host": "forum.guncadindex.com",
-    "description": "The official forums of the GunCAD Index",
-    "icon": "https://forum.guncadindex.com/pictrs/image/67da7cd2-e01c-49e6-952a-fdfb114edb4e.png",
-    "software": "lemmy",
-    "registrationMode": "Open"
-  },
-  {
     "url": "https://fosscad.io",
     "host": "fosscad.io",
     "description": "A home for 3D2A, FRTs, and more",
     "icon": "https://fosscad.io/pictrs/image/2511c316-62ab-40e4-a26c-b42742f21108.webp",
-    "software": "lemmy",
-    "registrationMode": "Open"
-  },
-  {
-    "url": "https://futurology.today",
-    "host": "futurology.today",
-    "description": "A community devoted to the field of Future(s) Studies and evidence-based speculation about the development of humanity, technology, and civilization. ",
-    "icon": "https://futurology.today/pictrs/image/a8262eef-de82-4cdb-8b7c-122fcba74041.jpeg",
     "software": "lemmy",
     "registrationMode": "Open"
   },
@@ -198,6 +166,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://kopitalk.net",
+    "host": "kopitalk.net",
+    "description": "Explore Anything, Discuss Everything.",
+    "icon": "https://kopitalk.net/static/images/piefed_logo_icon_t_75.png",
+    "software": "piefed",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://lemdro.id",
     "host": "lemdro.id",
     "description": "A place for tech enthusiasts and more!",
@@ -222,28 +198,12 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://lemmy.blahaj.zone",
-    "host": "lemmy.blahaj.zone",
-    "description": "A general purpose lemmy instance for gender diverse folk and their allies. ",
-    "icon": "https://lemmy.blahaj.zone/pictrs/image/3e1a4ae0-fd38-4ea5-b9ca-da069cded5d7.webp",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://lemmy.ca",
     "host": "lemmy.ca",
     "description": "A Canadian-run community, geared towards Canadians, but all are welcome!",
     "icon": "https://lemmy.ca/pictrs/image/972a47e9-05be-40d0-b5ea-36c81a43b56b.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://lemmy.cafe",
-    "host": "lemmy.cafe",
-    "description": "A general purpose fediverse instance",
-    "icon": "https://lemmy.cafe/static-img/site-icon.webp",
-    "software": "lemmy",
-    "registrationMode": "Open"
   },
   {
     "url": "https://lemmy.dbzer0.com",
@@ -372,18 +332,18 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://lemmynsfw.com",
-    "host": "lemmynsfw.com",
-    "description": "NSFW (18+) only instance for Lemmy",
-    "icon": "https://lemmynsfw.com/pictrs/image/76ea302e-6e86-486f-8ec2-0142b7eabb1f.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://lemy.lol",
     "host": "lemy.lol",
     "description": "Best instance of fediverse 😎",
     "icon": "https://lemy.lol/pictrs/image/6efeae75-9642-4383-902a-cc271693b9c2.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemy.nl",
+    "host": "lemy.nl",
+    "description": "Nederlandse Lemmy server",
+    "icon": "https://lemy.nl/pictrs/image/4cddb585-1161-4f2a-9762-5e00da82f086.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -408,22 +368,6 @@
     "host": "midwest.social",
     "description": "A lemmy server for, but not limited to, leftists in the Midwest USA",
     "icon": "https://midwest.social/pictrs/image/e2a28e91-529b-46ac-8fe7-e0e22a8b517a.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://monero.town",
-    "host": "monero.town",
-    "description": "A town for the Monero community to live in.",
-    "icon": "https://monero.town/pictrs/image/ce9a9e10-6858-4096-87a1-cb32f7bb91b0.webp",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://mujico.org",
-    "host": "mujico.org",
-    "description": "**¡Bienvenidos Mujicanos de nacimiento y de corazón!**",
-    "icon": "https://mujico.org/pictrs/image/3d49a92c-9c7e-4813-b455-479447970e37.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -512,14 +456,6 @@
     "host": "sh.itjust.works",
     "description": "A bilingual (EN/FR) general-purpose instance located in eastern Canada! Powered by 99% renewable energy! Everyone is welcome eh.",
     "icon": "https://sh.itjust.works/pictrs/image/fb4c11a2-f533-4b0b-8f74-466132d93c72.webp",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://slrpnk.net",
-    "host": "slrpnk.net",
-    "description": "Solarpunk imagines a world in which today’s existential threat - the climate crisis - is being approached with camaraderie and adaptive ingenuity.",
-    "icon": "https://slrpnk.net/pictrs/image/bb8631b7-231b-4709-823d-fa4c8e201866.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },

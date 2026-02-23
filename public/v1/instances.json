@@ -32,6 +32,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://crazypeople.online",
+    "host": "crazypeople.online",
+    "description": "A digital retreat from a world gone mad.",
+    "icon": "https://crazypeople.online/pictrs/image/6e31133c-de37-42b1-ae41-45011d1b59c5.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://discuss.online",
     "host": "discuss.online",
     "description": "A general purpose instance for discovery, fun, & sharing. It's a welcoming place for all.",
@@ -128,6 +136,22 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://fedinsfw.app",
+    "host": "fedinsfw.app",
+    "description": "A General/NSFW instance, 18+",
+    "icon": "https://fedinsfw.app/static/media/logo_TZJeh_100.png",
+    "software": "piefed",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://forum.guncadindex.com",
+    "host": "forum.guncadindex.com",
+    "description": "The official forums of the GunCAD Index",
+    "icon": "https://forum.guncadindex.com/pictrs/image/67da7cd2-e01c-49e6-952a-fdfb114edb4e.png",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
     "url": "https://fosscad.io",
     "host": "fosscad.io",
     "description": "A home for 3D2A, FRTs, and more",
@@ -163,14 +187,6 @@
     "description": "Instance Lemmy française, un forum de discussion pour tous les français et francophones !",
     "icon": "https://jlai.lu/pictrs/image/bff3e14d-7147-4443-bb8f-8844b91db549.png",
     "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://kopitalk.net",
-    "host": "kopitalk.net",
-    "description": "Explore Anything, Discuss Everything.",
-    "icon": "https://kopitalk.net/static/images/piefed_logo_icon_t_75.png",
-    "software": "piefed",
     "registrationMode": "RequireApplication"
   },
   {
@@ -286,8 +302,8 @@
   {
     "url": "https://lemmy.today",
     "host": "lemmy.today",
-    "description": "A fast, general purpose instance located in Oregon, USA. No instances blocked, true fediverse experience, no political agenda. Join us! ",
-    "icon": "https://lemmy.today/pictrs/image/1207acb9-287a-40ff-b2b7-52db0636bbb0.png",
+    "description": "We are a fast general purpose instance located in Oregon, USA. No instances blocked, true fediverse experience, no political agenda.",
+    "icon": "https://lemmy.today/pictrs/image/979ade0b-72eb-4f8c-b404-41042667c5d2.webp",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -340,22 +356,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://lemy.nl",
-    "host": "lemy.nl",
-    "description": "Nederlandse Lemmy server",
-    "icon": "https://lemy.nl/pictrs/image/4cddb585-1161-4f2a-9762-5e00da82f086.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://literature.cafe",
-    "host": "literature.cafe",
-    "description": "A Cozy Place for Book Lovers, Readers And Writers",
-    "icon": "https://literature.cafe/pictrs/image/941180b9-e8ad-436d-8aa7-45e321b30ed6.webp",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://mander.xyz",
     "host": "mander.xyz",
     "description": "An instance dedicated to nature and science.",
@@ -368,6 +368,14 @@
     "host": "midwest.social",
     "description": "A lemmy server for, but not limited to, leftists in the Midwest USA",
     "icon": "https://midwest.social/pictrs/image/e2a28e91-529b-46ac-8fe7-e0e22a8b517a.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://mujico.org",
+    "host": "mujico.org",
+    "description": "**¡Bienvenidos Mujicanos de nacimiento y de corazón!**",
+    "icon": "https://mujico.org/pictrs/image/3d49a92c-9c7e-4813-b455-479447970e37.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -428,6 +436,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://quokk.au",
+    "host": "quokk.au",
+    "description": "What The Quokk!",
+    "icon": "https://quokk.au/static/media/logo_wPTz7_100.png",
+    "software": "piefed",
+    "registrationMode": "Open"
+  },
+  {
     "url": "https://reddthat.com",
     "host": "reddthat.com",
     "description": "A general Lemmy instance prioritising thoughtful communication and enjoyable communities. No email required and New communities always welcome!",
@@ -456,6 +472,14 @@
     "host": "sh.itjust.works",
     "description": "A bilingual (EN/FR) general-purpose instance located in eastern Canada! Powered by 99% renewable energy! Everyone is welcome eh.",
     "icon": "https://sh.itjust.works/pictrs/image/fb4c11a2-f533-4b0b-8f74-466132d93c72.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://slrpnk.net",
+    "host": "slrpnk.net",
+    "description": "Solarpunk imagines a world in which today’s existential threat - the climate crisis - is being approached with camaraderie and adaptive ingenuity.",
+    "icon": "https://slrpnk.net/pictrs/image/bb8631b7-231b-4709-823d-fa4c8e201866.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },

@@ -40,6 +40,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://diggita.com",
+    "host": "diggita.com",
+    "description": "Social di giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024, dal 2025 parte dell'associazione noprofit Fedimedia APS",
+    "icon": "https://diggita.com/pictrs/image/7c2c6fb8-9051-468f-b083-1171417dc2ca.jpeg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://discuss.online",
     "host": "discuss.online",
     "description": "A general purpose instance for discovery, fun, & sharing. It's a welcoming place for all.",
@@ -198,14 +206,6 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://lemmings.world",
-    "host": "lemmings.world",
-    "description": "Lemmy instance for all Lemmings (aka general purpose instance for everyone)!",
-    "icon": "https://lemmings.world/pictrs/image/2fdcd3ab-35ce-4f70-9eb4-6239c4409c60.png",
-    "software": "lemmy",
-    "registrationMode": "Open"
-  },
-  {
     "url": "https://lemmus.org",
     "host": "lemmus.org",
     "description": "General purpose Lemmy instance. Fast & Free for all to use!",
@@ -220,6 +220,14 @@
     "icon": "https://lemmy.ca/pictrs/image/972a47e9-05be-40d0-b5ea-36c81a43b56b.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmy.cafe",
+    "host": "lemmy.cafe",
+    "description": "A general purpose fediverse instance",
+    "icon": "https://lemmy.cafe/static-img/site-icon.webp",
+    "software": "lemmy",
+    "registrationMode": "Open"
   },
   {
     "url": "https://lemmy.dbzer0.com",
@@ -340,18 +348,18 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://lemmygrad.ml",
-    "host": "lemmygrad.ml",
-    "description": "A collection of Marxist communities, for memes, learning, news, discussion, media, or anything you like.",
-    "icon": "https://lemmygrad.ml/pictrs/image/beb2f32d-8884-49a4-b21c-7e3582c09b87.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://lemy.lol",
     "host": "lemy.lol",
     "description": "Best instance of fediverse 😎",
     "icon": "https://lemy.lol/pictrs/image/6efeae75-9642-4383-902a-cc271693b9c2.webp",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://literature.cafe",
+    "host": "literature.cafe",
+    "description": "A Cozy Place for Book Lovers, Readers And Writers",
+    "icon": "https://literature.cafe/pictrs/image/941180b9-e8ad-436d-8aa7-45e321b30ed6.webp",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -372,7 +380,7 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://mujico.org",
+    "url": "https://Mujico.org",
     "host": "mujico.org",
     "description": "**¡Bienvenidos Mujicanos de nacimiento y de corazón!**",
     "icon": "https://mujico.org/pictrs/image/3d49a92c-9c7e-4813-b455-479447970e37.png",
@@ -384,6 +392,14 @@
     "host": "multiverse.soulism.net",
     "description": "Destroy Reality. Create a Multiverse.",
     "icon": "https://multiverse.soulism.net/static/media/logo_OQjCz_100.png",
+    "software": "piefed",
+    "registrationMode": "Open"
+  },
+  {
+    "url": "https://nord.pub",
+    "host": "nord.pub",
+    "description": "A Nordic gateway to the Fediverse",
+    "icon": "https://nord.pub/static/images/piefed_logo_icon_t_75.png",
     "software": "piefed",
     "registrationMode": "Open"
   },
@@ -434,14 +450,6 @@
     "icon": "https://programming.dev/pictrs/image/1e947440-0f0d-4768-ba4b-1480551e7cc9.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://quokk.au",
-    "host": "quokk.au",
-    "description": "What The Quokk!",
-    "icon": "https://quokk.au/static/media/logo_wPTz7_100.png",
-    "software": "piefed",
-    "registrationMode": "Open"
   },
   {
     "url": "https://reddthat.com",

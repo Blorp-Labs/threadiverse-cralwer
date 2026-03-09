@@ -348,6 +348,22 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://lemmygrad.ml",
+    "host": "lemmygrad.ml",
+    "description": "A collection of Marxist communities, for memes, learning, news, discussion, media, or anything you like.",
+    "icon": "https://lemmygrad.ml/pictrs/image/beb2f32d-8884-49a4-b21c-7e3582c09b87.png",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
+    "url": "https://lemmynsfw.com",
+    "host": "lemmynsfw.com",
+    "description": "NSFW (18+) only instance for Lemmy",
+    "icon": "https://lemmynsfw.com/pictrs/image/76ea302e-6e86-486f-8ec2-0142b7eabb1f.png",
+    "software": "lemmy",
+    "registrationMode": "Closed"
+  },
+  {
     "url": "https://lemy.lol",
     "host": "lemy.lol",
     "description": "Best instance of fediverse 😎",
@@ -380,20 +396,12 @@
     "registrationMode": "RequireApplication"
   },
   {
-    "url": "https://Mujico.org",
+    "url": "https://mujico.org",
     "host": "mujico.org",
     "description": "**¡Bienvenidos Mujicanos de nacimiento y de corazón!**",
     "icon": "https://mujico.org/pictrs/image/3d49a92c-9c7e-4813-b455-479447970e37.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://multiverse.soulism.net",
-    "host": "multiverse.soulism.net",
-    "description": "Destroy Reality. Create a Multiverse.",
-    "icon": "https://multiverse.soulism.net/static/media/logo_OQjCz_100.png",
-    "software": "piefed",
-    "registrationMode": "Open"
   },
   {
     "url": "https://nord.pub",
@@ -425,7 +433,7 @@
     "description": "Explore Anything, Discuss Everything.",
     "icon": "https://piefed.social/static/media/logo_zI2kw_100.png",
     "software": "piefed",
-    "registrationMode": "Open"
+    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://piefed.world",

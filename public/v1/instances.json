@@ -1,13 +1,5 @@
 [
   {
-    "url": "https://anarchist.nexus",
-    "host": "anarchist.nexus",
-    "description": "No Gods, no Masters — just each other.",
-    "icon": "https://anarchist.nexus/static/media/logo_h4QCO_100.png",
-    "software": "piefed",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://ani.social",
     "host": "ani.social",
     "description": "A Social Hub for Anime Fans!",
@@ -36,14 +28,6 @@
     "host": "crazypeople.online",
     "description": "A digital retreat from a world gone mad.",
     "icon": "https://crazypeople.online/pictrs/image/6e31133c-de37-42b1-ae41-45011d1b59c5.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://diggita.com",
-    "host": "diggita.com",
-    "description": "Social di giornalismo partecipativo dal 2007, nel fediverso con lemmy dal 2024, dal 2025 parte dell'associazione noprofit Fedimedia APS",
-    "icon": "https://diggita.com/pictrs/image/7c2c6fb8-9051-468f-b083-1171417dc2ca.jpeg",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -238,6 +222,14 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://lemmy.cafe",
+    "host": "lemmy.cafe",
+    "description": "A general purpose fediverse instance",
+    "icon": "https://lemmy.cafe/static-img/site-icon.webp",
+    "software": "lemmy",
+    "registrationMode": "Open"
+  },
+  {
     "url": "https://lemmy.dbzer0.com",
     "host": "lemmy.dbzer0.com",
     "description": "Be Weird, Download a Car, Generate Art, Screw Copyrights, Do Maths",
@@ -262,19 +254,20 @@
     "registrationMode": "RequireApplication"
   },
   {
+    "url": "https://lemmy.myserv.one",
+    "host": "lemmy.myserv.one",
+    "description": "Users are encouraged to join this Lemmy Server. This Lemmy server was setup to help reduce load on other Lemmy servers.",
+    "icon": "https://lemmy.myserv.one/api/v3/image_proxy?url=https%3A%2F%2Fi.imgur.com%2F3tSHsoS.jpg",
+    "software": "lemmy",
+    "registrationMode": "RequireApplication"
+  },
+  {
     "url": "https://lemmy.nz",
     "host": "lemmy.nz",
     "description": "Lemmy for New Zealanders",
     "icon": "https://lemmy.nz/pictrs/image/d308ef8d-4381-4a7a-b047-569ed5b8dd88.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://lemmy.one",
-    "host": "lemmy.one",
-    "description": "The better front page of the internet",
-    "software": "lemmy",
-    "registrationMode": "Closed"
   },
   {
     "url": "https://lemmy.org",
@@ -284,26 +277,10 @@
     "registrationMode": "Open"
   },
   {
-    "url": "https://lemmy.pt",
-    "host": "lemmy.pt",
-    "description": "Uma instância pública de Lemmy dedicada a toda a comunidade de Língua Portuguesa.",
-    "icon": "https://lemmy.pt/pictrs/image/6670473c-f67d-4cc0-bb22-6b0f8a7c6d02.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
     "url": "https://lemmy.radio",
     "host": "lemmy.radio",
     "description": "A lemmy instance for amateur radio enthusiasts and communities.",
     "icon": "https://lemmy.radio/pictrs/image/3d34260f-56e0-4d52-898e-748e58a3b8ce.png",
-    "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://lemmy.sdf.org",
-    "host": "lemmy.sdf.org",
-    "description": "A Lemmy instance hosted by the SDF.ORG",
-    "icon": "https://lemmy.sdf.org/pictrs/image/28cea32f-f1f8-4225-97a4-58542dd4ffd5.png",
     "software": "lemmy",
     "registrationMode": "RequireApplication"
   },
@@ -409,7 +386,7 @@
     "description": "A Nordic gateway to the Fediverse",
     "icon": "https://nord.pub/static/images/piefed_logo_icon_t_75.png",
     "software": "piefed",
-    "registrationMode": "Open"
+    "registrationMode": "RequireApplication"
   },
   {
     "url": "https://pawb.social",
@@ -417,14 +394,6 @@
     "description": "Fediverse Communities For Furries By Furries.",
     "icon": "https://pawb.social/pictrs/image/17af613e-79bf-4913-aff4-abb6b5837ad4.webp",
     "software": "lemmy",
-    "registrationMode": "RequireApplication"
-  },
-  {
-    "url": "https://piefed.ca",
-    "host": "piefed.ca",
-    "description": "A Canadian-run community, geared towards Canadians, but all are welcome!",
-    "icon": "https://piefed.ca/static/media/logo_VpG9e_100.png",
-    "software": "piefed",
     "registrationMode": "RequireApplication"
   },
   {
